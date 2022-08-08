@@ -1,0 +1,1049 @@
+id,number,code,name,type_one,type_two,colour,ability_one,ability_two,ability_hidden,generation,legendary,mega_evo,height,weight,hp,atk,def,sp_atk,sp_def,spd,total_stat,created_at,updated_at
+1,1,1,Bulbasaur,Grass,Poison,Green,Overgrow,,Chrolophyll,1,false,false,0.7,6.9,45,49,49,65,65,45,318,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+2,2,1,Ivysaur,Grass,Poison,Green,Overgrow,,Chrolophyll,1,false,false,1.0,13.0,60,62,63,80,80,60,405,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+3,3,1,Venusaur,Grass,Poison,Green,Overgrow,,Chrolophyll,1,false,false,2.0,100.0,80,82,83,100,100,80,525,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+4,3,2,Mega Venusaur,Grass,Poison,Green,Thick Fat,,,1,false,true,2.4,155.5,80,100,123,122,120,80,625,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+5,4,1,Charmander,Fire,,Red,Blaze,,Solar Power,1,false,false,0.6,8.5,39,52,43,60,50,65,309,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+6,5,1,Charmeleon,Fire,,Red,Blaze,,Solar Power,1,false,false,1.1,19.0,58,64,58,80,65,80,405,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+7,6,1,Charizard,Fire,Flying,Red,Blaze,,Solar Power,1,false,false,1.7,90.5,78,84,78,109,85,100,534,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+8,6,2,Mega Charizard X,Fire,Dragon,Black,Tough Claws,,,1,false,true,1.7,110.5,78,130,111,130,85,100,634,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+9,6,3,Mega Charizard Y,Fire,Flying,Red,Drought,,,1,false,true,1.7,90.5,78,104,78,159,115,100,634,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+10,7,1,Squirtle,Water,,Blue,Torrent,,Rain Dish,1,false,false,0.5,9.0,44,48,65,50,64,43,314,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+11,8,1,Wartortle,Water,,Blue,Torrent,,Rain Dish,1,false,false,1.0,22.5,59,63,80,65,80,58,405,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+12,9,1,Blastoise,Water,,Blue,Torrent,,Rain Dish,1,false,false,1.6,85.5,79,83,100,85,105,78,530,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+13,9,2,Mega Blastoise,Water,,Blue,Mega Launcher,,,1,false,true,1.6,101.1,79,103,120,135,115,78,630,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+14,10,1,Caterpie,Bug,,Green,Shield Dust,,Run Away,1,false,false,0.3,2.9,45,30,35,20,20,45,195,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+15,11,1,Metapod,Bug,,Green,Shed Skin,,,1,false,false,0.7,9.9,50,20,55,25,25,30,205,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+16,12,1,Butterfree,Bug,Flying,White,Compound Eyes,,Tinted Lens,1,false,false,1.1,32.0,60,45,50,90,80,70,395,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+17,13,1,Weedle,Bug,Poison,Brown,Shield Dust,,Run Away,1,false,false,0.3,3.2,40,35,30,20,20,50,195,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+18,14,1,Kakuna,Bug,Poison,Yellow,Shed Skin,,,1,false,false,0.6,10.0,45,25,50,25,25,35,205,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+19,15,1,Beedrill,Bug,Poison,Yellow,Swarm,,Sniper,1,false,false,1.0,29.5,65,90,40,45,80,75,395,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+20,15,2,Mega Beedrill,Bug,Poison,Yellow,Adaptability,,,1,false,true,1.4,40.5,65,150,40,15,80,145,495,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+21,16,1,Pidgey,Normal,Flying,Brown,Keen Eye,Tangled Feet,Big Pecks,1,false,false,0.3,1.8,40,45,40,35,35,56,251,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+22,17,1,Pidgeotto,Normal,Flying,Brown,Keen Eye,Tangled Feet,Big Pecks,1,false,false,1.1,30.0,63,60,55,50,50,71,349,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+23,18,1,Pidgeot,Normal,Flying,Brown,Keen Eye,Tangled Feet,Big Pecks,1,false,false,1.5,39.5,83,80,75,70,70,101,479,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+24,18,2,Mega Pidgeot,Normal,Flying,Brown,No Guard,,,1,false,true,2.2,50.5,83,80,80,135,80,121,579,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+25,19,1,Rattata,Normal,,Purple,Run Away,Guts,Hustle,1,false,false,0.3,3.5,30,56,35,25,35,72,253,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+26,19,2,Rattata,Dark,Normal,Black,Gluttony,Hustle,Thick Fat,7,false,false,0.3,3.8,30,56,35,25,35,72,253,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+27,20,1,Raticate,Normal,,Brown,Run Away,Guts,Hustle,1,false,false,0.7,18.5,55,81,60,50,70,97,413,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+28,20,2,Raticate,Dark,Normal,Black,Gluttony,Hustle,Thick Fat,7,false,false,0.7,25.5,75,71,70,40,80,77,413,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+29,21,1,Spearow,Normal,Flying,Brown,Keen Eye,,Sniper,1,false,false,0.3,2.0,40,60,30,31,31,70,262,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+30,22,1,Fearow,Normal,Flying,Brown,Keen Eye,,Sniper,1,false,false,1.2,38.0,65,90,65,61,61,100,442,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+31,23,1,Ekans,Poison,,Purple,Intimidate,Shed Skin,Unnerve,1,false,false,2.0,6.9,35,60,44,40,54,55,288,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+32,24,1,Arbok,Poison,,Purple,Intimidate,Shed Skin,Unnerve,1,false,false,3.5,65.0,60,95,69,65,79,80,448,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+33,25,1,Pikachu,Electric,,Yellow,Static,,Lightning Rod,1,false,false,0.4,6.0,35,55,40,50,50,90,320,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+34,26,1,Raichu,Electric,,Yellow,Static,,Lightning Rod,1,false,false,0.8,30.0,60,90,55,90,80,110,485,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+35,26,2,Raichu,Electric,Psychic,Brown,Surge Surfer,,,7,false,false,0.7,21.0,60,85,50,95,85,110,485,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+36,27,1,Sandshrew,Ground,,Yellow,Sand Veil,,Sand Rush,1,false,false,0.6,12.0,50,75,85,20,30,40,300,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+37,27,2,Sandshrew,Ice,Steel,White,Snow Cloak,,Slush Rush,7,false,false,0.7,40.0,50,75,90,10,35,40,300,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+38,28,1,Sandslash,Ground,,Yellow,Sand Veil,,Sand Rush,1,false,false,1.0,29.5,75,100,110,45,55,65,450,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+39,28,2,Sandslash,Ice,Steel,Blue,Snow Cloak,,Slush Rush,7,false,false,1.2,55.0,75,100,120,25,65,65,450,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+40,29,1,Nidoran F,Poison,,Blue,Poison Point,Rivalry,Hustle,1,false,false,0.4,7.0,55,47,52,40,40,41,275,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+41,30,1,Nidorina,Poison,,Blue,Poison Point,Rivalry,Hustle,1,false,false,0.8,20.0,70,62,67,55,55,56,365,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+42,31,1,Nidoqueen,Poison,Ground,Blue,Poison Point,Rivalry,Sheer Force,1,false,false,1.3,60.0,90,92,87,75,85,76,505,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+43,32,1,Nidoran M,Poison,,Purple,Poison Point,Rivalry,Hustle,1,false,false,0.5,9.0,46,57,40,40,40,50,273,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+44,33,1,Nidorino,Poison,,Purple,Poison Point,Rivalry,Hustle,1,false,false,0.9,19.5,61,72,57,55,55,65,365,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+45,34,1,Nidoking,Poison,Ground,Purple,Poison Point,Rivalry,Sheer Force,1,false,false,1.4,62.0,81,102,77,85,75,85,505,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+46,35,1,Clefairy,Fairy,,Pink,Cute Charm,Magic Guard,Friend Guard,1,false,false,0.6,7.5,70,45,48,60,65,35,323,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+47,36,1,Clefable,Fairy,,Pink,Cute Charm,Magic Guard,Friend Guard,1,false,false,1.3,40.0,95,70,73,95,90,60,483,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+48,37,1,Vulpix,Fire,,Brown,Flash Fire,,Drought,1,false,false,0.6,9.9,38,41,40,50,65,65,299,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+49,37,2,Vulpix,Ice,,White,Snow Cloak,,Snow Warning,7,false,false,0.6,9.9,38,41,40,50,65,65,299,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+50,38,1,Ninetales,Fire,,Yellow,Flash Fire,,Drought,1,false,false,1.1,19.9,73,76,75,81,100,100,505,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+51,38,2,Ninetales,Ice,Fairy,Blue,Snow Cloak,,Snow Warning,7,false,false,1.1,19.9,73,67,75,81,100,109,505,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+52,39,1,Jigglypuff,Normal,Fairy,Pink,Cute Charm,Competitive,Friend Guard,1,false,false,0.5,5.5,115,45,20,45,25,20,270,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+53,40,1,Wigglytuff,Normal,Fairy,Pink,Cute Charm,Competitive,Friend Guard,1,false,false,1.0,12.0,140,70,45,85,50,45,435,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+54,41,1,Zubat,Poison,Flying,Purple,Inner Focus,,Infiltrator,1,false,false,0.8,7.5,40,45,35,30,40,55,245,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+55,42,1,Golbat,Poison,Flying,Purple,Inner Focus,,Infiltrator,1,false,false,1.6,55.0,75,80,70,65,75,90,455,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+56,43,1,Oddish,Grass,Poison,Blue,Chlorophyll,,Run Away,1,false,false,0.5,5.4,45,50,55,75,65,30,320,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+57,44,1,Gloom,Grass,Poison,Blue,Chlorophyll,,Stench,1,false,false,0.8,8.6,60,65,70,85,75,40,395,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+58,45,1,Vileplume,Grass,Poison,Red,Chlorophyll,,Effect Spore,1,false,false,1.2,18.6,75,80,85,110,90,50,490,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+59,46,1,Paras,Bug,Grass,Red,Effect Spore,Dry Skin,Damp,1,false,false,0.3,5.4,35,70,55,45,55,25,285,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+60,47,1,Parasect,Bug,Grass,Red,Effect Spore,Dry Skin,Damp,1,false,false,1.0,29.5,60,95,80,60,80,30,405,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+61,48,1,Venonat,Bug,Poison,Purple,Compound Eyes,Tinted Lens,Run Away,1,false,false,1.0,30.0,60,55,50,40,55,45,305,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+62,49,1,Venomoth,Bug,Poison,Purple,Shield Dust,Tinted Lens,Wonder Skin,1,false,false,1.5,12.5,70,65,60,90,75,90,450,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+63,50,1,Diglett,Ground,,Brown,Sand Veil,Arena Trap,Sand Force,1,false,false,0.2,0.8,10,55,25,35,45,95,265,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+64,50,2,Diglett,Ground,Steel,Brown,Sand Veil,Tangling Hair,Sand Force,7,false,false,0.2,1.0,10,55,30,35,45,90,265,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+65,51,1,Dugtrio,Ground,,Brown,Sand Veil,Arena Trap,Sand Force,1,false,false,0.7,33.3,35,100,50,50,70,120,425,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+66,51,2,Dugtrio,Ground,Steel,Brown,Sand Veil,Tangling Hair,Sand Force,7,false,false,0.7,66.6,35,100,60,50,70,110,425,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+67,52,1,Meowth,Normal,,Yellow,Pickup,Technician,Unnerve,1,false,false,0.4,4.2,40,45,35,40,40,90,290,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+68,52,2,Meowth,Dark,,Blue,Pickup,Technician,Rattled,7,false,false,0.4,4.2,40,35,35,50,40,90,290,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+69,52,3,Meowth,Steel,,Brown,Pickup,Tough Claws,Unnerve,8,false,false,0.4,7.5,50,65,55,40,40,40,290,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+70,53,1,Persian,Normal,,Yellow,Limber,Technician,Unnerve,1,false,false,1.0,32.0,65,70,60,65,65,115,440,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+71,53,2,Persian,Dark,,Blue,Fur Coat,Technician,Rattled,7,false,false,1.1,33.0,65,60,60,75,65,115,440,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+72,54,1,Psyduck,Water,,Yellow,Damp,Cloud Nine,Swift Swim,1,false,false,0.8,19.6,50,52,48,65,50,55,320,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+73,55,1,Golduck,Water,,Blue,Damp,Cloud Nine,Swift Swim,1,false,false,1.7,76.6,80,82,78,95,80,85,500,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+74,56,1,Mankey,Fighting,,Brown,Vital Spilit,Anger Point,Defiant,1,false,false,0.5,28.0,40,80,35,35,45,70,305,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+75,57,1,Primeape,Fighting,,Brown,Vital Spilit,Anger Point,Defiant,1,false,false,1.0,32.0,65,105,60,60,70,95,455,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+76,58,1,Growlithe,Fire,,Brown,Intimidate,Flash Fire,Justified,1,false,false,0.7,19.0,55,70,45,70,50,60,350,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+77,59,1,Arcanine,Fire,,Brown,Intimidate,Flash Fire,Justified,1,false,false,1.9,155.0,90,110,80,100,80,95,555,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+78,60,1,Poliwag,Water,,Blue,Water Absorb,Damp,Swift Swim,1,false,false,0.6,12.4,40,50,40,40,40,90,300,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+79,61,1,Poliwhirl,Water,,Blue,Water Absorb,Damp,Swift Swim,1,false,false,1.0,20.0,65,65,65,50,50,90,385,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+80,62,1,Poliwrath,Water,Fighting,Blue,Water Absorb,Damp,Swift Swim,1,false,false,1.3,54.0,90,95,95,70,90,70,510,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+81,63,1,Abra,Psychic,,Brown,Synchronize,Inner Focus,Magic guard,1,false,false,0.9,19.5,25,20,15,105,55,90,310,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+82,64,1,Kadabra,Psychic,,Brown,Synchronize,Inner Focus,Magic guard,1,false,false,1.3,56.5,40,35,30,120,70,105,400,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+83,65,1,Alakazam,Psychic,,Brown,Synchronize,Inner Focus,Magic guard,1,false,false,1.5,48.0,55,50,45,135,95,120,500,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+84,65,2,Mega Alakazam,Psychic,,Brown,Trace,,,1,false,true,1.2,48.0,55,50,65,175,95,150,590,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+85,66,1,Machop,Fighting,,Grey,Guts,No Guard,Steadfast,1,false,false,0.8,19.5,70,80,50,35,35,35,305,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+86,67,1,Machoke,Fighting,,Grey,Guts,No Guard,Steadfast,1,false,false,1.5,70.5,80,100,70,50,60,45,405,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+87,68,1,Machamp,Fighting,,Grey,Guts,No Guard,Steadfast,1,false,false,1.6,130.0,90,130,80,65,85,55,505,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+88,69,1,Bellsprout,Grass,Poison,Green,Chlorophyll,,Gluttony,1,false,false,0.7,4.0,50,75,35,70,30,40,300,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+89,70,1,Weepinbell,Grass,Poison,Green,Chlorophyll,,Gluttony,1,false,false,1.0,6.4,65,90,50,85,45,55,390,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+90,71,1,Victreebel,Grass,Poison,Green,Chlorophyll,,Gluttony,1,false,false,1.7,15.5,80,105,65,100,70,70,490,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+91,72,1,Tentacool,Water,Poison,Blue,Clear Body,Liquid Ooze,Rain dish,1,false,false,0.9,45.5,40,40,35,50,100,70,335,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+92,73,1,Tentacruel,Water,Poison,Blue,Clear Body,Liquid Ooze,Rain dish,1,false,false,1.6,55.0,80,70,65,80,120,100,515,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+93,74,1,Geodude,Rock,Ground,Brown,Rock Head,Sturdy,Sand Veil,1,false,false,0.4,20.0,40,80,100,30,30,20,300,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+94,74,2,Geodude,Rock,Electric,Grey,Magnet Pull,Sturdy,Galvanize,7,false,false,0.4,20.3,40,80,100,30,30,20,300,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+95,75,1,Graveler,Rock,Ground,Brown,Rock Head,Sturdy,Sand Veil,1,false,false,1.0,105.0,55,95,115,45,45,35,390,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+96,75,2,Graveler,Rock,Electric,Grey,Magnet Pull,Sturdy,Galvanize,7,false,false,1.0,110.0,55,95,115,45,45,35,390,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+97,76,1,Golem,Rock,Ground,Brown,Rock Head,Sturdy,Sand Veil,1,false,false,1.4,300.0,80,120,130,55,65,45,495,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+98,76,2,Golem,Rock,Electric,Grey,Magnet Pull,Sturdy,Galvanize,7,false,false,1.7,316.0,80,120,130,55,65,45,495,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+99,77,1,Ponyta,Fire,,Yellow,Run Away,Flash Fire,Flame Body,1,false,false,1.0,30.0,50,85,55,65,65,90,410,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+100,77,2,Ponyta,Psychic,,White,Run Away,Pastel Veil,Anticipation,8,false,false,0.8,24.0,50,85,55,65,65,90,410,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+101,78,1,Rapidash,Fire,,Yellow,Run Away,Flash Fire,Flame Body,1,false,false,1.7,95.0,65,100,70,80,80,105,500,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+102,78,2,Rapidash,Psychic,Fairy,White,Run Away,Pastel Veil,Anticipation,8,false,false,1.7,80.0,65,100,70,80,80,105,500,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+103,79,1,Slowpoke,Water,Psychic,Pink,Oblivious,Own Tempo,Regenerator,1,false,false,1.2,36.0,90,65,65,40,40,15,315,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+104,79,2,Slowpoke,Psychic,,Pink,Gluttony,Own Tempo,Regenerator,8,false,false,1.2,36.0,90,65,65,40,40,15,315,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+105,80,1,Slowbro,Water,Psychic,Pink,Oblivious,Own Tempo,Regenerator,1,false,false,1.6,78.5,95,75,110,100,80,30,490,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+106,80,2,Slowbro,Poison,Psychic,Pink,Quick Draw,Own Tempo,Regenerator,8,false,false,1.6,70.5,95,100,95,100,70,30,490,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+107,80,3,Mega Slowbro,Water,Psychic,Pink,Shell Armor,,,1,false,true,2.0,120.0,95,75,180,130,80,30,590,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+108,81,1,Magnemite,Electric,Steel,Grey,Magnet Pull,Sturdy,Analytic,1,false,false,0.3,6.0,25,35,70,95,55,45,325,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+109,82,1,Magneton,Electric,Steel,Grey,Magnet Pull,Sturdy,Analytic,1,false,false,1.0,60.0,50,60,95,120,70,70,465,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+110,83,1,Farfetch'd,Normal,Flying,Brown,Keen Eye,Inner Focus,Defiant,1,false,false,0.8,15.0,52,90,55,58,62,60,377,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+111,83,2,Farfetch'd,Fighting,,Brown,Steadfast,,Scrappy,8,false,false,0.8,42.0,52,95,55,58,62,55,377,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+112,84,1,Doduo,Normal,Flying,Brown,Run Away,Early Bird,Tangled Feet,1,false,false,1.4,39.2,35,85,45,35,35,75,310,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+113,85,1,Dodrio,Normal,Flying,Brown,Run Away,Early Bird,Tangled Feet,1,false,false,1.8,85.2,60,110,70,60,60,110,470,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+114,86,1,Seel,Water,,White,Thick Fat,Hydration,Ice Body,1,false,false,1.1,90.0,65,45,55,45,70,45,325,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+115,87,1,Dewgong,Water,Ice,White,Thick Fat,Hydration,Ice Body,1,false,false,1.7,120.0,90,70,80,70,95,70,475,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+116,88,1,Grimer,Poison,,Purple,Stench,Sticky Hold,Poison Touch,1,false,false,0.9,30.0,80,80,50,40,50,25,325,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+117,88,2,Grimer,Poison,Dark,Green,Poison Touch,Gluttony,Power of Alchemy,7,false,false,0.7,42.0,80,80,50,40,50,25,325,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+118,89,1,Muk,Poison,,Purple,Stench,Sticky Hold,Poison Touch,1,false,false,1.2,30.0,105,105,75,65,100,50,500,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+119,89,2,Muk,Poison,Dark,Green,Poison Touch,Gluttony,Power of Alchemy,7,false,false,1.0,52.0,105,105,75,65,100,50,500,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+120,90,1,Shellder,Water,,Purple,Shell Armor,Skill Link,Overcoat,1,false,false,0.3,4.0,30,65,100,45,25,40,305,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+121,91,1,Cloyster,Water,Ice,Purple,Shell Armor,Skill Link,Overcoat,1,false,false,1.5,132.5,50,95,180,85,45,70,525,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+122,92,1,Gastly,Ghost,Poison,Purple,Levitate,,,1,false,false,1.3,0.1,30,35,30,100,35,80,310,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+123,93,1,Haunter,Ghost,Poison,Purple,Levitate,,,1,false,false,1.6,0.1,45,50,45,115,55,95,405,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+124,94,1,Gengar,Ghost,Poison,Purple,Cursed Body,,,1,false,false,1.5,40.5,60,65,60,130,75,110,500,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+125,94,2,Mega Gengar,Ghost,Poison,Purple,Shadow Tag,,,1,false,true,1.4,40.5,60,65,80,170,95,130,600,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+126,95,1,Onix,Rock,Ground,Grey,Rock Head,Sturdy,Weak Armor,1,false,false,8.8,210.0,35,45,160,30,45,70,385,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+127,96,1,Drowzee,Psychic,,Yellow,Insomnia,Forewarn,Inner Focus,1,false,false,1.0,32.4,60,48,45,43,90,42,328,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+128,97,1,Hypno,Psychic,,Yellow,Insomnia,Forewarn,Inner Focus,1,false,false,1.6,75.6,85,73,70,73,115,67,483,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+129,98,1,Krabby,Water,,Red,Hyper Cutter,Shell Armor,Sheer Force,1,false,false,0.4,6.5,30,105,90,25,25,50,325,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+130,99,1,Kingler,Water,,Red,Hyper Cutter,Shell Armor,Sheer Force,1,false,false,1.3,60.0,55,130,115,50,50,75,475,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+131,100,1,Voltorb,Electric,,Red,Soundproof,Static,Aftermath,1,false,false,0.5,10.4,40,30,50,55,55,100,330,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+132,101,1,Electrode,Electric,,Red,Soundproof,Static,Aftermath,1,false,false,1.2,66.6,60,50,70,80,80,150,490,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+133,102,1,Exeggcute,Grass,Psychic,Pink,Chlorophyll,,Harvest,1,false,false,0.4,2.5,60,40,80,60,45,40,325,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+134,103,1,Exeggutor,Grass,Psychic,Yellow,Chlorophyll,,Harvest,1,false,false,2.0,120.0,95,95,85,125,75,55,530,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+135,103,2,Exeggutor,Grass,Dragon,Yellow,Frisk,,Harvest,7,false,false,10.9,415.6,95,105,85,125,75,45,530,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+136,104,1,Cubone,Ground,,Brown,Rock Head,Lightning Rod,Battle Armor,1,false,false,0.4,6.5,50,50,95,40,50,35,320,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+137,105,1,Marowak,Ground,,Brown,Rock Head,Lightning Rod,Battle Armor,1,false,false,1.0,45.0,60,80,110,50,80,45,425,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+138,105,2,Marowak,Fire,Ghost,Purple,Cursed Body,Lightning Rod,Rock Head,7,false,false,1.0,34.0,60,80,110,50,80,45,425,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+139,106,1,Hitmonlee,Fighting,,Brown,Limber,Reckless,Unburden,1,false,false,1.5,49.8,50,120,53,35,110,87,455,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+140,107,1,Hitmonchan,Fighting,,Brown,Keen Eye,Iron Fist,Inner Focus,1,false,false,1.4,50.2,50,105,79,35,110,76,455,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+141,108,1,Lickitung,Normal,,Pink,Own Tempo,Oblivious,Cloud Nine,1,false,false,1.2,65.5,90,55,75,60,75,30,385,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+142,109,1,Koffing,Poison,,Purple,Levitate,Neutralizing Gas,Stench,1,false,false,0.6,1.0,40,65,95,60,45,35,340,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+143,110,1,Weezing,Poison,,Purple,Levitate,Neutralizing Gas,Stench,1,false,false,1.2,9.5,65,90,120,85,70,60,490,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+144,110,2,Weezing,Poison,Fairy,Grey,Levitate,Neutralizing Gas,Misty Surge,8,false,false,3.0,16.0,65,90,120,85,70,60,490,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+145,111,1,Rhyhorn,Ground,Rock,Grey,Lightning Rod,Rock Head,Reckless,1,false,false,1.0,115.0,80,85,95,30,30,25,345,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+146,112,1,Rhydon,Ground,Rock,Grey,Lightning Rod,Rock Head,Reckless,1,false,false,1.9,120.0,105,130,120,45,45,40,485,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+147,113,1,Chansey,Normal,,Pink,Natural Cure,Serene Grace,Healer,1,false,false,1.1,34.6,250,5,5,35,105,50,450,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+148,114,1,Tangela,Grass,,Blue,Chlorophyll,Leaf Guard,Regenerator,1,false,false,1.0,35.0,65,55,115,100,40,60,435,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+149,115,1,Kangaskhan,Normal,,Brown,Early Bird,Scrappy,Inner Focus,1,false,false,2.2,80.0,105,95,80,40,80,90,490,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+150,115,2,Mega Kangaskhan,Normal,,Brown,Parental Bond,,,1,false,true,2.2,100.0,105,125,100,60,100,100,590,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+151,116,1,Horsea,Water,,Blue,Swift Swim,Sniper,Damp,1,false,false,0.4,8.0,30,40,70,70,25,60,295,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+152,117,1,Seadra,Water,,Blue,Poison Point,Sniper,Damp,1,false,false,1.2,25.0,55,65,95,95,45,85,440,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+153,118,1,Goldeen,Water,,Red,Swift Swim,Water Veil,Lightning Rod,1,false,false,0.6,15.0,45,67,60,35,50,63,320,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+154,119,1,Seaking,Water,,Red,Swift Swim,Water Veil,Lightning Rod,1,false,false,1.3,39.0,80,92,65,65,80,68,450,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+155,120,1,Staryu,Water,,Brown,Illuminate,Natural Cure,Analytic,1,false,false,0.8,34.5,30,45,55,70,55,85,340,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+156,121,1,Starmie,Water,Psychic,Purple,Illuminate,Natural Cure,Analytic,1,false,false,1.1,80.0,60,75,85,100,85,115,520,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+157,122,1,Mr. Mime,Psychic,Fairy,Pink,Soundproof,Filter,Technician,1,false,false,1.3,54.5,40,45,65,100,120,90,460,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+158,122,2,Mr. Mime,Psychic,Ice,White,Vital Spilit,Screen Cleaner,Ice Body,8,false,false,1.4,56.8,50,65,65,90,90,100,460,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+159,123,1,Scyther,Bug,Flying,Green,Swarm,Technician,Steadfast,1,false,false,1.5,56.0,70,110,80,55,80,105,500,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+160,124,1,Jynx,Ice,Psychic,Red,Oblivious,Forewarn,Dry Skin,1,false,false,1.4,40.6,65,50,35,115,95,95,455,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+161,125,1,Electabuzz,Electric,,Yellow,Static,,Vital Spilit,1,false,false,1.1,30.0,65,83,57,95,85,105,490,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+162,126,1,Magmar,Fire,,Red,Flame Body,,Vital Spilit,1,false,false,1.3,44.5,65,95,57,100,85,93,495,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+163,127,1,Pinsir,Bug,,Brown,Hyper Cutter,Mold Breaker,Moxie,1,false,false,1.5,55.0,65,125,100,55,70,85,500,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+164,127,2,Mega Pinsir,Bug,Flying,Brown,Aerilate,,,1,false,true,1.7,59.0,65,155,120,65,90,105,600,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+165,128,1,Tauros,Normal,,Brown,Intimidate,Anger Point,Sheer Force,1,false,false,1.4,88.4,75,100,95,40,70,110,490,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+166,129,1,Magikarp,Water,,Red,Swift Swim,,Rattled,1,false,false,0.9,10.0,20,10,55,15,20,80,200,2022-08-08 19:18:39 UTC,2022-08-08 19:18:39 UTC
+167,130,1,Gyarados,Water,Flying,Blue,Intimidate,,Moxie,1,false,false,6.5,235.0,95,125,79,60,100,81,540,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+168,130,2,Mega Gyarados,Water,Dark,Blue,Mold Breaker,,,1,false,true,6.5,305.0,95,155,109,70,130,81,640,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+169,131,1,Lapras,Water,Ice,Blue,Water Absorb,Shell Armor,Hydration,1,false,false,2.5,220.0,130,85,80,85,95,60,535,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+170,132,1,Ditto,Normal,,Purple,Limber,,Imposter,1,false,false,0.3,4.0,48,48,48,48,48,48,288,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+171,133,1,Eevee,Normal,,Brown,Run Away,Adaptability,Anticipation,1,false,false,0.3,6.5,55,55,50,45,65,55,325,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+172,134,1,Vaporeon,Water,,Blue,Water Absorb,,Hydration,1,false,false,1.0,29.0,130,65,60,110,95,65,525,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+173,135,1,Jolteon,Electric,,Yellow,Volt Absorb,,Quick Feet,1,false,false,0.8,24.5,65,65,60,110,95,130,525,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+174,136,1,Flareon,Fire,,Red,Flash Fire,,Guts,1,false,false,0.9,25.0,65,130,60,95,110,65,525,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+175,137,1,Porygon,Normal,,Pink,Trace,Download,Analytic,1,false,false,0.8,36.5,65,60,70,85,75,40,395,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+176,138,1,Omanyte,Rock,Water,Blue,Swift Swim,Shell Armor,Weak Armor,1,false,false,0.4,7.5,35,40,100,90,55,35,355,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+177,139,1,Omastar,Rock,Water,Blue,Swift Swim,Shell Armor,Weak Armor,1,false,false,1.0,35.0,70,60,125,115,70,55,495,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+178,140,1,Kabuto,Rock,Water,Brown,Swift Swim,Battle Armor,Weak Armor,1,false,false,0.5,11.5,30,80,90,55,45,55,355,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+179,141,1,Kabutops,Rock,Water,Brown,Swift Swim,Battle Armor,Weak Armor,1,false,false,1.3,40.5,60,115,105,65,70,80,495,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+180,142,1,Aerodactyl,Rock,Flying,Purple,Rock Head,Pressure,Unnerve,1,false,false,1.8,59.0,80,105,65,60,75,130,515,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+181,142,2,Mega Aerodactyl,Rock,Flying,Purple,Tough Claws,,,1,false,true,2.1,79.0,80,135,85,70,95,150,615,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+182,143,1,Snorlax,Normal,,Black,Immunity,Thick Fat,Gluttony,1,false,false,2.1,460.0,160,110,65,65,110,30,540,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+183,144,1,Articuno,Ice,Flying,Blue,Pressure,,Snow Cloak,1,true,false,1.7,55.4,90,85,100,95,125,85,580,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+184,145,1,Zapdos,Electric,Flying,Yellow,Pressure,,Static,1,true,false,1.6,52.6,90,90,85,125,90,100,580,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+185,146,1,Moltres,Fire,Flying,Yellow,Pressure,,Flame Body,1,true,false,2.0,60.0,90,100,90,125,85,90,580,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+186,147,1,Dratini,Dragon,,Blue,Shed Skin,,Marvel Scale,1,false,false,1.8,3.3,41,64,45,50,50,50,300,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+187,148,1,Dragonair,Dragon,,Blue,Shed Skin,,Marvel Scale,1,false,false,4.0,16.5,61,84,65,70,70,70,420,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+188,149,1,Dragonite,Dragon,Flying,Brown,Inner Focus,,Multiscale,1,false,false,2.2,210.0,91,134,95,100,100,80,600,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+189,150,1,Mewtwo,Psychic,,Purple,Pressure,,Unnerve,1,true,false,2.0,122.0,106,110,90,154,90,130,680,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+190,150,2,Mega Mewtwo X,Psychic,Fighting,Purple,Steadfast,,,1,true,true,2.3,127.0,106,190,100,154,100,130,780,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+191,150,3,Mega Mewtwo Y,Psychic,,Purple,Insomnia,,,1,true,true,1.5,33.0,106,150,70,194,120,140,780,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+192,151,1,Mew,Psychic,,Pink,Synchronize,,,1,true,false,0.4,4.0,100,100,100,100,100,100,600,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+193,152,1,Chikorita,Grass,,Green,Overgrow,,Leaf guard,2,false,false,0.9,6.4,45,49,65,49,65,45,318,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+194,153,1,Bayleef,Grass,,Green,Overgrow,,Leaf guard,2,false,false,1.2,15.8,60,62,80,63,80,60,405,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+195,154,1,Meganium,Grass,,Green,Overgrow,,Leaf guard,2,false,false,1.8,100.5,80,82,100,83,100,80,525,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+196,155,1,Cyndaquil,Fire,,Yellow,Blaze,,Flash Fire,2,false,false,0.5,7.9,39,52,43,60,50,65,309,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+197,156,1,Quilava,Fire,,Yellow,Blaze,,Flash Fire,2,false,false,0.9,19.0,58,64,58,80,65,80,405,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+198,157,1,Typhlosion,Fire,,Yellow,Blaze,,Flash Fire,2,false,false,1.7,79.5,78,84,78,109,85,100,534,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+199,158,1,Totodile,Water,,Blue,Torrent,,Sheer Force,2,false,false,0.6,9.5,50,65,64,44,48,43,314,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+200,159,1,Croconaw,Water,,Blue,Torrent,,Sheer Force,2,false,false,1.1,25.0,65,80,80,59,63,58,405,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+201,160,1,Feraligatr,Water,,Blue,Torrent,,Sheer Force,2,false,false,2.3,88.8,85,105,100,79,83,78,530,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+202,161,1,Sentret,Normal,,Brown,Run Away,Keen Eye,Frisk,2,false,false,0.8,6.0,35,46,34,35,45,20,215,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+203,162,1,Furret,Normal,,Brown,Run Away,Keen Eye,Frisk,2,false,false,1.8,32.5,85,76,64,45,55,90,415,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+204,163,1,Hoothoot,Normal,Flying,Brown,Insomnia,Keen Eye,Tinted Lens,2,false,false,0.7,21.2,60,30,30,36,56,50,262,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+205,164,1,Noctowl,Normal,Flying,Brown,Insomnia,Keen Eye,Tinted Lens,2,false,false,1.6,40.8,100,50,50,86,96,70,452,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+206,165,1,Ledyba,Bug,Flying,Red,Swarm,Early Bird,Rattled,2,false,false,1.0,10.8,40,20,30,40,80,55,265,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+207,166,1,Ledian,Bug,Flying,Red,Swarm,Early Bird,Iron Fist,2,false,false,1.4,35.6,55,35,50,55,110,85,390,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+208,167,1,Spinarak,Bug,Poison,Green,Swarm,Insomnia,Sniper,2,false,false,0.5,8.5,40,60,40,40,40,30,250,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+209,168,1,Ariados,Bug,Poison,Red,Swarm,Insomnia,Sniper,2,false,false,1.1,33.5,70,90,70,60,70,40,400,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+210,169,1,Crobat,Poison,Flying,Purple,Inner Focus,,Infiltrator,2,false,false,1.8,75.0,85,90,80,70,80,130,535,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+211,170,1,Chinchou,Water,Electric,Blue,Volt Absorb,Illuminate,Water Absorb,2,false,false,0.5,12.0,75,38,38,56,56,67,330,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+212,171,1,Lanturn,Water,Electric,Blue,Volt Absorb,Illuminate,Water Absorb,2,false,false,1.2,22.5,125,58,58,76,76,67,460,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+213,172,1,Pichu,Electric,,Yellow,Static,,Lightning Rod,2,false,false,0.3,2.0,20,40,15,35,35,60,205,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+214,173,1,Cleffa,Fairy,,Pink,Cute Charm,Magic Guard,Friend Guard,2,false,false,0.3,3.0,50,25,28,45,55,15,218,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+215,174,1,Igglybuff,Normal,Fairy,Pink,Cute Charm,Competitive,Friend Guard,2,false,false,0.3,1.0,90,30,15,40,20,15,210,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+216,175,1,Togepi,Fairy,,White,Hustle,Serene Grace,Super Luck,2,false,false,0.3,1.5,35,20,65,40,65,20,245,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+217,176,1,Togetic,Fairy,Flying,White,Hustle,Serene Grace,Super Luck,2,false,false,0.6,3.2,55,40,85,80,105,40,405,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+218,177,1,Natu,Psychic,Flying,Green,Synchronize,Early Bird,Magic Bounce,2,false,false,0.2,2.0,40,50,45,70,45,70,320,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+219,178,1,Xatu,Psychic,Flying,Green,Synchronize,Early Bird,Magic Bounce,2,false,false,1.5,15.0,65,75,70,95,70,95,470,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+220,179,1,Mareep,Electric,,White,Static,,Plus,2,false,false,0.6,7.8,55,40,40,65,45,35,280,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+221,180,1,Flaaffy,Electric,,Pink,Static,,Plus,2,false,false,0.8,13.3,70,55,55,80,60,45,365,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+222,181,1,Ampharos,Electric,,Yellow,Static,,Plus,2,false,false,1.4,61.5,90,75,85,115,90,55,510,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+223,181,2,Mega Ampharos,Electric,Dragon,Yellow,Mold Breaker,,,2,false,true,1.4,61.5,90,95,105,165,110,45,610,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+224,182,1,Bellossom,Grass,,Green,Chlorophyll,,Healer,2,false,false,0.4,5.8,75,80,95,90,100,50,490,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+225,183,1,Marill,Water,Fairy,Blue,Thick Fat,Huge Power,Sap Sipper,2,false,false,0.4,8.5,70,20,50,20,50,40,250,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+226,184,1,Azumarill,Water,Fairy,Blue,Thick Fat,Huge Power,Sap Sipper,2,false,false,0.8,28.5,100,50,80,60,80,50,420,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+227,185,1,Sudowoodo,Rock,,Brown,Sturdy,Rock Head,Rattled,2,false,false,1.2,38.0,70,100,115,30,65,30,410,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+228,186,1,Politoed,Water,,Green,Water Absorb,Damp,Drizzle,2,false,false,1.1,33.9,90,75,75,90,100,70,500,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+229,187,1,Hoppip,Grass,Flying,Pink,Chlorophyll,Leaf Guard,Infiltrator,2,false,false,0.4,0.5,35,35,40,35,55,50,250,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+230,188,1,Skiploom,Grass,Flying,Green,Chlorophyll,Leaf Guard,Infiltrator,2,false,false,0.6,1.0,55,45,50,45,65,80,340,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+231,189,1,Jumpluff,Grass,Flying,Blue,Chlorophyll,Leaf Guard,Infiltrator,2,false,false,0.6,3.0,75,55,70,55,95,110,460,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+232,190,1,Aipom,Normal,,Purple,Run Away,Pickup,Skill Link,2,false,false,0.6,11.5,55,70,55,40,55,85,360,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+233,191,1,Sunkern,Grass,,Yellow,Chlorophyll,Solar Power,Early Bird,2,false,false,0.3,1.8,30,30,30,30,30,30,180,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+234,192,1,Sunflora,Grass,,Yellow,Chlorophyll,Solar Power,Early Bird,2,false,false,0.8,8.5,75,75,55,105,85,30,425,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+235,193,1,Yanma,Bug,Flying,Red,Speed Boost,Compound Eyes,Frisk,2,false,false,1.2,38.0,65,65,45,75,45,95,390,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+236,194,1,Wooper,Water,Ground,Blue,Damp,Water Absorb,Unaware,2,false,false,0.4,8.5,55,45,45,25,25,15,210,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+237,195,1,Quagsire,Water,Ground,Blue,Damp,Water Absorb,Unaware,2,false,false,1.4,75.0,95,85,85,65,65,35,430,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+238,196,1,Espeon,Psychic,,Purple,Synchronize,,Magic Bounce,2,false,false,0.9,26.5,65,65,60,130,95,110,525,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+239,197,1,Umbreon,Dark,,Black,Synchronize,,Inner Focus,2,false,false,1.0,27.0,95,65,110,60,130,65,525,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+240,198,1,Murkrow,Dark,Flying,Black,Insomnia,Super Luck,Prankster,2,false,false,0.5,2.1,60,85,42,85,42,91,405,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+241,199,1,Slowking,Water,Psychic,Pink,Oblivious,Super Luck,Regenerator,2,false,false,2.0,79.5,95,75,80,100,110,30,490,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+242,200,1,Misdreavus,Ghost,,Grey,Levitate,,,2,false,false,0.7,1.0,60,60,60,85,85,85,435,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+243,201,1,Unown,Psychic,,Black,Levitate,,,2,false,false,0.5,5.0,48,72,48,72,48,48,336,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+244,202,1,Wobbuffet,Psychic,,Blue,Shadow Tag,,Telepathy,2,false,false,1.3,28.5,190,33,58,33,58,33,405,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+245,203,1,Girafarig,Normal,Psychic,Yellow,Inner Focus,Early Bird,Sap Sipper,2,false,false,1.5,41.5,70,80,65,90,65,85,455,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+246,204,1,Pineco,Bug,,Grey,Sturdy,,Overcoat,2,false,false,0.6,7.2,50,65,90,35,35,15,290,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+247,205,1,Forretress,Bug,Steel,Purple,Sturdy,,Overcoat,2,false,false,1.2,125.8,75,90,140,60,60,40,465,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+248,206,1,Dunsparce,Normal,,Yellow,Serene Grace,Run Away,Rattled,2,false,false,1.5,14.0,100,70,70,65,65,45,415,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+249,207,1,Gligar,Ground,Flying,Purple,Hyper Cutter,Sand Veil,Immunity,2,false,false,1.1,64.8,65,75,105,35,65,85,430,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+250,208,1,Steelix,Steel,Ground,Grey,Rock Head,Sturdy,Sheer Force,2,false,false,9.2,400.0,75,85,200,55,65,30,510,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+251,208,2,Mega Steelix,Steel,Ground,Grey,Sand Force,,,2,false,true,10.5,740.0,75,125,230,55,95,30,610,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+252,209,1,Snubbull,Fairy,,Pink,Intimidate,Run Away,Rattled,2,false,false,0.6,7.8,60,80,50,40,40,30,300,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+253,210,1,Granbull,Fairy,,Purple,Intimidate,Quick Feet,Rattled,2,false,false,1.4,48.7,90,120,75,60,60,45,450,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+254,211,1,Qwilfish,Water,Poison,Grey,Poison Point,Swift Swim,Intimidate,2,false,false,0.5,3.9,65,95,85,55,55,85,440,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+255,212,1,Scizor,Bug,Steel,Red,Swarm,Technician,Light Metal,2,false,false,1.8,118.0,70,130,100,55,80,65,500,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+256,212,2,Mega Scizor,Bug,Steel,Red,Technician,,,2,false,true,2.0,125.0,70,150,140,65,100,75,600,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+257,213,1,Shuckle,Bug,Rock,Yellow,Sturdy,Gluttony,Contrary,2,false,false,0.6,20.5,20,10,230,10,230,5,505,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+258,214,1,Heracross,Bug,Fighting,Blue,Swarm,Guts,Moxie,2,false,false,1.5,54.0,80,125,75,40,95,85,500,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+259,214,2,Mega Heracross,Bug,Fighting,Blue,Skill Link,,,2,false,true,1.7,62.5,80,185,115,40,105,75,600,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+260,215,1,Sneasel,Dark,Ice,Black,Inner Focus,Keen Eye,Pickpocket,2,false,false,0.9,28.0,55,95,55,35,75,115,430,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+261,216,1,Teddiursa,Normal,,Brown,Pickup,Quick Feet,Honey Gather,2,false,false,0.6,8.8,60,80,50,50,50,40,330,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+262,217,1,Ursaring,Normal,,Brown,Guts,Quick Feet,Unnerve,2,false,false,1.8,125.8,90,130,75,75,75,55,500,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+263,218,1,Slugma,Fire,,Red,Magma Armor,Flame Body,Weak Armor,2,false,false,0.7,35.0,40,40,40,70,40,20,250,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+264,219,1,Magcargo,Fire,Rock,Red,Magma Armor,Flame Body,Weak Armor,2,false,false,0.8,55.0,60,50,120,90,80,30,430,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+265,220,1,Swinub,Ice,Ground,Brown,Oblivious,Snow Cloak,Thick Fat,2,false,false,0.4,6.5,50,50,40,30,30,50,250,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+266,221,1,Piloswine,Ice,Ground,Brown,Oblivious,Snow Cloak,Thick Fat,2,false,false,1.1,55.8,100,100,80,60,60,50,450,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+267,222,1,Corsola,Water,Rock,Pink,Hustle,Natural Cure,Regenerator,2,false,false,0.6,5.0,65,55,95,65,95,35,410,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+268,222,2,Corsola,Ghost,,White,Weak Armor,,Cursed Body,8,false,false,0.6,0.5,65,55,100,65,100,30,415,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+269,223,1,Remoraid,Water,,Grey,Hustle,Sniper,Moody,2,false,false,0.6,12.0,35,65,35,65,35,65,300,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+270,224,1,Octillery,Water,,Red,Suction Cups,Sniper,Moody,2,false,false,0.9,28.5,75,105,75,105,75,45,480,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+271,225,1,Delibird,Ice,Flying,Red,Vital Spilit,Hustle,Insomnia,2,false,false,0.9,16.0,45,55,45,65,45,75,330,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+272,226,1,Mantine,Water,Flying,Purple,Swift Swim,Water Absorb,Water Veil,2,false,false,2.1,220.0,85,40,70,80,140,70,485,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+273,227,1,Skarmory,Steel,Flying,Grey,Keen Eye,Sturdy,Weak Armor,2,false,false,1.7,50.5,65,80,140,40,70,70,465,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+274,228,1,Houndour,Dark,Fire,Black,Early Bird,Flash Fire,Unnerve,2,false,false,0.6,10.8,45,60,30,80,50,65,330,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+275,229,1,Houndoom,Dark,Fire,Black,Early Bird,Flash Fire,Unnerve,2,false,false,1.4,35.0,75,90,50,110,80,95,500,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+276,229,2,Mega Houndoom,Dark,Fire,Black,Solar Power,,,2,false,true,1.9,49.5,75,90,90,140,90,115,600,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+277,230,1,Kingdra,Water,Dragon,Blue,Swift Swim,Sniper,Damp,2,false,false,1.8,152.0,75,95,95,95,95,85,540,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+278,231,1,Phanpy,Ground,,Blue,Pickup,,Sand Veil,2,false,false,0.5,33.5,90,60,60,40,40,40,330,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+279,232,1,Donphan,Ground,,Grey,Sturdy,,Sand Veil,2,false,false,1.1,120.0,90,120,120,60,60,50,500,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+280,233,1,Porygon2,Normal,,Red,Trace,Download,Analytic,2,false,false,0.6,32.5,85,80,90,105,95,60,515,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+281,234,1,Stantler,Normal,,Brown,Intimidate,Frisk,Sap Sipper,2,false,false,1.4,71.2,73,95,62,85,65,85,465,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+282,235,1,Smeargle,Normal,,White,Own Tempo,Technician,Moody,2,false,false,1.2,58.0,55,20,35,20,45,75,250,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+283,236,1,Tyrogue,Fighting,,Purple,Guts,Steadfast,Vital Spilit,2,false,false,0.7,21.0,35,35,35,35,35,35,210,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+284,237,1,Hitmontop,Fighting,,Brown,Intimidate,Technician,Steadfast,2,false,false,1.4,48.0,50,95,95,35,110,70,455,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+285,238,1,Smoochum,Ice,Psychic,Pink,Oblivious,Forewarn,Hydration,2,false,false,0.5,6.0,45,30,15,85,65,65,305,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+286,239,1,Elekid,Electric,,Yellow,Static,,Vital Spilit,2,false,false,0.6,23.5,45,63,37,65,55,95,360,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+287,240,1,Magby,Fire,,Red,Flame Body,,Vital Spilit,2,false,false,0.7,21.4,45,75,37,70,55,83,365,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+288,241,1,Miltank,Normal,,Pink,Thick Fat,Scrappy,Sap Sipper,2,false,false,1.2,75.5,95,80,105,40,70,100,490,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+289,242,1,Blissey,Normal,,Pink,Natural Cure,Serene Grace,Healer,2,false,false,1.5,46.8,255,10,10,75,135,55,540,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+290,243,1,Raikou,Electric,,Yellow,Pressure,,Inner Focus,2,true,false,1.9,178.0,90,85,75,115,100,115,580,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+291,244,1,Entei,Fire,,Brown,Pressure,,Inner Focus,2,true,false,2.1,198.0,115,115,85,90,75,100,580,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+292,245,1,Suicune,Water,,Blue,Pressure,,Inner Focus,2,true,false,2.0,187.0,100,75,115,90,115,85,580,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+293,246,1,Larvitar,Rock,Ground,Green,Guts,,Sand Veil,2,false,false,0.6,72.0,50,64,50,45,50,41,300,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+294,247,1,Pupitar,Rock,Ground,Grey,Shed Skin,,,2,false,false,1.2,152.0,70,84,70,65,70,51,410,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+295,248,1,Tyranitar,Rock,Dark,Green,Sand Stream,,Unnerve,2,false,false,2.0,202.0,100,134,110,95,100,61,600,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+296,248,2,Mega Tyranitar,Rock,Dark,Green,Sand Stream,,,2,false,true,2.0,255.0,100,164,150,95,120,71,700,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+297,249,1,Lugia,Psychic,Flying,White,Pressure,,Multiscale,2,true,false,5.2,216.0,106,90,130,90,154,110,680,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+298,250,1,Ho-Oh,Fire,Flying,Red,Pressure,,Regenerator,2,true,false,3.8,199.0,106,130,90,110,154,90,680,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+299,251,1,Celebi,Psychic,Grass,Green,Natural Cure,,,2,true,false,0.6,5.0,100,100,100,100,100,100,600,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+300,252,1,Treecko,Grass,,Green,Overgrow,,Unburden,3,false,false,0.5,5.0,40,45,35,65,55,70,310,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+301,253,1,Grovyle,Grass,,Green,Overgrow,,Unburden,3,false,false,0.9,21.6,50,65,45,85,65,95,405,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+302,254,1,Sceptile,Grass,,Green,Overgrow,,Unburden,3,false,false,1.7,52.2,70,85,65,105,85,120,530,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+303,254,2,Mega Sceptile,Grass,Dragon,Green,Lightning Rod,,,3,false,true,1.9,55.2,70,110,75,145,85,145,630,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+304,255,1,Torchic,Fire,,Red,Blaze,,Speed Boost,3,false,false,0.4,2.5,45,60,40,70,50,45,310,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+305,256,1,Combusken,Fire,Fighting,Red,Blaze,,Speed Boost,3,false,false,0.9,19.5,60,85,60,85,60,55,405,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+306,257,1,Blaziken,Fire,Fighting,Red,Blaze,,Speed Boost,3,false,false,1.9,52.0,80,120,70,110,70,80,530,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+307,257,2,Mega Blaziken,Fire,Fighting,Red,Speed Boost,,,3,false,true,1.9,52.0,80,160,80,130,80,100,630,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+308,258,1,Mudkip,Water,,Blue,Torrent,,Damp,3,false,false,0.4,7.6,50,70,50,50,50,40,310,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+309,259,1,Marshtomp,Water,Ground,Blue,Torrent,,Damp,3,false,false,0.7,28.0,70,85,70,60,70,50,405,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+310,260,1,Swampert,Water,Ground,Blue,Torrent,,Damp,3,false,false,1.5,81.9,100,110,90,85,90,60,535,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+311,260,2,Mega Swampert,Water,Ground,Blue,Swift Swim,,,3,false,true,1.9,102.0,100,150,110,95,110,70,635,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+312,261,1,Poochyena,Dark,,Grey,Run Away,Quick Feet,Rattled,3,false,false,0.5,13.6,35,55,35,30,30,35,220,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+313,262,1,Mightyena,Dark,,Grey,Intimidate,Quick Feet,Moxie,3,false,false,1.0,37.0,70,90,70,60,60,70,420,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+314,263,1,Zigzagoon,Normal,,Brown,Pickup,Gluttony,Quick Feet,3,false,false,0.4,17.5,38,30,41,30,41,60,240,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+315,263,2,Zigzagoon,Dark,Normal,White,Pickup,Gluttony,Quick Feet,8,false,false,0.4,17.5,38,30,41,30,41,60,240,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+316,264,1,Linoone,Normal,,White,Pickup,Gluttony,Quick Feet,3,false,false,0.5,32.5,78,70,61,50,61,100,420,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+317,264,2,Linoone,Dark,Normal,White,Pickup,Gluttony,Quick Feet,8,false,false,0.5,32.5,78,70,61,50,61,100,420,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+318,265,1,Wurmple,Bug,,Red,Shield Dust,,Run Away,3,false,false,0.3,3.6,45,45,35,20,30,20,195,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+319,266,1,Silcoon,Bug,,White,Shed Skin,,,3,false,false,0.6,10.0,50,35,55,25,25,15,205,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+320,267,1,Beautifly,Bug,Flying,Yellow,Swarm,,Rivalry,3,false,false,1.0,28.4,60,70,50,100,50,65,395,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+321,268,1,Cascoon,Bug,,Purple,Shed Skin,,,3,false,false,0.7,11.5,50,35,55,25,25,15,205,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+322,269,1,Dustox,Bug,Poison,Green,Shield Dust,,Compound Eyes,3,false,false,1.2,31.6,60,50,70,50,90,65,385,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+323,270,1,Lotad,Water,Grass,Green,Swift Swim,Rain Dish,Own Tempo,3,false,false,0.5,2.6,40,30,30,40,50,30,220,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+324,271,1,Lombre,Water,Grass,Green,Swift Swim,Rain Dish,Own Tempo,3,false,false,1.2,32.5,60,50,50,60,70,50,340,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+325,272,1,Ludicolo,Water,Grass,Green,Swift Swim,Rain Dish,Own Tempo,3,false,false,1.5,55.0,80,70,70,90,100,70,480,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+326,273,1,Seedot,Grass,,Brown,Chlorophyll,Early Bird,Pickpocket,3,false,false,0.5,4.0,40,40,50,30,30,30,220,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+327,274,1,Nuzleaf,Grass,Dark,Brown,Chlorophyll,Early Bird,Pickpocket,3,false,false,1.0,28.0,70,70,40,60,40,60,340,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+328,275,1,Shiftry,Grass,Dark,Brown,Chlorophyll,Early Bird,Pickpocket,3,false,false,1.3,59.6,90,100,60,90,60,80,480,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+329,276,1,Taillow,Normal,Flying,Blue,Guts,,Scrappy,3,false,false,0.3,2.3,40,55,30,30,30,85,270,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+330,277,1,Swellow,Normal,Flying,Blue,Guts,,Scrappy,3,false,false,0.7,19.8,60,85,60,75,50,125,455,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+331,278,1,Wingull,Water,Flying,White,Keen Eye,Hydration,Rain Dish,3,false,false,0.6,9.5,40,30,30,55,30,85,270,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+332,279,1,Pelipper,Water,Flying,Yellow,Keen Eye,Drizzle,Rain Dish,3,false,false,1.2,28.0,60,50,100,95,70,65,440,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+333,280,1,Ralts,Psychic,Fairy,White,Synchronize,Trace,Telepathy,3,false,false,0.4,6.6,28,25,25,45,35,40,198,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+334,281,1,Kirlia,Psychic,Fairy,White,Synchronize,Trace,Telepathy,3,false,false,0.8,20.2,38,35,35,65,55,50,278,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+335,282,1,Gardevoir,Psychic,Fairy,White,Synchronize,Trace,Telepathy,3,false,false,1.6,48.4,68,65,65,125,115,80,518,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+336,282,2,Mega Gardevoir,Psychic,Fairy,White,Pixilate,,,3,false,true,1.6,48.4,68,85,65,165,135,100,618,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+337,283,1,Surskit,Bug,Water,Blue,Swift Swim,,Rain Dish,3,false,false,0.5,1.7,40,30,32,50,52,65,269,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+338,284,1,Masquerain,Bug,Flying,Blue,Intimidate,,Unnerve,3,false,false,0.8,3.6,70,60,62,100,82,80,454,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+339,285,1,Shroomish,Grass,,Brown,Effect Spore,Poison Heal,Quick Feet,3,false,false,0.4,4.5,60,40,60,40,60,35,295,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+340,286,1,Breloom,Grass,Fighting,Green,Effect Spore,Poison Heal,Technician,3,false,false,1.2,39.2,60,130,80,60,60,70,460,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+341,287,1,Slakoth,Normal,,Brown,Truant,,,3,false,false,0.8,24.0,60,60,60,35,35,30,280,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+342,288,1,Vigoroth,Normal,,White,Vital Spilit,,,3,false,false,1.4,46.5,80,80,80,55,55,90,440,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+343,289,1,Slaking,Normal,,Brown,Truant,,,3,false,false,2.0,130.5,150,160,100,95,65,100,670,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+344,290,1,Nincada,Bug,Ground,Grey,Compound Eyes,,Run Away,3,false,false,0.5,5.5,31,45,90,30,30,40,266,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+345,291,1,Ninjask,Bug,Flying,Yellow,Speed Boost,,Infiltrator,3,false,false,0.8,12.0,61,90,45,50,50,160,456,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+346,292,1,Shedinja,Bug,Ghost,Brown,Wonder Guard,,,3,false,false,0.8,1.2,1,90,45,30,30,40,236,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+347,293,1,Whismur,Normal,,Pink,Soundproof,,Rattled,3,false,false,0.6,16.3,64,51,23,51,23,28,240,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+348,294,1,Loudred,Normal,,Blue,Soundproof,,Scrappy,3,false,false,1.0,40.5,84,71,43,71,43,48,360,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+349,295,1,Exploud,Normal,,Blue,Soundproof,,Scrappy,3,false,false,1.5,84.0,104,91,63,91,73,68,490,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+350,296,1,Makuhita,Fighting,,Yellow,Thick Fat,Guts,Sheer Force,3,false,false,1.0,86.4,72,60,30,20,30,25,237,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+351,297,1,Hariyama,Fighting,,Brown,Thick Fat,Guts,Sheer Force,3,false,false,2.3,253.8,144,120,60,40,60,50,474,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+352,298,1,Azurill,Normal,Fairy,Blue,Thick Fat,Huge Power,Sap Sipper,3,false,false,0.2,2.0,50,20,40,20,40,20,190,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+353,299,1,Nosepass,Rock,,Grey,Sturdy,Magnet Pull,Sand Force,3,false,false,1.0,97.0,30,45,135,45,90,30,375,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+354,300,1,Skitty,Normal,,Pink,Cute Charm,Normalize,Wonder Skin,3,false,false,0.6,11.0,50,45,45,35,35,50,260,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+355,301,1,Delcatty,Normal,,Purple,Cute Charm,Normalize,Wonder Skin,3,false,false,1.1,32.6,70,65,65,55,55,90,400,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+356,302,1,Sableye,Dark,Ghost,Purple,Keen Eye,Stall,Prankster,3,false,false,0.5,11.0,50,75,75,65,65,50,380,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+357,302,2,Mega Sableye,Dark,Ghost,Purple,Magic Bounce,,,3,false,true,0.5,161.0,50,85,125,85,115,20,480,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+358,303,1,Mawile,Steel,Fairy,Black,Hyper Cutter,Intimidate,Sheer Force,3,false,false,0.6,11.5,50,85,85,55,55,50,380,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+359,303,2,Mega Mawile,Steel,Fairy,Black,Huge Power,,,3,false,true,1.0,23.5,50,105,125,55,95,50,480,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+360,304,1,Aron,Steel,Rock,Grey,Sturdy,Rock Head,Heavy Metal,3,false,false,0.4,60.0,50,70,100,40,40,30,330,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+361,305,1,Lairon,Steel,Rock,Grey,Sturdy,Rock Head,Heavy Metal,3,false,false,0.9,120.0,60,90,140,50,50,40,430,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+362,306,1,Aggron,Steel,Rock,Grey,Sturdy,Rock Head,Heavy Metal,3,false,false,2.1,360.0,70,110,180,60,60,50,530,2022-08-08 19:18:40 UTC,2022-08-08 19:18:40 UTC
+363,306,2,Mega Aggron,Steel,,Grey,Filter,,,3,false,true,2.2,395.0,70,140,230,60,80,50,630,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+364,307,1,Meditite,Fighting,Psychic,Blue,Pure Power,,Telepathy,3,false,false,0.6,11.2,30,40,55,40,55,60,280,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+365,308,1,Medicham,Fighting,Psychic,Red,Pure Power,,Telepathy,3,false,false,1.3,31.5,60,60,75,60,75,80,410,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+366,308,2,Mega Medicham,Fighting,Psychic,Red,Pure Power,,,3,false,true,1.3,31.5,60,100,85,80,85,100,510,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+367,309,1,Electrike,Electric,,Green,Static,Lightning Rod,Minus,3,false,false,0.6,15.2,40,45,40,65,40,65,295,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+368,310,1,Manectric,Electric,,Yellow,Static,Lightning Rod,Minus,3,false,false,1.5,40.2,70,75,60,105,60,105,475,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+369,310,2,Mega Manectric,Electric,,Yellow,Intimidate,,,3,false,true,1.8,44.0,70,75,80,135,80,135,575,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+370,311,1,Plusle,Electric,,Yellow,Plus,,Lightning Rod,3,false,false,0.4,4.2,60,50,40,85,75,95,405,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+371,312,1,Minun,Electric,,Yellow,Minus,,Lightning Rod,3,false,false,0.4,4.2,60,40,50,75,85,95,405,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+372,313,1,Volbeat,Bug,,Grey,Illuminate,Swarm,Prankster,3,false,false,0.7,17.7,65,73,75,47,85,85,430,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+373,314,1,Illumise,Bug,,Purple,Oblivious,Tinted Lens,Prankster,3,false,false,0.6,17.7,65,47,75,73,85,85,430,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+374,315,1,Roselia,Grass,Poison,Green,Natural Cure,Poison Point,Leaf Guard,3,false,false,0.3,2.0,50,60,45,100,80,65,400,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+375,316,1,Gulpin,Poison,,Green,Liquid Ooze,Sticky Hold,Gluttony,3,false,false,0.4,10.3,70,43,53,43,53,40,302,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+376,317,1,Swalot,Poison,,Purple,Liquid Ooze,Sticky Hold,Gluttony,3,false,false,1.7,80.0,100,73,83,73,83,55,467,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+377,318,1,Carvanha,Water,Dark,Red,Rough Skin,,Speed Boost,3,false,false,0.8,20.8,45,90,20,65,20,65,305,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+378,319,1,Sharpedo,Water,Dark,Blue,Rough Skin,,Speed Boost,3,false,false,1.8,88.8,70,120,40,95,40,95,460,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+379,319,2,Mega Sharpedo,Water,Dark,Blue,Strong Jaw,,,3,false,true,2.5,130.3,70,140,70,110,65,105,560,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+380,320,1,Wailmer,Water,,Blue,Water Veil,Oblivious,Pressure,3,false,false,2.0,130.0,130,70,35,70,35,60,400,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+381,321,1,Wailord,Water,,Blue,Water Veil,Oblivious,Pressure,3,false,false,14.5,398.0,170,90,45,90,45,60,500,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+382,322,1,Numel,Fire,Ground,Yellow,Oblivious,Simple,Own Tempo,3,false,false,0.7,24.0,60,60,40,65,45,35,305,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+383,323,1,Camerupt,Fire,Ground,Red,Magma Armor,Solid Rock,Anger Point,3,false,false,1.9,220.0,70,100,70,105,75,40,460,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+384,323,2,Mega Camerupt,Fire,Ground,Red,Sheer Force,,,3,false,true,2.5,320.5,70,120,100,145,105,20,560,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+385,324,1,Torkoal,Fire,,Brown,White Smoke,Drought,Shell Armor,3,false,false,0.5,80.4,70,85,140,85,70,20,470,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+386,325,1,Spoink,Psychic,,Black,Thick Fat,Own Tempo,Gluttony,3,false,false,0.7,30.6,60,25,35,70,80,60,330,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+387,326,1,Grumpig,Psychic,,Purple,Thick Fat,Own Tempo,Gluttony,3,false,false,0.9,71.5,80,45,65,90,110,80,470,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+388,327,1,Spinda,Normal,,Brown,Own Tempo,Tangled Feet,Contrary,3,false,false,1.1,5.0,60,60,60,60,60,60,360,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+389,328,1,Trapinch,Ground,,Brown,Hyper Cutter,Arena Trap,Sheer Force,3,false,false,0.7,15.0,45,100,45,45,45,10,290,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+390,329,1,Vibrava,Ground,Dragon,Green,Levitate,,,3,false,false,1.1,15.3,50,70,50,50,50,70,340,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+391,330,1,Flygon,Ground,Dragon,Green,Levitate,,,3,false,false,2.0,82.0,80,100,80,80,80,100,520,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+392,331,1,Cacnea,Grass,,Green,Sand Veil,,Water Absorb,3,false,false,0.4,51.3,50,85,40,85,40,35,335,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+393,332,1,Cacturne,Grass,Dark,Green,Sand Veil,,Water Absorb,3,false,false,1.3,77.4,70,115,60,115,60,55,475,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+394,333,1,Swablu,Normal,Flying,Blue,Natural Cure,,Cloud Nine,3,false,false,0.4,1.2,45,40,60,40,75,50,310,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+395,334,1,Altaria,Dragon,Flying,Blue,Natural Cure,,Cloud Nine,3,false,false,1.1,20.6,75,70,90,70,105,80,490,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+396,334,2,Mega Altaria,Dragon,Fairy,Blue,Pixilate,,,3,false,true,1.5,20.6,75,110,110,110,105,80,590,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+397,335,1,Zangoose,Normal,,White,Immunity,,Toxic Boost,3,false,false,1.3,40.3,73,115,60,60,60,90,458,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+398,336,1,Seviper,Poison,,Black,Shed Skin,,Infiltrator,3,false,false,2.7,52.5,73,100,60,100,60,65,458,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+399,337,1,Lunatone,Rock,Psychic,Yellow,Levitate,,,3,false,false,1.0,168.0,90,55,65,95,85,70,460,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+400,338,1,Solrock,Rock,Psychic,Red,Levitate,,,3,false,false,1.2,154.0,90,95,85,55,65,70,460,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+401,339,1,Barboach,Water,Ground,Grey,Oblivious,Anticipation,Hydration,3,false,false,0.4,1.9,50,48,43,46,41,60,288,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+402,340,1,Whiscash,Water,Ground,Blue,Oblivious,Anticipation,Hydration,3,false,false,0.9,23.6,110,78,73,76,71,60,468,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+403,341,1,Corphish,Water,,Red,Hyper Cutter,Shell Armor,Adaptability,3,false,false,0.6,11.5,43,80,65,50,35,35,308,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+404,342,1,Crawdaunt,Water,Dark,Red,Hyper Cutter,Shell Armor,Adaptability,3,false,false,1.1,32.8,63,120,85,90,55,55,468,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+405,343,1,Baltoy,Ground,Psychic,Brown,Levitate,,,3,false,false,0.5,21.5,40,40,55,40,70,55,300,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+406,344,1,Claydol,Ground,Psychic,Black,Levitate,,,3,false,false,1.5,108.0,60,70,105,70,120,75,500,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+407,345,1,Lileep,Rock,Grass,Purple,Suction Cups,,Storm Drain,3,false,false,1.0,23.8,66,41,77,61,87,23,355,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+408,346,1,Cradily,Rock,Grass,Green,Suction Cups,,Storm Drain,3,false,false,1.5,60.4,86,81,97,81,107,43,495,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+409,347,1,Anorith,Rock,Bug,Grey,Battle Armor,,Swift Swim,3,false,false,0.7,12.5,45,95,50,40,50,75,355,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+410,348,1,Armaldo,Rock,Bug,Grey,Battle Armor,,Swift Swim,3,false,false,1.5,68.2,75,125,100,70,80,45,495,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+411,349,1,Feebas,Water,,Brown,Swift Swim,Oblivious,Adaptability,3,false,false,0.6,7.4,20,15,20,10,55,80,200,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+412,350,1,Milotic,Water,,Pink,Marvel Scale,Competitive,Cute Charm,3,false,false,6.2,162.0,95,60,79,100,125,81,540,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+413,351,1,Castform,Normal,,Grey,Forecast,,,3,false,false,0.3,0.8,70,70,70,70,70,70,420,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+414,351,2,Castform,Fire,,Red,Forecast,,,3,false,false,0.3,0.8,70,70,70,70,70,70,420,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+415,351,3,Castform,Water,,Blue,Forecast,,,3,false,false,0.3,0.8,70,70,70,70,70,70,420,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+416,351,4,Castform,Ice,,White,Forecast,,,3,false,false,0.3,0.8,70,70,70,70,70,70,420,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+417,352,1,Kecleon,Normal,,Green,Color Change,,Protean,3,false,false,1.0,22.0,60,90,70,60,120,40,440,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+418,353,1,Shuppet,Ghost,,Black,Insomnia,Frisk,Cursed Body,3,false,false,0.6,2.3,44,75,35,63,33,45,295,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+419,354,1,Banette,Ghost,,Black,Insomnia,Frisk,Cursed Body,3,false,false,1.1,12.5,64,115,65,83,63,65,455,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+420,354,2,Mega Banette,Ghost,,Black,Prankster,,,3,false,true,1.2,13.0,64,165,75,93,83,75,555,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+421,355,1,Duskull,Ghost,,Black,Levitate,,Frisk,3,false,false,0.8,15.0,20,40,90,30,90,25,295,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+422,356,1,Dusclops,Ghost,,Black,Pressure,,Frisk,3,false,false,1.6,30.6,40,70,130,60,130,25,455,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+423,357,1,Tropius,Grass,Flying,Green,Chlorophyll,Solar Power,Harvest,3,false,false,2.0,100.0,99,68,83,72,87,51,460,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+424,358,1,Chimecho,Psychic,,Blue,Levitate,,,3,false,false,0.6,1.0,75,50,80,95,90,65,455,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+425,359,1,Absol,Dark,,White,Pressure,Super Luck,Justified,3,false,false,1.2,47.0,65,130,60,75,60,75,465,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+426,359,2,Mega Absol,Dark,,White,Magic Bounce,,,3,false,true,1.2,49.0,65,150,60,115,60,115,565,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+427,360,1,Wynaut,Psychic,,Blue,Shadow Tag,,Telepathy,3,false,false,0.6,14.0,95,23,48,23,48,23,260,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+428,361,1,Snorunt,Ice,,Grey,Inner Focus,Ice Body,Moody,3,false,false,0.7,16.8,50,50,50,50,50,50,300,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+429,362,1,Glalie,Ice,,Grey,Inner Focus,Ice Body,Moody,3,false,false,1.5,256.5,80,80,80,80,80,80,480,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+430,362,2,Mega Glalie,Ice,,Grey,Refrigerate,,,3,false,true,2.1,350.2,80,120,80,120,80,100,580,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+431,363,1,Spheal,Ice,Water,Blue,Thick Fat,Ice Body,Oblivious,3,false,false,0.8,39.5,70,40,50,55,50,25,290,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+432,364,1,Sealeo,Ice,Water,Blue,Thick Fat,Ice Body,Oblivious,3,false,false,1.1,87.6,90,60,70,75,70,45,410,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+433,365,1,Walrein,Ice,Water,Blue,Thick Fat,Ice Body,Oblivious,3,false,false,1.4,150.6,110,80,90,95,90,65,530,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+434,366,1,Clamperl,Water,,Blue,Shell Armor,,Rattled,3,false,false,0.4,52.5,35,64,85,74,55,32,345,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+435,367,1,Huntail,Water,,Blue,Swift Swim,,Water Veil,3,false,false,1.7,27.0,55,104,105,94,75,52,485,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+436,368,1,Gorebyss,Water,,Pink,Swift Swim,,Hydration,3,false,false,1.8,22.6,55,84,105,114,75,52,485,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+437,369,1,Relicanth,Water,Rock,Grey,Swift Swim,,Sturdy,3,false,false,1.0,23.4,100,90,130,45,65,55,485,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+438,370,1,Luvdisc,Water,,Pink,Swift Swim,,Hydration,3,false,false,0.6,8.7,43,30,55,40,65,97,330,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+439,371,1,Bagon,Dragon,,Blue,Rock Head,,Sheer Force,3,false,false,0.6,42.1,45,75,60,40,30,50,300,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+440,372,1,Shelgon,Dragon,,White,Rock Head,,Overcoat,3,false,false,1.1,110.5,65,95,100,60,50,50,420,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+441,373,1,Salamence,Dragon,Flying,Blue,Intimidate,,Moxie,3,false,false,1.5,102.6,95,135,80,110,80,100,600,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+442,373,2,Mega Salamence,Dragon,Flying,Blue,Aerilate,,,3,false,true,1.8,112.6,95,145,130,120,90,120,700,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+443,374,1,Beldum,Steel,Psychic,Blue,Clear Body,,Light Metal,3,false,false,0.6,95.2,40,55,80,35,60,30,300,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+444,375,1,Metang,Steel,Psychic,Blue,Clear Body,,Light Metal,3,false,false,1.2,202.5,60,75,100,55,80,50,420,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+445,376,1,Metagross,Steel,Psychic,Blue,Clear Body,,Light Metal,3,false,false,1.6,550.0,80,135,130,95,90,70,600,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+446,376,2,Mega Metagross,Steel,Psychic,Blue,Tough Claws,,,3,false,true,2.5,942.9,80,145,150,105,110,110,700,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+447,377,1,Regirock,Rock,,Brown,Clear Body,,Sturdy,3,true,false,1.7,230.0,80,100,200,50,100,50,580,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+448,378,1,Regice,Ice,,Blue,Clear Body,,Ice Body,3,true,false,1.8,175.0,80,50,100,100,200,50,580,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+449,379,1,Registeel,Steel,,Grey,Clear Body,,Light Metal,3,true,false,1.9,205.0,80,75,150,75,150,50,580,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+450,380,1,Latias,Dragon,Psychic,Red,Levitate,,,3,true,false,1.4,40.0,80,80,90,110,130,110,600,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+451,380,2,Mega Latias,Dragon,Psychic,Purple,Levitate,,,3,true,true,1.8,52.0,80,100,120,140,150,110,700,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+452,381,1,Latios,Dragon,Psychic,Blue,Levitate,,,3,true,false,2.0,60.0,80,90,80,130,110,110,600,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+453,381,2,Mega Latios,Dragon,Psychic,Purple,Levitate,,,3,true,true,2.3,70.0,80,130,100,160,120,110,700,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+454,382,1,Kyogre,Water,,Blue,Drizzle,,,3,true,false,4.5,352.0,100,100,90,150,140,90,670,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+455,382,2,Primal Kyogre,Water,,Blue,Primordial Sea,,,3,true,true,9.8,430.0,100,150,90,180,160,90,770,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+456,383,1,Groudon,Ground,,Red,Drought,,,3,true,false,3.5,950.0,100,150,140,100,90,90,670,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+457,383,2,Primal Groudon,Ground,Fire,Red,Desolate Land,,,3,true,true,5.0,999.7,100,180,160,150,90,90,770,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+458,384,1,Rayquaza,Dragon,Flying,Green,Air Lock,,,3,true,false,7.0,206.5,105,150,90,150,90,95,680,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+459,384,2,Mega Rayquaza,Dragon,Flying,Green,Delta Stream,,,3,true,true,10.8,392.0,105,180,100,180,100,115,780,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+460,385,1,Jirachi,Steel,Psychic,Yellow,Serene Grace,,,3,true,false,0.3,1.1,100,100,100,100,100,100,600,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+461,386,1,Deoxys,Psychic,,Red,Pressure,,,3,true,false,1.7,60.8,50,150,50,150,50,150,600,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+462,386,2,Deoxys,Psychic,,Red,Pressure,,,3,true,false,1.7,60.8,50,180,20,180,20,150,600,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+463,386,3,Deoxys,Psychic,,Red,Pressure,,,3,true,false,1.7,60.8,50,70,160,70,160,90,600,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+464,386,4,Deoxys,Psychic,,Red,Pressure,,,3,true,false,1.7,60.8,50,95,90,95,90,180,600,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+465,387,1,Turtwig,Grass,,Green,Overgrow,,Shell Armor,4,false,false,0.4,10.2,55,68,64,45,55,31,318,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+466,388,1,Grotle,Grass,,Green,Overgrow,,Shell Armor,4,false,false,1.1,97.0,75,89,85,55,65,36,405,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+467,389,1,Torterra,Grass,Ground,Green,Overgrow,,Shell Armor,4,false,false,2.2,310.0,95,109,105,75,85,56,525,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+468,390,1,Chimchar,Fire,,Brown,Blaze,,Iron Fist,4,false,false,0.5,6.2,44,58,44,58,44,61,309,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+469,391,1,Monferno,Fire,Fighting,Brown,Blaze,,Iron Fist,4,false,false,0.9,22.0,64,78,52,78,52,81,405,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+470,392,1,Infernape,Fire,Fighting,Brown,Blaze,,Iron Fist,4,false,false,1.2,55.0,76,104,71,104,71,108,534,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+471,393,1,Piplup,Water,,Blue,Torrent,,Defiant,4,false,false,0.4,5.2,53,51,53,61,56,40,314,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+472,394,1,Prinplup,Water,,Blue,Torrent,,Defiant,4,false,false,0.8,23.0,64,66,68,81,76,50,405,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+473,395,1,Empoleon,Water,Steel,Blue,Torrent,,Defiant,4,false,false,1.7,84.5,84,86,88,111,101,60,530,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+474,396,1,Starly,Normal,Flying,Brown,Keen Eye,,Reckless,4,false,false,0.3,2.0,40,55,30,30,30,60,245,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+475,397,1,Staravia,Normal,Flying,Brown,Intimidate,,Reckless,4,false,false,0.6,15.5,55,75,50,40,40,80,340,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+476,398,1,Staraptor,Normal,Flying,Brown,Intimidate,,Reckless,4,false,false,1.2,24.9,85,120,70,50,60,100,485,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+477,399,1,Bidoof,Normal,,Brown,Simple,Unaware,Moody,4,false,false,0.5,20.0,59,45,40,35,40,31,250,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+478,400,1,Bibarel,Normal,Water,Brown,Simple,Unaware,Moody,4,false,false,1.0,31.5,79,85,60,55,60,71,410,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+479,401,1,Kricketot,Bug,,Red,Shed Skin,,Run Away,4,false,false,0.3,2.2,37,25,41,25,41,25,194,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+480,402,1,Kricketune,Bug,,Red,Swarm,,Technician,4,false,false,1.0,25.5,77,85,51,55,51,65,384,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+481,403,1,Shinx,Electric,,Blue,Rivalry,Intimidate,Guts,4,false,false,0.5,9.5,45,65,34,40,34,45,263,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+482,404,1,Luxio,Electric,,Blue,Rivalry,Intimidate,Guts,4,false,false,0.9,30.5,60,85,49,60,49,60,363,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+483,405,1,Luxray,Electric,,Blue,Rivalry,Intimidate,Guts,4,false,false,1.4,42.0,80,120,79,95,79,70,523,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+484,406,1,Budew,Grass,Poison,Green,Natural Cure,Poison Point,Leaf Guard,4,false,false,0.2,1.2,40,30,35,50,70,55,280,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+485,407,1,Roserade,Grass,Poison,Green,Natural Cure,Poison Point,Technician,4,false,false,0.9,14.5,60,70,65,125,105,90,515,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+486,408,1,Cranidos,Rock,,Blue,Mold Breaker,,Sheer Force,4,false,false,0.9,31.5,67,125,40,30,30,58,350,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+487,409,1,Rampardos,Rock,,Blue,Mold Breaker,,Sheer Force,4,false,false,1.6,102.5,97,165,60,65,50,58,495,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+488,410,1,Shieldon,Rock,Steel,Grey,Sturdy,,Soundproof,4,false,false,0.5,57.0,30,42,118,42,88,30,350,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+489,411,1,Bastiodon,Rock,Steel,Grey,Sturdy,,Soundproof,4,false,false,1.3,149.5,60,52,168,47,138,30,495,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+490,412,1,Burmy,Bug,,Green,Shed Skin,,Overcoat,4,false,false,0.2,3.4,40,29,45,29,45,36,224,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+491,412,2,Burmy,Bug,,Brown,Shed Skin,,Overcoat,4,false,false,0.2,3.4,40,29,45,29,45,36,224,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+492,412,3,Burmy,Bug,,Red,Shed Skin,,Overcoat,4,false,false,0.2,3.4,40,29,45,29,45,36,224,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+493,413,1,Wormadam,Bug,Grass,Green,Anticipation,,Overcoat,4,false,false,0.5,6.5,60,59,85,79,105,36,424,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+494,413,2,Wormadam,Bug,Ground,Brown,Anticipation,,Overcoat,4,false,false,0.5,6.5,60,79,105,59,85,36,424,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+495,413,3,Wormadam,Bug,Steel,Red,Anticipation,,Overcoat,4,false,false,0.5,6.5,60,69,95,69,95,36,424,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+496,414,1,Mothim,Bug,Flying,Yellow,Swarm,,Tinted Lens,4,false,false,0.9,23.3,70,94,50,94,50,66,424,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+497,415,1,Combee,Bug,Flying,Yellow,Honey Gather,,Hustle,4,false,false,0.3,5.5,30,30,42,30,42,70,244,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+498,416,1,Vespiquen,Bug,Flying,Yellow,Pressure,,Unnerve,4,false,false,1.2,38.5,70,80,102,80,102,40,474,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+499,417,1,Pachirisu,Electric,,White,Run Away,Pickup,Volt Absorb,4,false,false,0.4,3.9,60,45,70,45,90,95,405,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+500,418,1,Buizel,Water,,Brown,Swift Swim,,Water Veil,4,false,false,0.7,29.5,55,65,35,60,30,85,330,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+501,419,1,Floatzel,Water,,Brown,Swift Swim,,Water Veil,4,false,false,1.1,33.5,85,105,55,85,50,115,495,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+502,420,1,Cherubi,Grass,,Pink,Chlorophyll,,,4,false,false,0.4,3.3,45,35,45,62,53,35,275,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+503,421,1,Cherrim,Grass,,Pink,Flower Gift,,,4,false,false,0.5,9.3,70,60,70,87,78,85,450,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+504,421,2,Cherrim,Grass,,Purple,Flower Gift,,,4,false,false,0.5,9.3,70,60,70,87,78,85,450,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+505,422,1,Shellos,Water,,Purple,Sticky Hold,Storm Drain,Sand Force,4,false,false,0.3,6.3,76,48,48,57,62,34,325,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+506,422,2,Shellos,Water,,Blue,Sticky Hold,Storm Drain,Sand Force,4,false,false,0.3,6.3,76,48,48,57,62,34,325,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+507,423,1,Gastrodon,Water,Ground,Purple,Sticky Hold,Storm Drain,Sand Force,4,false,false,0.9,29.9,111,83,68,92,82,39,475,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+508,423,2,Gastrodon,Water,Ground,Blue,Sticky Hold,Storm Drain,Sand Force,4,false,false,0.9,29.9,111,83,68,92,82,39,475,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+509,424,1,Ambipom,Normal,,Purple,Technician,Pickup,Skill Link,4,false,false,1.2,20.3,75,100,66,60,66,115,482,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+510,425,1,Drifloon,Ghost,Flying,Purple,Aftermath,Unburden,Flare Boost,4,false,false,0.4,1.2,90,50,34,60,44,70,348,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+511,426,1,Drifblim,Ghost,Flying,Purple,Aftermath,Unburden,Flare Boost,4,false,false,1.2,15.0,150,80,44,90,54,80,498,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+512,427,1,Buneary,Normal,,Brown,Run Away,Klutz,Limber,4,false,false,0.4,5.5,55,66,44,44,56,85,350,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+513,428,1,Lopunny,Normal,,Brown,Cute Charm,Klutz,Limber,4,false,false,1.2,33.3,65,76,84,54,96,105,480,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+514,428,2,Mega Lopunny,Normal,Fighting,Brown,Scrappy,,,4,false,true,1.3,28.3,65,136,94,54,96,135,580,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+515,429,1,Mismagius,Ghost,,Purple,Levitate,,,4,false,false,0.9,4.4,60,60,60,105,105,105,495,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+516,430,1,Honchkrow,Dark,Flying,Black,Insomnia,Super Luck,Moxie,4,false,false,0.9,27.3,100,125,52,105,52,71,505,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+517,431,1,Glameow,Normal,,Grey,Limber ,Own Tempo,Keen Eye,4,false,false,0.5,3.9,49,55,42,42,37,85,310,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+518,432,1,Purugly,Normal,,Grey,Thick Fat,Own Tempo,Defiant,4,false,false,1.0,43.8,71,82,64,64,59,112,452,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+519,433,1,Chingling,Psychic,,Yellow,Levitate,,,4,false,false,0.2,0.6,45,30,50,65,50,45,285,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+520,434,1,Stunky,Poison,Dark,Purple,Stench,Aftermath,Keen Eye,4,false,false,0.4,19.2,63,63,47,41,41,74,329,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+521,435,1,Skuntank,Poison,Dark,Purple,Stench,Aftermath,Keen Eye,4,false,false,1.0,38.0,103,93,67,71,61,84,479,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+522,436,1,Bronzor,Steel,Psychic,Green,Levitate,Heatproof,Heavy Metal,4,false,false,0.5,60.5,57,24,86,24,86,23,300,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+523,437,1,Bronzong,Steel,Psychic,Green,Levitate,Heatproof,Heavy Metal,4,false,false,1.3,187.0,67,89,116,79,116,33,500,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+524,438,1,Bonsly,Rock,,Brown,Sturdy,Rock Head,Rattled,4,false,false,0.5,15.0,50,80,95,10,45,10,290,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+525,439,1,Mime Jr.,Psychic,Fairy,Pink,Soundproof,Filter,Technician,4,false,false,0.6,13.0,20,25,45,70,90,60,310,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+526,440,1,Happiny,Normal,,Pink,Natural cure,Serene Grace,Friend Guard,4,false,false,0.6,24.4,100,5,5,15,65,30,220,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+527,441,1,Chatot,Normal,Flying,Black,Keen Eye,Tangled Feet,Big Pecks,4,false,false,0.5,1.9,76,65,45,92,42,91,411,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+528,442,1,Spiritomb,Ghost,Dark,Purple,Pressure,,Infiltrator,4,false,false,1.0,108.0,50,92,108,92,108,35,485,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+529,443,1,Gible,Dragon,Ground,Blue,Sand Veil,,Rough Skin,4,false,false,0.7,20.5,58,70,45,40,45,42,300,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+530,444,1,Gabite,Dragon,Ground,Blue,Sand Veil,,Rough Skin,4,false,false,1.4,56.0,68,90,65,50,55,82,410,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+531,445,1,Garchomp,Dragon,Ground,Blue,Sand Veil,,Rough Skin,4,false,false,1.9,95.0,108,130,95,80,85,102,600,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+532,445,2,Mega Garchomp,Dragon,Ground,Blue,Sand Force,,,4,false,true,1.9,95.0,108,170,115,120,95,92,700,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+533,446,1,Munchlax,Normal,,Black,Pickup,Thick Fat,Gluttony,4,false,false,0.6,105.0,135,85,40,40,85,5,390,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+534,447,1,Riolu,Fighting,,Blue,Steadfast,Inner Focus,Prankster,4,false,false,0.7,20.2,40,70,40,35,40,60,285,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+535,448,1,Lucario,Fighting,Steel,Blue,Steadfast,Inner Focus,Justified,4,false,false,1.2,54.0,70,110,70,115,70,90,525,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+536,448,2,Mega Lucario,Fighting,Steel,Blue,Adaptability,,,4,false,true,1.3,57.5,70,145,88,140,70,112,625,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+537,449,1,Hippopotas,Ground,,Brown,Sand Stream,,Sand Force,4,false,false,0.8,49.5,68,72,78,38,42,32,330,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+538,450,1,Hippowdon,Ground,,Brown,Sand Stream,,Sand Force,4,false,false,2.0,300.0,108,112,118,68,72,47,525,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+539,451,1,Skorupi,Poison,Bug,Purple,Battle Armor,Sniper,Keen Eye,4,false,false,0.8,12.0,40,50,90,30,55,65,330,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+540,452,1,Drapion,Poison,Dark,Purple,Battle Armor,Sniper,Keen Eye,4,false,false,1.3,61.5,70,90,110,60,75,95,500,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+541,453,1,Croagunk,Poison,Fighting,Blue,Anticipation,Dry Skin,Poison Touch,4,false,false,0.7,23.0,48,61,40,61,40,50,300,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+542,454,1,Toxicroak,Poison,Fighting,Blue,Anticipation,Dry Skin,Poison Touch,4,false,false,1.3,44.4,83,106,65,86,65,85,490,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+543,455,1,Carnivine,Grass,,Green,Levitate,,,4,false,false,1.4,27.0,74,100,72,90,72,46,454,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+544,456,1,Finneon,Water,,Blue,Swift Swim,Storm Drain,Water Veil,4,false,false,0.4,7.0,49,49,56,49,61,66,330,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+545,457,1,Lumineon,Water,,Blue,Swift Swim,Storm Drain,Water Veil,4,false,false,1.2,24.0,69,69,76,69,86,91,460,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+546,458,1,Mantyke,Water,Flying,Blue,Swift Swim,Water Absorb,Water Veil,4,false,false,1.0,65.0,45,20,50,60,120,50,345,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+547,459,1,Snover,Grass,Ice,White,Snow Warning,,Soundproof,4,false,false,1.0,50.5,60,62,50,62,60,40,334,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+548,460,1,Abomasnow,Grass,Ice,White,Snow Warning,,Soundproof,4,false,false,2.2,135.5,90,92,75,92,85,60,494,2022-08-08 19:18:41 UTC,2022-08-08 19:18:41 UTC
+549,460,2,Mega Abomasnow,Grass,Ice,White,Snow Warning,,,4,false,true,2.7,185.0,90,132,105,132,105,30,594,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+550,461,1,Weavile,Dark,Ice,Black,Pressure,,Pickpocket,4,false,false,1.1,34.0,70,120,65,45,85,125,510,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+551,462,1,Magnezone,Electric,Steel,Grey,Magnet Pull,Sturdy,Analytic,4,false,false,1.2,180.0,70,70,115,130,90,60,535,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+552,463,1,Lickilicky,Normal,,Pink,Own Tempo,Oblivious,Cloud Nine,4,false,false,1.7,140.0,110,85,95,80,95,50,515,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+553,464,1,Rhyperior,Ground,Rock,Grey,Lightning Rod,Solid Rock,Reckless,4,false,false,2.4,282.8,115,140,130,55,55,40,535,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+554,465,1,Tangrowth,Grass,,Blue,Chlorophyll,Leaf Guard,Regenerator,4,false,false,2.0,128.6,100,100,125,110,50,50,535,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+555,466,1,Electivire,Electric,,Yellow,Motor Drive,,Vital Spilit,4,false,false,1.8,138.6,75,123,67,95,85,95,540,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+556,467,1,Magmortar,Fire,,Red,Flame Body,,Vital Spilit,4,false,false,1.6,68.0,75,95,67,125,95,83,540,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+557,468,1,Togekiss,Fairy,Flying,White,Hustle,Serene Grace,Super Luck,4,false,false,1.5,38.0,85,50,95,120,115,80,545,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+558,469,1,Yanmega,Bug,Flying,Green,Speed Boost,Tinted Lens,Frisk,4,false,false,1.9,51.5,86,76,86,116,56,95,515,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+559,470,1,Leafeon,Grass,,Green,Leaf Guard,,Chlorophyll,4,false,false,1.0,25.5,65,110,130,60,65,95,525,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+560,471,1,Glaceon,Ice,,Blue,Snow Cloak,,Ice Body,4,false,false,0.8,25.9,65,60,110,130,95,65,525,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+561,472,1,Gliscor,Ground,Flying,Purple,Hyper Cutter,Sand Veil,Poison Heal,4,false,false,2.0,42.5,75,95,125,45,75,95,510,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+562,473,1,Mamoswine,Ice,Ground,Brown,Oblivious,Snow Cloak,Thick Fat,4,false,false,2.5,291.0,110,130,80,70,60,80,530,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+563,474,1,Porygon-Z,Normal,,Red,Adaptability,Download,Analytic,4,false,false,0.9,34.0,85,80,70,135,75,90,535,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+564,475,1,Gallade,Psychic,Fighting,White,Steadfast,,Justified,4,false,false,1.6,52.0,68,125,65,65,115,80,518,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+565,475,2,Mega Gallade,Psychic,Fighting,White,Inner Focus,,,4,false,true,1.6,56.4,68,165,95,65,115,110,618,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+566,476,1,Probopass,Rock,Steel,Grey,Sturdy,Magnet Pull,Sand Force,4,false,false,1.4,340.0,60,55,145,75,150,40,525,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+567,477,1,Dusknoir,Ghost,,Black,Pressure,,Frisk,4,false,false,2.2,106.6,45,100,135,65,135,45,525,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+568,478,1,Froslass,Ice,Ghost,White,Snow Cloak,,Cursed Body,4,false,false,1.3,26.6,70,80,70,80,70,110,480,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+569,479,1,Rotom,Electric,Ghost,Red,Levitate,,,4,false,false,0.3,0.3,50,50,77,95,77,91,440,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+570,479,2,Rotom,Electric,Fire,Red,Levitate,,,4,false,false,0.3,0.3,50,65,107,105,107,86,520,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+571,479,3,Rotom,Electric,Water,Red,Levitate,,,4,false,false,0.3,0.3,50,65,107,105,107,86,520,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+572,479,4,Rotom,Electric,Ice,Red,Levitate,,,4,false,false,0.3,0.3,50,65,107,105,107,86,520,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+573,479,5,Rotom,Electric,Flying,Red,Levitate,,,4,false,false,0.3,0.3,50,65,107,105,107,86,520,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+574,479,6,Rotom,Electric,Grass,Red,Levitate,,,4,false,false,0.3,0.3,50,65,107,105,107,86,520,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+575,480,1,Uxie,Psychic,,Yellow,Levitate,,,4,true,false,0.3,0.3,75,75,130,75,130,95,580,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+576,481,1,Mesprit,Psychic,,Pink,Levitate,,,4,true,false,0.3,0.3,80,105,105,105,105,80,580,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+577,482,1,Azelf,Psychic,,Blue,Levitate,,,4,true,false,0.3,0.3,75,125,70,125,70,115,580,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+578,483,1,Dialga,Steel,Dragon,White,Pressure,,Telepathy,4,true,false,5.4,683.0,100,120,120,150,100,90,680,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+579,484,1,Palkia,Water,Dragon,Purple,Pressure,,Telepathy,4,true,false,4.2,336.0,90,120,100,150,120,100,680,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+580,485,1,Heatran,Fire,Steel,Brown,Flash Fire,,Flame Body,4,true,false,1.7,430.0,91,90,106,130,106,77,600,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+581,486,1,Regigigas,Normal,,White,Slow Start,,,4,true,false,3.7,420.0,110,160,110,80,110,100,670,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+582,487,1,Giratina,Ghost,Dragon,Black,Pressure,,Telepathy,4,true,false,4.5,750.0,150,100,120,100,120,90,680,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+583,487,2,Giratina,Ghost,Dragon,Black,Levitate,,,4,true,false,6.9,650.0,150,120,100,120,100,90,680,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+584,488,1,Cresselia,Psychic,,Yellow,Levitate,,,4,true,false,1.5,85.6,120,70,120,75,130,85,600,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+585,489,1,Phione,Water,,Blue,Hydration,,,4,true,false,0.4,3.1,80,80,80,80,80,80,480,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+586,490,1,Manaphy,Water,,Blue,Hydration,,,4,true,false,0.3,1.4,100,100,100,100,100,100,600,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+587,491,1,Darkrai,Dark,,Black,Bad Dreams,,,4,true,false,1.5,50.5,70,90,90,135,90,125,600,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+588,492,1,Shaymin,Grass,,Green,Natural cure,,,4,true,false,0.2,2.1,100,100,100,100,100,100,600,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+589,492,2,Shaymin,Grass,Flying,Green,Serene Grace,,,4,true,false,0.4,5.2,100,103,75,120,75,127,600,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+590,493,1,Arceus,Normal,,White,Multitype,,,4,true,false,3.2,320.0,120,120,120,120,120,120,720,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+591,494,1,Victini,Psychic,Fire,Yellow,Victory Star,,,5,true,false,0.4,4.0,100,100,100,100,100,100,600,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+592,495,1,Snivy,Grass,,Green,Overgrow,,Contrary,5,false,false,0.6,8.1,45,45,55,45,55,63,308,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+593,496,1,Servine,Grass,,Green,Overgrow,,Contrary,5,false,false,0.8,16.0,60,60,75,60,75,83,413,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+594,497,1,Serperior,Grass,,Green,Overgrow,,Contrary,5,false,false,3.3,63.0,75,75,95,75,95,113,528,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+595,498,1,Tepig,Fire,,Red,Blaze,,Thick Fat,5,false,false,0.5,9.9,65,63,45,45,45,45,308,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+596,499,1,Pignite,Fire,Fighting,Red,Blaze,,Thick Fat,5,false,false,1.0,55.5,90,93,55,70,55,55,418,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+597,500,1,Emboar,Fire,Fighting,Red,Blaze,,Reckless,5,false,false,1.6,150.0,110,123,65,100,65,65,528,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+598,501,1,Oshawott,Water,,Blue,Torrent,,Shell Armor,5,false,false,0.5,5.9,55,55,45,63,45,45,308,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+599,502,1,Dewott,Water,,Blue,Torrent,,Shell Armor,5,false,false,0.8,24.5,75,75,60,83,60,60,413,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+600,503,1,Samurott,Water,,Blue,Torrent,,Shell Armor,5,false,false,1.5,94.6,95,100,85,108,70,70,528,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+601,504,1,Patrat,Normal,,Brown,Run Away,Keen Eye,Analytic,5,false,false,0.5,11.6,45,55,39,35,39,42,255,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+602,505,1,Watchog,Normal,,Brown,Illuminate,Keen Eye,Analytic,5,false,false,1.1,27.0,60,85,69,60,69,77,420,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+603,506,1,Lillipup,Normal,,Brown,Vital Spilit,Pickup,Run Away,5,false,false,0.4,4.1,45,60,45,25,45,55,275,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+604,507,1,Herdier,Normal,,Grey,Intimidate,Sand Rush,Scrappy,5,false,false,0.9,14.7,65,80,65,35,65,60,370,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+605,508,1,Stoutland,Normal,,Grey,Intimidate,Sand Rush,Scrappy,5,false,false,1.2,61.0,85,110,90,45,90,80,500,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+606,509,1,Purrloin,Dark,,Purple,Limber,Unburden,Prankster,5,false,false,0.4,10.1,41,50,37,50,37,66,281,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+607,510,1,Liepard,Dark,,Purple,Limber,Unburden,Prankster,5,false,false,1.1,37.5,64,88,50,88,50,106,446,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+608,511,1,Pansage,Grass,,Green,Gluttony,,Overgrow,5,false,false,0.6,10.5,50,53,48,53,48,64,316,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+609,512,1,Simisage,Grass,,Green,Gluttony,,Overgrow,5,false,false,1.1,30.5,75,98,63,98,63,101,498,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+610,513,1,Pansear,Fire,,Red,Gluttony,,Blaze,5,false,false,0.6,11.0,50,53,48,53,48,64,316,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+611,514,1,Simisear,Fire,,Red,Gluttony,,Blaze,5,false,false,1.0,28.0,75,98,63,98,63,101,498,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+612,515,1,Panpour,Water,,Blue,Gluttony,,Torrent,5,false,false,0.6,13.5,50,53,48,53,48,64,316,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+613,516,1,Simipour,Water,,Blue,Gluttony,,Torrent,5,false,false,1.0,29.0,75,98,63,98,63,101,498,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+614,517,1,Munna,Psychic,,Pink,Forewarn,Synchronize,Telepathy,5,false,false,0.6,23.3,76,25,45,67,55,24,292,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+615,518,1,Musharna,Psychic,,Pink,Forewarn,Synchronize,Telepathy,5,false,false,1.1,60.5,116,55,85,107,95,29,487,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+616,519,1,Pidove,Normal,Flying,Grey,Big Pecks,Super Luck,Rivalry,5,false,false,0.3,2.1,50,55,50,36,30,43,264,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+617,520,1,Tranquill,Normal,Flying,Grey,Big Pecks,Super Luck,Rivalry,5,false,false,0.6,15.0,62,77,62,50,42,65,358,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+618,521,1,Unfezant,Normal,Flying,Grey,Big Pecks,Super Luck,Rivalry,5,false,false,1.2,29.0,80,115,80,65,55,93,488,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+619,522,1,Blitzle,Electric,,Black,Lightning Rod,Motor Drive,Sap Sipper,5,false,false,0.8,29.8,45,60,32,50,32,76,295,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+620,523,1,Zebstrika,Electric,,Black,Lightning Rod,Motor Drive,Sap Sipper,5,false,false,1.6,79.5,75,100,63,80,63,116,497,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+621,524,1,Roggenrola,Rock,,Blue,Sturdy,Weak Armor,Sand Force,5,false,false,0.4,18.0,55,75,85,25,25,15,280,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+622,525,1,Boldore,Rock,,Blue,Sturdy,Weak Armor,Sand Force,5,false,false,0.9,102.0,70,105,105,50,40,20,390,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+623,526,1,Gigalith,Rock,,Blue,Sturdy,Sand Stream,Sand Force,5,false,false,1.7,260.0,85,135,130,60,80,25,515,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+624,527,1,Woobat,Psychic,Flying,Blue,Unaware,Klutz,Simple,5,false,false,0.4,2.1,65,45,43,55,43,72,323,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+625,528,1,Swoobat,Psychic,Flying,Blue,Unaware,Klutz,Simple,5,false,false,0.9,10.5,67,57,55,77,55,114,425,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+626,529,1,Drilbur,Ground,,Grey,Sand Rush,Sand Force,Mold Breaker,5,false,false,0.3,8.5,60,85,40,30,45,68,328,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+627,530,1,Excadrill,Ground,Steel,Grey,Sand Rush,Sand Force,Mold Breaker,5,false,false,0.7,40.4,110,135,60,50,65,88,508,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+628,531,1,Audino,Normal,,Pink,Healer,Regenerator,Klutz,5,false,false,1.1,31.0,103,60,86,60,86,50,445,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+629,531,2,Mega Audino,Normal,Fairy,White,Healer,,,5,false,true,1.5,32.0,103,60,126,80,126,50,545,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+630,532,1,Timburr,Fighting,,Grey,Guts,Sheer Force,Iron Fist,5,false,false,0.6,12.5,75,80,55,25,35,35,305,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+631,533,1,Gurdurr,Fighting,,Grey,Guts,Sheer Force,Iron Fist,5,false,false,1.2,40.0,85,105,85,40,50,40,405,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+632,534,1,Conkeldurr,Fighting,,Brown,Guts,Sheer Force,Iron Fist,5,false,false,1.4,87.0,105,140,95,55,65,45,505,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+633,535,1,Tympole,Water,,Blue,Swift Swim,Hydration,Water Absorb,5,false,false,0.5,4.5,50,50,40,50,40,64,294,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+634,536,1,Palpitoad,Water,Ground,Blue,Swift Swim,Hydration,Water Absorb,5,false,false,0.8,17.0,75,65,55,65,55,69,384,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+635,537,1,Seismitoad,Water,Ground,Blue,Swift Swim,Poison Touch,Water Absorb,5,false,false,1.5,62.0,105,95,75,85,75,74,509,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+636,538,1,Throh,Fighting,,Red,Guts,Inner Focus,Mold Breaker,5,false,false,1.3,55.5,120,100,85,30,85,45,465,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+637,539,1,Sawk,Fighting,,Blue,Sturdy,Inner Focus,Mold Breaker,5,false,false,1.4,51.0,75,125,75,30,75,85,465,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+638,540,1,Sewaddle,Bug,Grass,Yellow,Swarm,Chlorophyll,Overcoat,5,false,false,0.3,2.5,45,53,70,40,60,42,310,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+639,541,1,Swadloon,Bug,Grass,Green,Leaf guard,Chlorophyll,Overcoat,5,false,false,0.5,7.3,55,63,90,50,80,42,380,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+640,542,1,Leavanny,Bug,Grass,Yellow,Swarm,Chlorophyll,Overcoat,5,false,false,1.2,20.5,75,103,80,70,80,92,500,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+641,543,1,Venipede,Bug,Poison,Red,Poison Point,Swarm,Speed Boost,5,false,false,0.4,5.3,30,45,59,30,39,57,260,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+642,544,1,Whirlipede,Bug,Poison,Grey,Poison Point,Swarm,Speed Boost,5,false,false,1.2,58.5,40,55,99,40,79,47,360,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+643,545,1,Scolipede,Bug,Poison,Red,Poison Point,Swarm,Speed Boost,5,false,false,1.5,200.5,60,100,89,55,69,112,485,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+644,546,1,Cottonee,Grass,Fairy,Green,Prankster,Infiltrator,Chlorophyll,5,false,false,0.3,0.6,40,27,60,37,50,66,280,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+645,547,1,Whimsicott,Grass,Fairy,Green,Prankster,Infiltrator,Chlorophyll,5,false,false,0.7,6.6,60,67,85,77,75,116,480,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+646,548,1,Petilil,Grass,,Green,Chlorophyll,Own Tempo,Leaf Guard,5,false,false,0.5,6.6,45,35,50,70,50,30,280,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+647,549,1,Lilligant,Grass,,Green,Chlorophyll,Own Tempo,Leaf Guard,5,false,false,1.1,16.3,70,60,75,110,75,90,480,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+648,550,1,Basculin,Water,,Green,Reckless,Adaptability,Mold Breaker,5,false,false,1.0,18.0,70,92,65,80,55,98,460,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+649,550,2,Basculin,Water,,Green,Rock Head,Adaptability,Mold Breaker,5,false,false,1.0,18.0,70,92,65,80,55,98,460,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+650,551,1,Sandile,Ground,Dark,Brown,Intimidate,Moxie,Anger Point,5,false,false,0.7,15.2,50,72,35,35,35,65,292,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+651,552,1,Krokorok,Ground,Dark,Brown,Intimidate,Moxie,Anger Point,5,false,false,1.0,33.4,60,82,45,45,45,74,351,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+652,553,1,Krookodile,Ground,Dark,Red,Intimidate,Moxie,Anger Point,5,false,false,1.5,96.3,95,117,80,65,70,92,519,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+653,554,1,Darumaka,Fire,,Red,Hustle,,Inner Focus,5,false,false,0.6,37.5,70,90,45,15,45,50,315,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+654,554,2,Darumaka,Ice,,White,Hustle,,Inner Focus,8,false,false,0.7,40.0,70,90,45,15,45,50,315,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+655,555,1,Darmanitan,Fire,,Red,Sheer Force,,Zen Mode,5,false,false,1.3,92.9,105,140,55,30,55,95,480,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+656,555,2,Darmanitan,Fire,Psychic,White,Zen Mode,,,5,false,false,1.3,92.9,105,30,105,140,105,55,540,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+657,555,3,Darmanitan,Ice,,White,Gorilla Tactics,,Zen Mode,8,false,false,1.7,120.0,105,140,55,30,55,95,480,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+658,555,4,Darmanitan,Ice,Fire,White,Gorilla Tactics,,Zen Mode,8,false,false,1.7,120.0,105,160,55,30,55,135,540,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+659,556,1,Maractus,Grass,,Green,Water Absorb,Chlorophyll,Storm Drain,5,false,false,1.0,28.0,75,86,67,106,67,60,461,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+660,557,1,Dwebble,Bug,Rock,Red,Sturdy,Shell Armor,Weak Armor,5,false,false,0.3,14.5,50,65,85,35,35,55,325,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+661,558,1,Crustle,Bug,Rock,Red,Sturdy,Shell Armor,Weak Armor,5,false,false,1.4,200.0,70,105,125,65,75,45,485,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+662,559,1,Scraggy,Dark,Fighting,Yellow,Shed Skin,Moxie,Intimidate,5,false,false,0.6,11.8,50,75,70,35,70,48,348,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+663,560,1,Scrafty,Dark,Fighting,Red,Shed Skin,Moxie,Intimidate,5,false,false,1.1,30.0,65,90,115,45,115,58,488,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+664,561,1,Sigilyph,Psychic,Flying,Black,Wonder Skin,Magic Guard,Tinted Lens,5,false,false,1.4,14.0,72,58,80,103,80,97,490,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+665,562,1,Yamask,Ghost,,Black,Mummy,,,5,false,false,0.5,1.5,38,30,85,55,65,30,303,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+666,562,2,Yamask,Ghost,Ground,Black,Wandering Spilit,,,8,false,false,0.5,1.5,38,55,85,30,65,30,303,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+667,563,1,Cofagrigus,Ghost,,Yellow,Mummy,,,5,false,false,1.7,76.5,58,50,145,95,105,30,483,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+668,564,1,Tirtouga,Water,Rock,Blue,Solid Rock,Sturdy,Swift Swim,5,false,false,0.7,16.5,54,78,103,53,45,22,355,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+669,565,1,Carracosta,Water,Rock,Blue,Solid Rock,Sturdy,Swift Swim,5,false,false,1.2,81.0,74,108,133,83,65,32,495,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+670,566,1,Archen,Rock,Flying,Yellow,Defeatist,,,5,false,false,0.5,9.5,55,112,45,74,45,70,401,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+671,567,1,Archeops,Rock,Flying,Yellow,Defeatist,,,5,false,false,1.4,32.0,75,140,65,112,65,110,567,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+672,568,1,Trubbish,Poison,,Green,Stench,Sticky Hold,Aftermath,5,false,false,0.6,31.0,50,50,62,40,62,65,329,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+673,569,1,Garbodor,Poison,,Green,Stench,Weak Armor,Aftermath,5,false,false,1.9,107.3,80,95,82,60,82,75,474,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+674,570,1,Zorua,Dark,,Grey,Illusion,,,5,false,false,0.7,12.5,40,65,40,80,40,65,330,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+675,571,1,Zoroark,Dark,,Grey,Illusion,,,5,false,false,1.6,81.1,60,105,60,120,60,105,510,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+676,572,1,Minccino,Normal,,Grey,Cute Charm,Technician,Skill Link,5,false,false,0.4,5.8,55,50,40,40,40,75,300,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+677,573,1,Cinccino,Normal,,Grey,Cute Charm,Technician,Skill Link,5,false,false,0.5,7.5,75,95,60,65,60,115,470,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+678,574,1,Gothita,Psychic,,Purple,Frisk,Competitive,Shadow Tag,5,false,false,0.4,5.8,45,30,50,55,65,45,290,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+679,575,1,Gothorita,Psychic,,Purple,Frisk,Competitive,Shadow Tag,5,false,false,0.7,18.0,60,45,70,75,85,55,390,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+680,576,1,Gothitelle,Psychic,,Purple,Frisk,Competitive,Shadow Tag,5,false,false,1.5,44.0,70,55,95,95,110,65,490,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+681,577,1,Solosis,Psychic,,Green,Overcoat,Magic Guard,Regenerator,5,false,false,0.3,1.0,45,30,40,105,50,20,290,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+682,578,1,Duosion,Psychic,,Green,Overcoat,Magic Guard,Regenerator,5,false,false,0.6,8.0,65,40,50,125,60,30,370,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+683,579,1,Reuniclus,Psychic,,Green,Overcoat,Magic Guard,Regenerator,5,false,false,1.0,20.1,110,65,75,125,85,30,490,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+684,580,1,Ducklett,Water,Flying,Blue,Keen Eye,Big Pecks,Hydration,5,false,false,0.5,5.5,62,44,50,44,50,55,305,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+685,581,1,Swanna,Water,Flying,White,Keen Eye,Big Pecks,Hydration,5,false,false,1.3,24.2,75,87,63,87,63,98,473,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+686,582,1,Vanillite,Ice,,White,Ice Body,Snow Cloak,Weak Armor,5,false,false,0.4,5.7,36,50,50,65,60,44,305,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+687,583,1,Vanillish,Ice,,White,Ice Body,Snow Cloak,Weak Armor,5,false,false,1.1,41.0,51,65,65,80,75,59,395,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+688,584,1,Vanilluxe,Ice,,White,Ice Body,Snow Warning,Weak Armor,5,false,false,1.3,57.5,71,95,85,110,95,79,535,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+689,585,1,Deerling,Normal,Grass,Pink,Chlorophyll,Sap Sipper,Serene Grace,5,false,false,0.6,19.5,60,60,50,40,50,75,335,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+690,585,2,Deerling,Normal,Grass,Green,Chlorophyll,Sap Sipper,Serene Grace,5,false,false,0.6,19.5,60,60,50,40,50,75,335,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+691,585,3,Deerling,Normal,Grass,Red,Chlorophyll,Sap Sipper,Serene Grace,5,false,false,0.6,19.5,60,60,50,40,50,75,335,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+692,585,4,Deerling,Normal,Grass,Brown,Chlorophyll,Sap Sipper,Serene Grace,5,false,false,0.6,19.5,60,60,50,40,50,75,335,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+693,586,1,Sawsbuck,Normal,Grass,Brown,Chlorophyll,Sap Sipper,Serene Grace,5,false,false,1.9,92.5,80,100,70,60,70,95,475,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+694,586,2,Sawsbuck,Normal,Grass,Brown,Chlorophyll,Sap Sipper,Serene Grace,5,false,false,1.9,92.5,80,100,70,60,70,95,475,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+695,586,3,Sawsbuck,Normal,Grass,Brown,Chlorophyll,Sap Sipper,Serene Grace,5,false,false,1.9,92.5,80,100,70,60,70,95,475,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+696,586,4,Sawsbuck,Normal,Grass,Brown,Chlorophyll,Sap Sipper,Serene Grace,5,false,false,1.9,92.5,80,100,70,60,70,95,475,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+697,587,1,Emolga,Electric,Flying,White,Static,,Motor drive,5,false,false,0.4,5.0,55,75,60,75,60,103,428,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+698,588,1,Karrablast,Bug,,Blue,Swarm,Shed Skin,No Guard,5,false,false,0.5,5.9,50,75,45,40,45,60,315,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+699,589,1,Escavalier,Bug,Steel,Grey,Swarm,Shell Armor,Overcoat,5,false,false,1.0,33.0,70,135,105,60,105,20,495,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+700,590,1,Foongus,Grass,Poison,White,Effect Spore,,Regenerator,5,false,false,0.2,1.0,69,55,45,55,55,15,294,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+701,591,1,Amoonguss,Grass,Poison,White,Effect Spore,,Regenerator,5,false,false,0.6,10.5,114,85,70,85,80,30,464,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+702,592,1,Frillish,Water,Ghost,White,Water Absorb,Cursed Body,Damp,5,false,false,1.2,33.0,55,40,50,65,85,40,335,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+703,593,1,Jellicent,Water,Ghost,White,Water Absorb,Cursed Body,Damp,5,false,false,2.2,135.0,100,60,70,85,105,60,480,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+704,594,1,Alomomola,Water,,Pink,Healer,Hydration,Regenerator,5,false,false,1.2,31.6,165,75,80,40,45,65,470,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+705,595,1,Joltik,Bug,Electric,Yellow,Compound Eyes,Unnerve,Swarm,5,false,false,0.1,0.6,50,47,50,57,50,65,319,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+706,596,1,Galvantula,Bug,Electric,Yellow,Compound Eyes,Unnerve,Swarm,5,false,false,0.8,14.3,70,77,60,97,60,108,472,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+707,597,1,Ferroseed,Grass,Steel,Grey,Iron Barbs,,,5,false,false,0.6,18.8,44,50,91,24,86,10,305,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+708,598,1,Ferrothorn,Grass,Steel,Grey,Iron Barbs,,Anticipation,5,false,false,1.0,110.0,74,94,131,54,116,20,489,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+709,599,1,Klink,Steel,,Grey,Plus,Minus,Clear Body,5,false,false,0.3,21.0,40,55,70,45,60,30,300,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+710,600,1,Klang,Steel,,Grey,Plus,Minus,Clear Body,5,false,false,0.6,51.0,60,80,95,70,85,50,440,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+711,601,1,Klinklang,Steel,,Grey,Plus,Minus,Clear Body,5,false,false,0.6,81.0,60,100,115,70,85,90,520,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+712,602,1,Tynamo,Electric,,White,Levitate,,,5,false,false,0.2,0.3,35,55,40,45,40,60,275,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+713,603,1,Eelektrik,Electric,,Blue,Levitate,,,5,false,false,1.2,22.0,65,85,70,75,70,40,405,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+714,604,1,Eelektross,Electric,,Blue,Levitate,,,5,false,false,2.1,80.5,85,115,80,105,80,50,515,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+715,605,1,Elgyem,Psychic,,Blue,Telepathy,Synchronize,Analytic,5,false,false,0.5,9.0,55,55,55,85,55,30,335,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+716,606,1,Beheeyem,Psychic,,Brown,Telepathy,Synchronize,Analytic,5,false,false,1.0,34.5,75,75,75,125,95,40,485,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+717,607,1,Litwick,Ghost,Fire,White,Flash Fire,Flame Body,Infiltrator,5,false,false,0.3,3.1,50,30,55,65,55,20,275,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+718,608,1,Lampent,Ghost,Fire,Black,Flash Fire,Flame Body,Infiltrator,5,false,false,0.6,13.0,60,40,60,95,60,55,370,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+719,609,1,Chandelure,Ghost,Fire,Black,Flash Fire,Flame Body,Infiltrator,5,false,false,1.0,34.3,60,55,90,145,90,80,520,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+720,610,1,Axew,Dragon,,Green,Rivalry,Mold Breaker,Unnerve,5,false,false,0.6,18.0,46,87,60,30,40,57,320,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+721,611,1,Fraxure,Dragon,,Green,Rivalry,Mold Breaker,Unnerve,5,false,false,1.0,36.0,66,117,70,40,50,67,410,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+722,612,1,Haxorus,Dragon,,Yellow,Rivalry,Mold Breaker,Unnerve,5,false,false,1.8,105.5,76,147,90,60,70,97,540,2022-08-08 19:18:42 UTC,2022-08-08 19:18:42 UTC
+723,613,1,Cubchoo,Ice,,White,Snow Cloak,Slush Rush,Rattled,5,false,false,0.5,8.5,55,70,40,60,40,40,305,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+724,614,1,Beartic,Ice,,White,Snow Cloak,Slush Rush,Swift Swim,5,false,false,2.6,260.0,95,130,80,70,80,50,505,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+725,615,1,Cryogonal,Ice,,Blue,Levitate,,,5,false,false,1.1,148.0,80,50,50,95,135,105,515,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+726,616,1,Shelmet,Bug,,Red,Hydration,Shell Armor,Overcoat,5,false,false,0.4,7.7,50,40,85,40,65,25,305,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+727,617,1,Accelgor,Bug,,Red,Hydration,Sticky Hold,Unburden,5,false,false,0.8,25.3,80,70,40,100,60,145,495,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+728,618,1,Stunfisk,Electric,Ground,Brown,Stanfisk,Limber,Sand Veil,5,false,false,0.7,11.0,109,66,84,81,99,32,471,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+729,618,2,Stunfisk,Ground,Steel,Green,Mimicry,,,8,false,false,0.7,20.5,109,81,99,66,84,32,471,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+730,619,1,Mienfoo,Fighting,,Yellow,Inner Focus,Regenerator,Reckless,5,false,false,0.9,20.0,45,85,50,55,50,65,350,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+731,620,1,Mienshao,Fighting,,Purple,Inner Focus,Regenerator,Reckless,5,false,false,1.4,35.5,65,125,60,95,60,105,510,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+732,621,1,Druddigon,Dragon,,Red,Rough Skin,Sheer Force,Mold Breaker,5,false,false,1.6,139.0,77,120,90,60,90,48,485,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+733,622,1,Golett,Ground,Ghost,Green,Iron Fist,Klutz,No Guard,5,false,false,1.0,92.0,59,74,50,35,50,35,303,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+734,623,1,Golurk,Ground,Ghost,Green,Iron Fist,Klutz,No Guard,5,false,false,2.8,330.0,89,124,80,55,80,55,483,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+735,624,1,Pawniard,Dark,Steel,Red,Defiant,Inner Focus,Pressure,5,false,false,0.5,10.2,45,85,70,40,40,60,340,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+736,625,1,Bisharp,Dark,Steel,Red,Defiant,Inner Focus,Pressure,5,false,false,1.6,70.0,65,125,100,60,70,70,490,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+737,626,1,Bouffalant,Normal,,Brown,Reckless,Sap Sipper,Soundproof,5,false,false,1.6,94.6,95,110,95,40,95,55,490,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+738,627,1,Rufflet,Normal,Flying,White,Keen Eye,Sheer Force,Hustle,5,false,false,0.5,10.5,70,83,50,37,50,60,350,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+739,628,1,Braviary,Normal,Flying,Red,Keen Eye,Sheer Force,Defiant,5,false,false,1.5,41.0,100,123,75,57,75,80,510,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+740,629,1,Vullaby,Dark,Flying,Brown,Big Pecks,Overcoat,Weak Armor,5,false,false,0.5,9.0,70,55,75,45,65,60,370,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+741,630,1,Mandibuzz,Dark,Flying,Brown,Big Pecks,Overcoat,Weak Armor,5,false,false,1.2,39.5,110,65,105,55,95,80,510,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+742,631,1,Heatmor,Fire,,Red,Gluttony,Flaash Fire,White Smoke,5,false,false,1.4,58.0,85,97,66,105,66,65,484,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+743,632,1,Durant,Bug,Steel,Grey,Swarm,Hustle,Truant,5,false,false,0.3,33.0,58,109,112,48,48,109,484,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+744,633,1,Deino,Dark,Dragon,Blue,Hustle,,,5,false,false,0.8,17.3,52,65,50,45,50,38,300,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+745,634,1,Zweilous,Dark,Dragon,Blue,Hustle,,,5,false,false,1.4,50.0,72,85,70,65,70,58,420,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+746,635,1,Hydreigon,Dark,Dragon,Blue,Levitate,,,5,false,false,1.8,160.0,92,105,90,125,90,98,600,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+747,636,1,Larvesta,Bug,Fire,White,Flame Body,,Swarm,5,false,false,1.1,28.8,55,85,55,50,55,60,360,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+748,637,1,Volcarona,Bug,Fire,White,Flame Body,,Swarm,5,false,false,1.6,46.0,85,60,65,135,105,100,550,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+749,638,1,Cobalion,Steel,Fighting,Blue,Justified,,,5,true,false,2.1,250.0,91,90,129,90,72,108,580,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+750,639,1,Terrakion,Rock,Fighting,Grey,Justified,,,5,true,false,1.9,260.0,91,129,90,72,90,108,580,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+751,640,1,Virizion,Grass,Fighting,Green,Justified,,,5,true,false,2.0,200.0,91,90,72,90,129,108,580,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+752,641,1,Tornadus,Flying,,Green,Prankster,,Defiant,5,true,false,1.5,63.0,79,115,70,125,80,111,580,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+753,641,2,Tornadus,Flying,,Green,Regenerator,,,5,true,false,1.4,63.0,79,100,80,110,90,121,580,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+754,642,1,Thundurus,Electric,Flying,Blue,Prankster,,Defiant,5,true,false,1.5,61.0,79,115,70,125,80,111,580,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+755,642,2,Thundurus,Electric,Flying,Blue,Volt Absorb,,,5,true,false,3.0,61.0,79,105,70,145,80,101,580,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+756,643,1,Reshiram,Dragon,Fire,White,Turboblaze,,,5,true,false,3.2,330.0,100,120,100,150,120,90,680,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+757,644,1,Zekrom,Dragon,Electric,Black,Terabolt,,,5,true,false,2.9,345.0,100,150,120,120,100,90,680,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+758,645,1,Landorus,Ground,Flying,Brown,Sand Force,,Sheer Force,5,true,false,1.5,68.0,89,125,90,115,80,101,600,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+759,645,2,Landorus,Ground,Flying,Brown,Intimidate,,,5,true,false,1.3,68.0,89,145,90,105,80,91,600,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+760,646,1,Kyurem,Dragon,Ice,Grey,Pressure,,,5,true,false,3.0,325.0,125,130,90,130,90,95,660,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+761,646,2,Kyurem,Dragon,Ice,Grey,Turboblaze,,,5,true,false,3.6,325.0,125,120,90,170,100,95,700,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+762,646,3,Kyurem,Dragon,Ice,Grey,Terabolt,,,5,true,false,3.3,325.0,125,170,100,120,90,95,700,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+763,647,1,Keldeo,Water,Fighting,Yellow,Justified,,,5,true,false,1.4,48.5,91,72,90,129,90,108,580,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+764,647,2,Keldeo,Water,Fighting,Yellow,Justified,,,5,true,false,1.4,48.5,91,72,90,129,90,108,580,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+765,648,1,Meloetta,Normal,Psychic,White,Serene Grace,,,5,true,false,0.6,6.5,100,77,77,128,128,90,600,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+766,648,2,Meloetta,Normal,Fighting,White,Serene Grace,,,5,true,false,0.6,6.5,100,128,90,77,77,128,600,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+767,649,1,Genesect,Bug,Steel,Purple,Download,,,5,true,false,1.5,82.5,71,120,95,120,95,99,600,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+768,650,1,Chespin,Grass,,Green,Overgrow,,Bulletproof,6,false,false,0.4,9.0,56,61,65,48,45,38,313,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+769,651,1,Quilladin,Grass,,Green,Overgrow,,Bulletproof,6,false,false,0.7,29.0,61,78,95,56,58,57,405,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+770,652,1,Chesnaught,Grass,Fighting,Green,Overgrow,,Bulletproof,6,false,false,1.6,90.0,88,107,122,74,75,64,530,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+771,653,1,Fennekin,Fire,,Red,Blaze,,Magician,6,false,false,0.4,9.4,40,45,40,62,60,60,307,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+772,654,1,Braixen,Fire,,Red,Blaze,,Magician,6,false,false,1.0,14.5,59,59,58,90,70,73,409,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+773,655,1,Delphox,Fire,Psychic,Red,Blaze,,Magician,6,false,false,1.5,39.0,75,69,72,114,100,104,534,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+774,656,1,Froakie,Water,,Blue,Torrent,,Protean,6,false,false,0.3,7.0,41,56,40,62,44,71,314,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+775,657,1,Frogadier,Water,,Blue,Torrent,,Protean,6,false,false,0.6,10.9,54,63,52,83,56,97,405,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+776,658,1,Greninja,Water,Dark,Blue,Torrent,,Protean,6,false,false,1.5,40.0,72,95,67,103,71,122,530,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+777,658,2,Greninja,Water,Dark,Blue,Battle Bond,,,7,true,false,1.5,40.0,72,145,67,153,71,132,640,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+778,659,1,Bunnelby,Normal,,Brown,Pickup,Cheek Pouch,Huge Power,6,false,false,0.4,5.0,38,36,38,32,36,57,237,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+779,660,1,Diggersby,Normal,Ground,Brown,Pickup,Cheek Pouch,Huge Power,6,false,false,1.0,42.4,85,56,77,50,77,78,423,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+780,661,1,Fletchling,Normal,Flying,Red,Big Pecks,,Gale Wings,6,false,false,0.3,1.7,45,50,43,40,38,62,278,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+781,662,1,Fletchinder,Fire,Flying,Red,Flame Body,,Gale Wings,6,false,false,0.7,16.0,62,73,55,56,52,84,382,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+782,663,1,Talonflame,Fire,Flying,Red,Flame Body,,Gale Wings,6,false,false,1.2,24.5,78,81,71,74,69,126,499,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+783,664,1,Scatterbug,Bug,,Black,Shield Dust,Compound Eyes,Friend Guard,6,false,false,0.3,2.5,38,35,40,27,25,35,200,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+784,665,1,Spewpa,Bug,,Black,Shed Skin,,Friend Guard,6,false,false,0.3,8.4,45,22,60,27,30,29,213,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+785,666,1,Vivillon,Bug,Flying,White,Shield Dust,Compound Eyes,Friend Guard,6,false,false,1.2,17.0,80,52,50,90,50,89,411,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+786,667,1,Litleo,Fire,Normal,Brown,Rivalry,Unnerve,Moxie,6,false,false,0.6,13.5,62,50,58,73,54,72,369,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+787,668,1,Pyroar,Fire,Normal,Brown,Rivalry,Unnerve,Moxie,6,false,false,1.5,81.5,86,68,72,109,66,106,507,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+788,669,1,Flabebe,Fairy,,White,Flower Veil,,Symbiosis,6,false,false,0.1,0.1,44,38,39,61,79,42,303,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+789,670,1,Floette,Fairy,,White,Flower Veil,,Symbiosis,6,false,false,0.2,0.9,54,45,47,75,98,52,371,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+790,671,1,Florges,Fairy,,White,Flower Veil,,Symbiosis,6,false,false,1.1,10.0,78,65,68,112,154,75,552,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+791,672,1,Skiddo,Grass,,Brown,Sap Sipper,,Grass Pelt,6,false,false,0.9,31.0,66,65,48,62,57,52,350,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+792,673,1,Gogoat,Grass,,Brown,Sap Sipper,,Grass Pelt,6,false,false,1.7,91.0,123,100,62,97,81,68,531,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+793,674,1,Pancham,Fighting,,White,Iron Fist,Mold Breaker,Scrappy,6,false,false,0.6,8.0,67,82,62,46,48,43,348,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+794,675,1,Pangoro,Fighting,Dark,White,Iron Fist,Mold Breaker,Scrappy,6,false,false,2.1,136.0,95,124,78,69,71,58,495,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+795,676,1,Furfrou,Normal,,White,Fur Coat,,,6,false,false,1.2,28.0,75,80,60,65,90,102,472,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+796,677,1,Espurr,Psychic,,Grey,Keen Eye,Infiltrator,Own Tempo,6,false,false,0.3,3.5,62,48,54,63,60,68,355,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+797,678,1,Meowstic M,Psychic,,Blue,Keen Eye,Infiltrator,Prankster,6,false,false,0.6,8.5,74,48,76,83,81,104,466,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+798,678,2,Meowstic F,Psychic,,White,Keen Eye,Infiltrator,Competitive,6,false,false,0.6,8.5,74,48,76,83,81,104,466,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+799,679,1,Honedge,Steel,Ghost,Brown,No Guard,,,6,false,false,0.8,2.0,45,80,100,35,37,28,325,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+800,680,1,Doublade,Steel,Ghost,Brown,No Guard,,,6,false,false,0.8,4.5,59,110,150,45,49,35,448,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+801,681,1,Aegislash,Steel,Ghost,Brown,Stance Change,,,6,false,false,1.7,53.0,60,50,150,50,150,60,520,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+802,681,2,Aegislash,Steel,Ghost,Brown,Stance Change,,,6,false,false,1.7,53.0,60,150,50,150,50,60,520,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+803,682,1,Spritzee,Fairy,,Pink,Healer,,Aroma Veil,6,false,false,0.2,0.5,78,52,60,63,65,23,341,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+804,683,1,Aromatisse,Fairy,,Pink,Healer,,Aroma Veil,6,false,false,0.8,15.5,101,72,72,99,89,29,462,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+805,684,1,Swirlix,Fairy,,White,Sweet Veil,,Unburden,6,false,false,0.4,3.5,62,48,66,59,57,49,341,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+806,685,1,Slurpuff,Fairy,,White,Sweet Veil,,Unburden,6,false,false,0.8,5.0,82,80,86,85,75,72,480,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+807,686,1,Inkay,Dark,Psychic,Blue,Contrary,Suction Cups,Infiltrator,6,false,false,0.4,3.5,53,54,53,37,46,45,288,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+808,687,1,Malamar,Dark,Psychic,Blue,Contrary,Suction Cups,Infiltrator,6,false,false,1.5,47.0,86,92,88,68,75,73,482,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+809,688,1,Binacle,Rock,Water,Brown,Tough Claws,Sniper,Pickpocket,6,false,false,0.5,31.0,42,52,67,39,56,50,306,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+810,689,1,Barbaracle,Rock,Water,Brown,Tough Claws,Sniper,Pickpocket,6,false,false,1.3,96.0,72,105,115,54,86,68,500,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+811,690,1,Skrelp,Poison,Water,Brown,Poison Point,Poison Touch,Adaptability,6,false,false,0.5,7.3,50,60,60,60,60,30,320,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+812,691,1,Dragalge,Poison,Dragon,Brown,Poison Point,Poison Touch,Adaptability,6,false,false,1.8,81.5,65,75,90,97,123,44,494,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+813,692,1,Clauncher,Water,,Blue,Mega Launcher,,,6,false,false,0.5,8.3,50,53,62,58,63,44,330,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+814,693,1,Clawitzer,Water,,Blue,Mega Launcher,,,6,false,false,1.3,35.3,71,73,88,120,89,59,500,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+815,694,1,Helioptile,Electric,Normal,Yellow,Dry Skin,Sand Veil,Solar Power,6,false,false,0.5,6.0,44,38,33,61,43,70,289,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+816,695,1,Heliolisk,Electric,Normal,Yellow,Dry Skin,Sand Veil,Solar Power,6,false,false,1.0,21.0,62,55,52,109,94,109,481,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+817,696,1,Tyrunt,Rock,Dragon,Brown,Strong Jaw,,Sturdy,6,false,false,0.8,26.0,58,89,77,45,45,48,362,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+818,697,1,Tyrantrum,Rock,Dragon,Red,Strong Jaw,,Rock Head,6,false,false,2.5,270.0,82,121,119,69,59,71,521,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+819,698,1,Amaura,Rock,Ice,Blue,Refrigerate,,Snow Warning,6,false,false,1.3,25.2,77,59,50,67,63,46,362,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+820,699,1,Aurorus,Rock,Ice,Blue,Refrigerate,,Snow Warning,6,false,false,2.7,225.0,123,77,72,99,92,58,521,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+821,700,1,Sylveon,Fairy,,Pink,Cute Charm,,Pixilate,6,false,false,1.0,23.5,95,65,65,110,130,60,525,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+822,701,1,Hawlucha,Fighting,Flying,Green,Limber,Unburden,Mold Breaker,6,false,false,0.8,21.5,78,92,75,74,63,118,500,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+823,702,1,Dedenne,Electric,Fairy,Yellow,Cheek Pouch,Pickup,Plus,6,false,false,0.2,2.2,67,58,57,81,67,101,431,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+824,703,1,Carbink,Rock,Fairy,Grey,Clear Body,,Sturdy,6,false,false,0.3,5.7,50,50,150,50,150,50,500,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+825,704,1,Goomy,Dragon,,Purple,Sap Sipper,Hydration,Gooey,6,false,false,0.3,2.8,45,50,35,55,75,40,300,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+826,705,1,Sliggoo,Dragon,,Purple,Sap Sipper,Hydration,Gooey,6,false,false,0.8,17.5,68,75,53,83,113,60,452,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+827,706,1,Goodra,Dragon,,Purple,Sap Sipper,Hydration,Gooey,6,false,false,2.0,150.5,90,100,70,110,150,80,600,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+828,707,1,Klefki,Steel,Fairy,Grey,Prankster,,Magician,6,false,false,0.2,3.0,57,80,91,80,87,75,470,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+829,708,1,Phantump,Ghost,Grass,Brown,Natural Cure,Frisk,Harvest,6,false,false,0.4,7.0,43,70,48,50,60,38,309,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+830,709,1,Trevenant,Ghost,Grass,Brown,Natural Cure,Frisk,Harvest,6,false,false,1.5,71.0,85,110,76,65,82,56,474,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+831,710,1,Pumpkaboo,Ghost,Grass,Brown,Pickup,Frisk,Insomnia,6,false,false,0.3,3.5,49,66,70,44,55,51,335,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+832,710,2,Pumpkaboo,Ghost,Grass,Brown,Pickup,Frisk,Insomnia,6,false,false,0.4,5.0,44,66,70,44,55,56,335,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+833,710,3,Pumpkaboo,Ghost,Grass,Brown,Pickup,Frisk,Insomnia,6,false,false,0.5,7.5,54,66,70,44,55,46,335,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+834,710,4,Pumpkaboo,Ghost,Grass,Brown,Pickup,Frisk,Insomnia,6,false,false,0.8,15.0,59,66,70,44,55,41,335,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+835,711,1,Gourgeist,Ghost,Grass,Brown,Pickup,Frisk,Insomnia,6,false,false,0.7,9.5,65,90,122,58,75,84,494,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+836,711,2,Gourgeist,Ghost,Grass,Brown,Pickup,Frisk,Insomnia,6,false,false,0.9,12.5,55,85,122,58,75,99,494,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+837,711,3,Gourgeist,Ghost,Grass,Brown,Pickup,Frisk,Insomnia,6,false,false,1.1,14.0,75,95,122,58,75,69,494,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+838,711,4,Gourgeist,Ghost,Grass,Brown,Pickup,Frisk,Insomnia,6,false,false,1.7,39.0,85,100,122,58,75,54,494,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+839,712,1,Bergmite,Ice,,Blue,Own Tempo,Ice Body,Sturdy,6,false,false,1.0,99.5,55,69,85,32,35,28,304,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+840,713,1,Avalugg,Ice,,Blue,Own Tempo,Ice Body,Sturdy,6,false,false,2.0,505.0,95,117,184,44,46,28,514,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+841,714,1,Noibat,Flying,Dragon,Purple,Frisk,Infiltrator,Telepathy,6,false,false,0.5,8.0,40,30,35,45,40,55,245,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+842,715,1,Noivern,Flying,Dragon,Purple,Frisk,Infiltrator,Telepathy,6,false,false,1.5,85.0,85,70,80,97,80,123,535,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+843,716,1,Xerneas,Fairy,,Blue,Fairy Aura,,,6,true,false,3.0,215.0,126,131,95,131,98,99,680,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+844,717,1,Yveltal,Dark,Flying,Red,Dark Aura,,,6,true,false,5.8,203.0,126,131,95,131,98,99,680,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+845,718,1,Zygarde,Dragon,Ground,Green,Aura Break,Power Construct,,6,true,false,5.0,305.0,108,100,121,81,95,95,600,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+846,718,2,Zygarde,Dragon,Ground,Black,Aura Break,Power Construct,,6,true,false,1.2,33.5,54,100,71,61,85,115,486,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+847,718,3,Zygarde,Dragon,Ground,Black,Power Construct,,,6,true,false,4.5,610.0,216,100,121,91,95,85,708,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+848,719,1,Diancie,Rock,Fairy,Pink,Clear Body,,,6,true,false,0.7,8.8,50,100,150,100,150,50,600,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+849,719,2,Mega Diancie,Rock,Fairy,Pink,Magic Bounce,,,6,true,true,1.1,27.8,50,160,110,160,110,110,700,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+850,720,1,Hoopa,Psychic,Ghost,Purple,Magician,,,6,true,false,0.5,9.0,80,110,60,150,130,70,600,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+851,720,2,Hoopa,Psychic,Dark,Purple,Magician,,,6,true,false,6.5,490.0,80,160,60,170,130,80,680,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+852,721,1,Volcanion,Fire,Water,Brown,Watet Absorb,,,6,true,false,1.7,195.0,80,110,120,130,90,70,600,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+853,722,1,Rowlet,Grass,Flying,Brown,Overgrow,,Long Reach,7,false,false,0.3,1.5,68,55,55,50,50,42,320,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+854,723,1,Dartrix,Grass,Flying,Brown,Overgrow,,Long Reach,7,false,false,0.7,16.0,78,75,75,70,70,52,420,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+855,724,1,Decidueye,Grass,Ghost,Brown,Overgrow,,Long Reach,7,false,false,1.6,36.6,78,107,75,100,100,70,530,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+856,725,1,Litten,Fire,,Red,Blaze,,Intimidate,7,false,false,0.4,4.3,45,65,40,60,40,70,320,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+857,726,1,Torracat,Fire,,Red,Blaze,,Intimidate,7,false,false,0.7,25.0,65,85,50,80,50,90,420,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+858,727,1,Incineroar,Fire,Dark,Red,Blaze,,Intimidate,7,false,false,1.8,83.0,95,115,90,80,90,60,530,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+859,728,1,Popplio,Water,,Blue,Torrent,,Liquid Voice,7,false,false,0.4,7.5,50,54,54,66,56,40,320,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+860,729,1,Brionne,Water,,Blue,Torrent,,Liquid Voice,7,false,false,0.6,17.5,60,69,69,91,81,50,420,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+861,730,1,Primarina,Water,Fairy,Blue,Torrent,,Liquid Voice,7,false,false,1.8,44.0,80,74,74,126,116,60,530,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+862,731,1,Pikipek,Normal,Flying,Black,Keen Eye,Skill Link,Pickup,7,false,false,0.3,1.2,35,75,30,30,30,65,265,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+863,732,1,Trumbeak,Normal,Flying,Black,Keen Eye,Skill Link,Pickup,7,false,false,0.6,14.8,55,85,50,40,50,75,355,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+864,733,1,Toucannon,Normal,Flying,Black,Keen Eye,Skill Link,Sheer Force,7,false,false,1.1,26.0,80,120,75,75,75,60,485,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+865,734,1,Yungoos,Normal,,Brown,Stakeout,Strong Jaw,Adaptability,7,false,false,0.4,6.0,48,70,30,30,30,45,253,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+866,735,1,Gumshoos,Normal,,Brown,Stakeout,Strong Jaw,Adaptability,7,false,false,0.7,14.2,88,110,60,55,60,45,418,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+867,736,1,Grubbin,Bug,,Grey,Swarm,,,7,false,false,0.4,4.4,47,62,45,55,45,46,300,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+868,737,1,Charjabug,Bug,Electric,Green,Battery,,,7,false,false,0.5,10.5,57,82,95,55,75,36,400,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+869,738,1,Vikavolt,Bug,Electric,Blue,Levitate,,,7,false,false,1.5,45.0,77,70,90,145,75,43,500,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+870,739,1,Crabrawler,Fighting,,Purple,Hyper Cutter,Iron Fist,Anger Point,7,false,false,0.6,7.0,47,82,57,42,47,63,338,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+871,740,1,Crabominable,Fighting,Ice,White,Hyper Cutter,Iron Fist,Anger Point,7,false,false,1.7,180.0,97,132,77,62,67,43,478,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+872,741,1,Oricorio,Fire,Flying,Red,Dancer,,,7,false,false,0.6,3.4,75,70,70,98,70,93,476,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+873,741,2,Oricorio,Electric,Flying,Yellow,Dancer,,,7,false,false,0.6,3.4,75,70,70,98,70,93,476,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+874,741,3,Oricorio,Psychic,Flying,Pink,Dancer,,,7,false,false,0.6,3.4,75,70,70,98,70,93,476,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+875,741,4,Oricorio,Ghost,Flying,Purple,Dancer,,,7,false,false,0.6,3.4,75,70,70,98,70,93,476,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+876,742,1,Cutiefly,Bug,Fairy,Yellow,Honey Gather,Shield Dust,Sweet Veil,7,false,false,0.1,0.2,40,45,40,55,40,84,304,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+877,743,1,Ribombee,Bug,Fairy,Yellow,Honey Gather,Shield Dust,Sweet Veil,7,false,false,0.2,0.5,60,55,60,95,70,124,464,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+878,744,1,Rockruff,Rock,,Brown,Keen Eye,Vital Spilit,Steadfast,7,false,false,0.5,9.2,45,65,40,30,40,60,280,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+879,744,2,Rockruff,Rock,,Brown,Own Tempo,,,7,false,false,0.5,9.2,45,65,40,30,40,60,280,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+880,745,1,Lycanroc,Rock,,Brown,Keen Eye,Sand Rush,Steadfast,7,false,false,0.8,25.0,75,115,65,55,65,112,487,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+881,745,2,Lycanroc,Rock,,Red,Keen Eye,Vital Spilit,No Guard,7,false,false,1.1,25.0,85,115,75,55,75,82,487,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+882,745,3,Lycanroc,Rock,,Brown,Tough Claws,,,7,false,false,0.8,25.0,75,117,65,55,65,110,487,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+883,746,1,Wishiwashi,Water,,Blue,Schooling,,,7,false,false,0.2,0.3,45,20,20,25,25,40,175,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+884,746,2,Wishiwashi,Water,,Blue,Schooling,,,7,false,false,8.2,78.6,45,140,130,140,135,30,620,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+885,747,1,Mareanie,Poison,Water,Blue,Merciness,Limber,Regenerator,7,false,false,0.4,8.0,50,53,62,43,52,45,305,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+886,748,1,Toxapex,Poison,Water,Blue,Merciness,Limber,Regenerator,7,false,false,0.7,14.5,50,63,152,53,142,35,495,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+887,749,1,Mudbray,Ground,,Brown,Own Tempo,Stamina,Inner Focus,7,false,false,1.0,110.0,70,100,70,45,55,45,385,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+888,750,1,Mudsdale,Ground,,Brown,Own Tempo,Stamina,Inner Focus,7,false,false,2.5,920.0,100,125,100,55,85,35,500,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+889,751,1,Dewpider,Water,Bug,Green,Water Bubble,,Water Absorb,7,false,false,0.3,4.0,38,40,52,40,72,27,269,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+890,752,1,Araquanid,Water,Bug,Green,Water Bubble,,Water Absorb,7,false,false,1.8,82.0,68,70,92,50,132,42,454,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+891,753,1,Fomantis,Grass,,Pink,Leaf Guard,,Contrary,7,false,false,0.3,1.5,40,55,35,50,35,35,250,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+892,754,1,Lurantis,Grass,,Pink,Leaf Guard,,Contrary,7,false,false,0.9,18.5,70,105,90,80,90,45,480,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+893,755,1,Morelull,Grass,Fairy,Purple,Illuminate,Effect Spore,Rain Dish,7,false,false,0.2,1.5,40,35,55,65,75,15,285,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+894,756,1,Shiinotic,Grass,Fairy,Purple,Illuminate,Effect Spore,Rain Dish,7,false,false,1.0,11.5,60,45,80,90,100,30,405,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+895,757,1,Salandit,Poison,Fire,Black,Corrosion,,Oblivious,7,false,false,0.6,4.8,48,44,40,71,40,77,320,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+896,758,1,Salazzle,Poison,Fire,Black,Corrosion,,Oblivious,7,false,false,1.2,22.2,68,64,60,111,60,117,480,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+897,759,1,Stufful,Normal,Fighting,Pink,Fluffy,Klutz,Cute Charm,7,false,false,0.5,6.8,70,75,50,45,50,50,340,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+898,760,1,Bewear,Normal,Fighting,Pink,Fluffy,Klutz,Unnerve,7,false,false,2.1,135.0,120,125,80,55,60,60,500,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+899,761,1,Bounsweet,Grass,,Purple,Leaf Guard,Oblivious,Sweet Veil,7,false,false,0.3,3.2,42,30,38,30,38,32,210,2022-08-08 19:18:43 UTC,2022-08-08 19:18:43 UTC
+900,762,1,Steenee,Grass,,Purple,Leaf Guard,Oblivious,Sweet Veil,7,false,false,0.7,8.2,52,40,48,40,48,62,290,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+901,763,1,Tsareena,Grass,,Purple,Leaf Guard,Queenly Majesty,Sweet Veil,7,false,false,1.2,21.4,72,120,98,50,98,72,510,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+902,764,1,Comfey,Fairy,,Green,Flower Veil,Triage,Natural Cure,7,false,false,0.1,0.3,51,52,90,82,110,100,485,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+903,765,1,Oranguru,Normal,Psychic,White,Inner Focus,Telepathy,Symbiosis,7,false,false,1.5,76.0,90,60,80,90,110,60,490,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+904,766,1,Passimian,Fighting,,White,Reciever,,Defiant,7,false,false,2.0,82.8,100,120,90,40,60,80,490,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+905,767,1,Wimpod,Bug,Water,Grey,Wimp Out,,,7,false,false,0.5,12.0,25,35,40,20,30,80,230,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+906,768,1,Golisopod,Bug,Water,Grey,Emergency Exit,,,7,false,false,2.0,108.0,75,125,140,60,90,40,530,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+907,769,1,Sandygast,Ghost,Ground,Brown,Water Compaction,,Sand Veil,7,false,false,0.5,70.0,55,55,80,70,45,15,320,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+908,770,1,Palossand,Ghost,Ground,Brown,Water Compaction,,Sand Veil,7,false,false,1.3,250.0,85,75,110,100,75,35,480,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+909,771,1,Pyukumuku,Water,,Black,Innards Out,,Unaware,7,false,false,0.3,1.2,55,60,130,30,130,5,410,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+910,772,1,Type: Null,Normal,,Grey,Battle Armor,,,7,true,false,1.9,120.5,95,95,95,95,95,59,534,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+911,773,1,Silvally,Normal,,Grey,RKS System,,,7,true,false,2.3,100.5,95,95,95,95,95,95,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+912,774,1,Minior,Rock,Flying,Brown,Shields Down,,,7,false,false,0.3,40.0,60,60,100,60,100,60,440,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+913,774,2,Minior,Rock,Flying,Brown,Shields Down,,,7,false,false,0.3,0.3,60,100,60,100,60,120,500,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+914,775,1,Komala,Normal,,Blue,Comatose,,,7,false,false,0.4,19.9,65,115,65,75,95,65,480,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+915,776,1,Turtonator,Fire,Dragon,Red,Shell Armor,,,7,false,false,2.0,212.0,60,78,135,91,85,36,485,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+916,777,1,Togedemaru,Electric,Steel,Grey,Iron Barbs,Lightning Rod,Sturdy,7,false,false,0.3,3.3,65,98,63,40,73,96,435,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+917,778,1,Mimikyu,Ghost,Fairy,Yellow,Disguise,,,7,false,false,0.2,0.7,55,90,80,50,105,96,476,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+918,779,1,Bruxish,Water,Psychic,Pink,Dazzling,Strong Jaw,Wonder Skin,7,false,false,0.9,19.0,68,105,70,70,70,92,475,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+919,780,1,Drampa,Normal,Dragon,White,Berserk,Sap Sipper,Cloud Nine,7,false,false,3.0,185.0,78,60,85,135,91,36,485,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+920,781,1,Dhelmise,Ghost,Grass,Green,Steelworker,,,7,false,false,3.9,210.0,70,131,100,86,90,40,517,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+921,782,1,Jangmo-o,Dragon,,Grey,Bulletproof,Soundproof,Overcoat,7,false,false,0.6,29.7,45,55,65,45,45,45,300,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+922,783,1,Hakamo-o,Dragon,Fighting,Grey,Bulletproof,Soundproof,Overcoat,7,false,false,1.2,47.0,55,75,90,65,70,65,420,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+923,784,1,Kommo-o,Dragon,Fighting,Grey,Bulletproof,Soundproof,Overcoat,7,false,false,1.6,78.2,75,110,125,100,105,85,600,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+924,785,1,Tapu Koko,Electric,Fairy,Yellow,Electric Surge,,Telepathy,7,true,false,1.8,20.5,70,115,85,95,75,130,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+925,786,1,Tapu Lele,Psychic,Fairy,Pink,Psychic Surge,,Telepathy,7,true,false,1.2,28.6,70,85,75,130,115,95,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+926,787,1,Tapu Bulu,Grass,Fairy,Red,Grassy Surge,,Telepathy,7,true,false,1.9,45.5,70,130,115,85,95,75,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+927,788,1,Tapu Fini,Water,Fairy,Purple,Misty Surge,,Telepathy,7,true,false,1.3,21.2,70,75,115,95,130,85,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+928,789,1,Cosmog,Psychic,,Blue,Unaware,,,7,true,false,0.2,0.1,43,29,31,29,31,37,200,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+929,790,1,Cosmoem,Psychic,,Blue,Sturdy,,,7,true,false,0.1,999.9,43,29,131,29,131,37,400,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+930,791,1,Solgaleo,Psychic,Steel,White,Full Metal Body,,,7,true,false,3.4,230.0,137,137,107,113,89,97,680,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+931,792,1,Lunala,Psychic,Ghost,Purple,Shadow Shield,,,7,true,false,4.0,120.0,137,113,89,137,107,97,680,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+932,793,1,Nihilego,Rock,Poison,White,Beast Boost,,,7,true,false,1.2,55.5,109,53,47,127,131,103,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+933,794,1,Buzzwole,Bug,Fighting,Red,Beast Boost,,,7,true,false,2.4,333.6,107,139,139,53,53,79,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+934,795,1,Pheromosa,Bug,Fighting,White,Beast Boost,,,7,true,false,1.8,25.0,71,137,37,137,37,151,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+935,796,1,Xurkitree,Electric,,Black,Beast Boost,,,7,true,false,3.8,100.0,83,89,71,173,71,83,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+936,797,1,Celesteela,Steel,Flying,Green,Beast Boost,,,7,true,false,9.2,999.9,97,101,103,107,101,61,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+937,798,1,Kartana,Grass,Steel,White,Beast Boost,,,7,true,false,0.3,0.1,59,181,131,59,31,109,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+938,799,1,Guzzlord,Dark,Dragon,Black,Beast Boost,,,7,true,false,5.5,888.0,223,101,53,97,53,43,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+939,800,1,Necrozma,Psychic,,Black,Prism Armor,,,7,true,false,2.4,230.0,97,107,101,127,89,79,600,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+940,800,2,Necrozma,Psychic,Steel,Yellow,Prism Armor,,,7,true,false,3.8,460.0,97,157,127,113,109,77,680,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+941,800,3,Necrozma,Psychic,Ghost,Blue,Prism Armor,,,7,true,false,4.2,350.0,97,113,109,157,127,77,680,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+942,800,4,Necrozma,Psychic,Dragon,Yellow,Neuroforce,,,7,true,false,7.5,230.0,97,167,97,167,97,129,754,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+943,801,1,Magearna,Steel,Fairy,Grey,Soul-Heart,,,7,true,false,1.0,80.5,80,95,115,130,115,65,600,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+944,802,1,Marshadow,Fighting,Ghost,Grey,Technician,,,7,true,false,0.7,22.2,90,125,80,90,90,125,600,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+945,803,1,Poipole,Poison,,Purple,Beast Boost,,,7,true,false,0.6,1.8,67,73,67,73,67,73,420,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+946,804,1,Naganadel,Poison,Dragon,Purple,Beast Boost,,,7,true,false,3.6,150.0,73,73,73,127,73,121,540,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+947,805,1,Stakataka,Rock,Steel,Grey,Beast Boost,,,7,true,false,5.5,820.0,61,131,211,53,101,13,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+948,806,1,Blacephalon,Fire,Ghost,White,Beast Boost,,,7,true,false,1.8,13.0,53,127,53,151,79,107,570,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+949,807,1,Zeraora,Electric,,Yellow,Volt Absorb,,,7,true,false,1.5,44.5,88,112,75,102,80,143,600,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+950,808,1,Meltan,Steel,,Grey,Magnet Pull,,,7,true,false,0.2,8.0,46,65,65,55,35,34,300,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+951,809,1,Melmetal,Steel,,Grey,Iron Fist,,,7,true,false,2.5,800.0,135,143,143,80,65,34,600,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+952,810,1,Grookey,Grass,,Green,Overgrow,,Grassy Surge,8,false,false,0.3,5.0,50,65,50,40,40,65,310,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+953,811,1,Thwackey,Grass,,Green,Overgrow,,Grassy Surge,8,false,false,0.7,14.0,70,85,70,55,60,80,420,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+954,812,1,Rillaboom,Grass,,Green,Overgrow,,Grassy Surge,8,false,false,2.1,90.0,100,125,90,60,70,85,530,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+955,813,1,Scorbunny,Fire,,White,Blaze,,Libero,8,false,false,0.3,4.5,50,71,40,40,40,69,310,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+956,814,1,Raboot,Fire,,Grey,Blaze,,Libero,8,false,false,0.6,9.0,65,86,60,55,60,94,420,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+957,815,1,Cinderace,Fire,,White,Blaze,,Libero,8,false,false,1.4,33.0,80,116,75,65,75,119,530,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+958,816,1,Sobble,Water,,Blue,Torrent,,Sniper,8,false,false,0.3,4.0,50,40,40,70,40,70,310,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+959,817,1,Drizzile,Water,,Blue,Torrent,,Sniper,8,false,false,0.7,11.5,65,60,60,95,55,90,425,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+960,818,1,Inteleon,Water,,Blue,Torrent,,Sniper,8,false,false,1.9,45.2,70,85,75,125,65,120,540,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+961,819,1,Skwovet,Normal,,Brown,Cheek Pouch,,Gluttony,8,false,false,0.3,2.5,70,55,40,35,35,25,260,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+962,820,1,Greedent,Normal,,Brown,Cheek Pouch,,Gluttony,8,false,false,0.6,6.0,120,95,55,55,75,20,420,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+963,821,1,Rookidee,Flying,,Blue,Keen Eye,Unnerve,Big Pecks,8,false,false,0.2,1.8,38,47,65,33,35,57,275,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+964,822,1,Convisquire,Flying,,Blue,Keen Eye,Unnerve,Big Pecks,8,false,false,0.8,16.0,68,67,55,43,55,77,365,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+965,823,1,Conviknight,Flying,Steel,Purple,Keen Eye,Unnerve,Mirror Armor,8,false,false,2.2,75.0,98,87,105,53,85,67,495,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+966,824,1,Blipbug,Bug,,Blue,Swarm,Compound Eyes,Telepathy,8,false,false,0.4,8.0,25,20,20,25,45,45,180,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+967,825,1,Dottler,Bug,Psychic,Yellow,Swarm,Compound Eyes,Telepathy,8,false,false,0.4,19.5,50,35,80,50,90,30,335,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+968,826,1,Orbeetle,Bug,Psychic,Red,Swarm,Frisk,Telepathy,8,false,false,0.4,40.8,60,45,110,80,120,90,505,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+969,827,1,Nickit,Dark,,Brown,Run Away,Unburden,Stekeout,8,false,false,0.6,8.9,40,28,28,47,52,50,245,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+970,828,1,Thievul,Dark,,Brown,Run Away,Unburden,Stekeout,8,false,false,1.2,19.9,70,58,58,87,92,90,455,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+971,829,1,Gossifleur,Grass,,Green,Cotton Down,Regenerator,Effect Spore,8,false,false,0.4,2.2,40,40,60,40,60,10,250,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+972,830,1,Eldegoss,Grass,,Green,Cotton Down,Regenerator,Effect Spore,8,false,false,0.5,2.5,60,50,90,80,120,60,460,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+973,831,1,Wooloo,Normal,,White,Fluffy,Run Away,Bulletproof,8,false,false,0.6,6.0,42,40,55,40,45,48,270,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+974,832,1,Dubwool,Normal,,White,Fluffy,Steadfast,Bulletproof,8,false,false,1.3,43.0,72,80,100,60,90,88,490,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+975,833,1,Chewtle,Water,,Green,Strong Jaw,Shell Armor,Swift Swim,8,false,false,0.3,8.5,50,64,50,38,38,44,284,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+976,834,1,Drednaw,Water,Rock,Green,Strong Jaw,Shell Armor,Swift Swim,8,false,false,1.0,115.5,90,115,90,48,68,74,485,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+977,835,1,Yamper,Electric,,Yellow,Bell Fetch,,Rattled,8,false,false,0.3,13.5,59,45,50,40,50,26,270,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+978,836,1,Boltund,Electric,,Yellow,Strong Jaw,,Competitive,8,false,false,1.0,34.0,69,90,60,90,60,121,490,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+979,837,1,Rolycoly,Rock,,Black,Steam Engine,Heatproof,Flash Fire,8,false,false,0.3,12.0,30,40,50,40,50,30,240,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+980,838,1,Carkol,Rock,Fire,Black,Steam Engine,Flame Body,Flash Fire,8,false,false,1.1,78.0,80,60,90,60,70,50,410,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+981,839,1,Coalossal,Rock,Fire,Black,Steam Engine,Flame Body,Flash Fire,8,false,false,2.8,310.5,110,80,120,80,90,30,510,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+982,840,1,Applin,Grass,Dragon,Green,Ripen,Gluttony,Bulletproof,8,false,false,0.2,0.5,40,40,80,40,40,20,260,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+983,841,1,Flapple,Grass,Dragon,Green,Ripen,Gluttony,Hustle,8,false,false,0.3,1.0,70,110,80,95,60,70,485,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+984,842,1,Appletun,Grass,Dragon,Green,Ripen,Gluttony,Thick Fat,8,false,false,0.4,13.0,110,85,80,100,80,30,485,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+985,843,1,Silicobra,Ground,,Green,Sand Spit,Shed Skin,Sand Veil,8,false,false,2.2,7.6,52,57,75,35,50,46,315,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+986,844,1,Sandaconda,Ground,,Green,Sand Spit,Shed Skin,Sand Veil,8,false,false,3.8,65.5,72,107,125,65,70,71,510,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+987,845,1,Cramorant,Flying,Water,Blue,Gulp Missile,,,8,false,false,0.8,18.0,70,85,55,85,95,85,475,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+988,846,1,Arrokuda,Water,,Brown,Swift Swim,,Propeller Tail,8,false,false,0.5,1.0,41,63,40,40,30,66,280,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+989,847,1,Barraskewda,Water,,Brown,Swift Swim,,Propeller Tail,8,false,false,1.3,30.0,61,123,60,60,50,136,490,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+990,848,1,Toxel,Electric,Poison,Purple,Rattled,Static,Klutz,8,false,false,0.4,11.0,40,38,35,54,35,40,242,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+991,849,1,Toxtricity,Electric,Poison,Purple,Punk Rock,Plus,Technician,8,false,false,1.6,40.0,75,98,70,114,70,75,502,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+992,849,2,Toxtricity,Electric,Poison,Purple,Punk Rock,Minus,Technician,8,false,false,1.6,40.0,75,98,70,114,70,75,502,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+993,850,1,Sizzlipede,Fire,Bug,Red,Flash Fire,White Smoke,Flame Body,8,false,false,0.7,1.0,50,65,45,50,50,45,305,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+994,851,1,Centiskorch,Fire,Bug,Red,Flash Fire,White Smoke,Flame Body,8,false,false,3.0,120.0,100,115,65,90,90,65,525,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+995,852,1,Clobbopus,Fighting,,Brown,Limber,,Technician,8,false,false,0.6,4.0,50,68,60,50,50,32,310,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+996,853,1,Grapploct,Fighting,,Blue,Limber,,Technician,8,false,false,1.6,39.0,80,118,90,70,80,42,480,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+997,854,1,Sinistea,Ghost,,Purple,Weak Armor,,Cursed Body,8,false,false,0.1,0.2,40,45,45,74,54,50,308,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+998,855,1,Polteageist,Ghost,,Purple,Weak Armor,,Cursed Body,8,false,false,0.2,0.4,60,65,65,134,114,70,508,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+999,856,1,Hatenna,Psychic,,Pink,Healer,Anticipation,Magic Bounce,8,false,false,0.4,3.4,42,30,60,56,53,39,280,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1000,857,1,Hattrem,Psychic,,Pink,Healer,Anticipation,Magic Bounce,8,false,false,0.6,4.8,57,40,90,86,73,49,395,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1001,858,1,Hatterene,Psychic,Fairy,Pink,Healer,Anticipation,Magic Bounce,8,false,false,2.1,5.1,57,90,45,136,103,29,460,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1002,859,1,Impidimp,Dark,Fairy,Pink,Prankster,Frisk,Pickpocket,8,false,false,0.4,5.5,45,45,65,55,40,50,300,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1003,860,1,Morgrem,Dark,Fairy,Pink,Prankster,Frisk,Pickpocket,8,false,false,0.8,12.5,65,60,45,75,55,70,370,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1004,861,1,Grimmsnarl,Dark,Fairy,Purple,Prankster,Frisk,Pickpocket,8,false,false,1.5,61.0,95,120,65,95,75,60,510,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1005,862,1,Obstagoon,Dark,Normal,Grey,Reckless,Guts,Defiant,8,false,false,1.6,46.0,93,90,101,60,81,95,520,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1006,863,1,Perrserker,Steel,,Brown,Battle Armor,Tough Claws,Steely Spilit,8,false,false,0.8,28.0,70,110,100,50,60,50,440,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1007,864,1,Cursola,Ghost,,White,Weak Armor,,Perish Body,8,false,false,1.0,0.4,60,95,50,145,130,30,510,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1008,865,1,Sirfetch'd,Fighting,,White,Steadfast,,Scrappy,8,false,false,0.8,117.0,62,135,95,68,82,65,507,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1009,866,1,Mr. Rime,Ice,Psychic,Purple,Tangled Feet,Screen Cleaner,Ice Body,8,false,false,1.5,58.2,80,85,75,110,100,70,520,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1010,867,1,Runerigus,Ground,Ghost,Grey,Wandering Spilit,,,8,false,false,1.6,66.6,58,95,145,50,105,30,483,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1011,868,1,Milcery,Fairy,,White,Sweet Veil,,Aroma Veil,8,false,false,0.2,0.3,45,40,40,50,61,34,270,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1012,869,1,Alcremie,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,false,false,0.3,0.5,65,60,75,110,121,64,495,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1013,870,1,Falinks,Fighting,,Yellow,Battle Armor,,Defiant,8,false,false,3.0,62.0,65,100,100,70,60,75,470,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1014,871,1,Pincurchin,Electric,,Purple,Lightning Rod,,Electric Surge,8,false,false,0.3,1.0,48,101,95,91,85,15,435,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1015,872,1,Snom,Ice,Bug,White,Shield Dust,,Ice Scales,8,false,false,0.3,3.8,30,25,35,45,30,20,185,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1016,873,1,Frosmoth,Ice,Bug,White,Shield Dust,,Ice Scales,8,false,false,1.3,42.0,70,65,60,125,90,65,475,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1017,874,1,Stonjourner,Rock,,Grey,Power Spot,,,8,false,false,2.5,520.0,100,125,135,20,20,70,470,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1018,875,1,Eiscue,Ice,,Blue,Ice Face,,,8,false,false,1.4,89.0,75,80,110,65,90,50,470,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1019,875,2,Eiscue,Ice,,Blue,Ice Face,,,8,false,false,1.4,89.0,75,80,70,65,50,130,470,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1020,876,1,Indeedee M,Psychic,Normal,Purple,Inner Focus,Synchronize,Psychic Surge,8,false,false,0.9,28.0,60,65,55,105,95,95,475,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1021,876,2,Indeedee F,Psychic,Normal,Purple,Own Tempo,Synchronize,Psychic Surge,8,false,false,0.9,28.0,70,55,65,95,105,85,475,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1022,877,1,Morpeko,Electric,Dark,Yellow,Hunger Switch,,,8,false,false,0.3,3.0,58,95,58,70,58,97,436,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1023,878,1,Cufant,Steel,,Yellow,Sheer Force,,Heavy Metal,8,false,false,1.2,100.0,72,80,49,40,49,40,330,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1024,879,1,Copperajah,Steel,,Green,Sheer Force,,Heavy Metal,8,false,false,3.0,650.0,122,130,69,80,69,30,500,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1025,880,1,Dracozolt,Electric,Dragon,Green,Volt Absorb,Hustle,Sand Rush,8,false,false,1.8,190.0,90,100,90,80,70,75,505,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1026,881,1,Arctozolt,Electric,Ice,Blue,Volt Absorb,Static,Slush Rush,8,false,false,2.3,150.0,90,100,90,90,80,55,505,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1027,882,1,Dracovish,Water,Dragon,Green,Water Absorb,Strong Jaw,Sand Rush,8,false,false,2.3,215.0,90,90,100,70,80,75,505,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1028,883,1,Arctovish,Water,Ice,Blue,Water Absorb,Ice Body,Slush Rush,8,false,false,2.0,175.0,90,90,100,80,90,55,505,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1029,884,1,Duraludon,Steel,Dragon,White,Light Metal,Heavy Metal,Stalwart,8,false,false,1.8,40.0,70,95,115,120,50,85,535,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1030,885,1,Dreepy,Dragon,Ghost,Green,Clear Body,Infiltrator,Cursed Body,8,false,false,0.5,2.0,28,60,30,40,30,82,270,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1031,886,1,Drakloak,Dragon,Ghost,Green,Clear Body,Infiltrator,Cursed Body,8,false,false,1.4,11.0,68,80,50,60,50,102,410,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1032,887,1,Dragapult,Dragon,Ghost,Green,Clear Body,Infiltrator,Cursed Body,8,false,false,3.0,50.0,88,120,75,100,75,142,600,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1033,888,1,Zacian,Fairy,,Blue,Intrepid Sword,,,8,true,false,2.8,110.0,92,130,115,80,115,138,670,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1034,888,2,Zacian,Fairy,Steel,Blue,Intrepid Sword,,,8,true,false,2.8,355.0,92,170,115,80,115,148,720,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1035,889,1,Zamazanta,Fighting,,Red,Dauntless Shield,,,8,true,false,2.9,210.0,92,130,115,80,115,138,670,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1036,889,2,Zamazanta,Fighting,Steel,Red,Dauntless Shield,,,8,true,false,2.9,785.0,92,130,145,80,145,128,720,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1037,890,1,Eternatus,Poison,Dragon,Purple,Pressure,,,8,true,false,2.0,950.0,140,85,95,145,95,130,690,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1038,891,1,Kubfu,Fighting,,Grey,Inner Focus,,,8,true,false,0.6,12.0,60,90,60,53,50,72,385,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1039,892,1,Urshifu,Fighting,Dark,Grey,Unseen Fist,,,8,true,false,1.9,105.0,100,130,100,63,60,97,550,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1040,892,2,Urshifu,Fighting,Water,Grey,Unseen Fist,,,8,true,false,1.9,105.0,100,130,100,63,60,97,550,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1041,893,1,Zarude,Dark,Grass,Green,Leaf Guard,,,8,true,false,1.8,70.0,105,120,105,70,95,105,600,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1042,894,1,Regieleki,Electric,,Yellow,Transistor,,,8,true,false,1.2,145.0,80,100,50,100,50,200,580,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1043,895,1,Regidrago,Dragon,,Green,Dragon's Maw,,,8,true,false,2.1,200.0,200,100,50,100,50,80,580,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1044,896,1,Glastrier,Ice,,White,Chilling Neigh,,,8,true,false,2.2,800.0,100,145,130,65,110,30,580,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1045,897,1,Spectrier,Ghost,,Black,Grim Neigh,,,8,true,false,2.0,44.5,100,65,60,145,80,130,580,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1046,898,1,Calyrex,Psychic,Grass,Green,Unnerve,,,8,true,false,1.1,7.7,100,80,80,80,80,80,500,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1047,898,2,Calyrex,Psychic,Ice,White,As One,,,8,true,false,2.4,809.1,100,165,150,85,130,50,680,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
+1048,898,3,Calyrex,Psychic,Ghost,Black,As One,,,8,true,false,2.4,53.6,100,85,80,165,100,150,680,2022-08-08 19:18:44 UTC,2022-08-08 19:18:44 UTC
