@@ -1,0 +1,899 @@
+pokemon_id,name,group_one,group_two
+1,Bulbasaur,Monster,Grass
+2,Ivysaur,Monster,Grass
+3,Venusaur,Monster,Grass
+5,Charmander,Monster,Dragon
+6,Charmeleon,Monster,Dragon
+7,Charizard,Monster,Dragon
+10,Squirtle,Monster,Water 1
+11,Wartortle,Monster,Water 1
+12,Blastoise,Monster,Water 1
+14,Caterpie,Bug,
+15,Metapod,Bug,
+16,Butterfree,Bug,
+17,Weedle,Bug,
+18,Kakuna,Bug,
+19,Beedrill,Bug,
+21,Pidgey,Flying,
+22,Pidgeotto,Flying,
+23,Pidgeot,Flying,
+25,Rattata,Field,
+27,Raticate,Field,
+29,Spearow,Flying,
+30,Fearow,Flying,
+31,Ekans,Field,Dragon
+32,Arbok,Field,Dragon
+33,Pikachu,Field,Fairy
+34,Raichu,Field,Fairy
+36,Sandshrew,Field,
+38,Sandslash,Field,
+40,Nidoran?,Monster,Field
+41,Nidorina,No Eggs Discovered,
+42,Nidoqueen,No Eggs Discovered,
+43,Nidoran?,Monster,Field
+44,Nidorino,Monster,Field
+45,Nidoking,Monster,Field
+46,Clefairy,Fairy,
+47,Clefable,Fairy,
+48,Vulpix,Field,
+50,Ninetales,Field,
+52,Jigglypuff,Fairy,
+53,Wigglytuff,Fairy,
+54,Zubat,Flying,
+55,Golbat,Flying,
+56,Oddish,Grass,
+57,Gloom,Grass,
+58,Vileplume,Grass,
+59,Paras,Bug,Grass
+60,Parasect,Bug,Grass
+61,Venonat,Bug,
+62,Venomoth,Bug,
+63,Diglett,Field,
+65,Dugtrio,Field,
+67,Meowth,Field,
+70,Persian,Field,
+72,Psyduck,Water 1,Field
+73,Golduck,Water 1,Field
+74,Mankey,Field,
+75,Primeape,Field,
+76,Growlithe,Field,
+77,Arcanine,Field,
+78,Poliwag,Water 1,
+79,Poliwhirl,Water 1,
+80,Poliwrath,Water 1,
+81,Abra,Human-Like,
+82,Kadabra,Human-Like,
+83,Alakazam,Human-Like,
+85,Machop,Human-Like,
+86,Machoke,Human-Like,
+87,Machamp,Human-Like,
+88,Bellsprout,Grass,
+89,Weepinbell,Grass,
+90,Victreebel,Grass,
+91,Tentacool,Water 3,
+92,Tentacruel,Water 3,
+93,Geodude,Mineral,
+95,Graveler,Mineral,
+97,Golem,Mineral,
+99,Ponyta,Field,
+101,Rapidash,Field,
+103,Slowpoke,Monster,Water 1
+105,Slowbro,Monster,Water 1
+108,Magnemite,Mineral,
+109,Magneton,Mineral,
+110,Farfetch'd,Flying,Field
+112,Doduo,Flying,
+113,Dodrio,Flying,
+114,Seel,Water 1,Field
+115,Dewgong,Water 1,Field
+116,Grimer,Amorphous,
+118,Muk,Amorphous,
+120,Shellder,Water 3,
+121,Cloyster,Water 3,
+122,Gastly,Amorphous,
+123,Haunter,Amorphous,
+124,Gengar,Amorphous,
+126,Onix,Mineral,
+127,Drowzee,Human-Like,
+128,Hypno,Human-Like,
+129,Krabby,Water 3,
+130,Kingler,Water 3,
+131,Voltorb,Mineral,
+132,Electrode,Mineral,
+133,Exeggcute,Grass,
+134,Exeggutor,Grass,
+136,Cubone,Monster,
+137,Marowak,Monster,
+139,Hitmonlee,Human-Like,
+140,Hitmonchan,Human-Like,
+141,Lickitung,Monster,
+142,Koffing,Amorphous,
+143,Weezing,Amorphous,
+145,Rhyhorn,Monster,Field
+146,Rhydon,Monster,Field
+147,Chansey,Fairy,
+148,Tangela,Grass,
+149,Kangaskhan,Monster,
+151,Horsea,Water 1,Dragon
+152,Seadra,Water 1,Dragon
+153,Goldeen,Water 2,
+154,Seaking,Water 2,
+155,Staryu,Water 3,
+156,Starmie,Water 3,
+157,Mr. Mime,Human-Like,
+159,Scyther,Bug,
+160,Jynx,Human-Like,
+161,Electabuzz,Human-Like,
+162,Magmar,Human-Like,
+163,Pinsir,Bug,
+165,Tauros,Field,
+166,Magikarp,Water 2,Dragon
+167,Gyarados,Water 2,Dragon
+169,Lapras,Monster,Water 1
+170,Ditto,Ditto,
+171,Eevee,Field,
+172,Vaporeon,Field,
+173,Jolteon,Field,
+174,Flareon,Field,
+175,Porygon,Mineral,
+176,Omanyte,Water 1,Water 3
+177,Omastar,Water 1,Water 3
+178,Kabuto,Water 1,Water 3
+179,Kabutops,Water 1,Water 3
+180,Aerodactyl,Flying,
+182,Snorlax,Monster,
+183,Articuno,No Eggs Discovered,
+184,Zapdos,No Eggs Discovered,
+185,Moltres,No Eggs Discovered,
+186,Dratini,Water 1,Dragon
+187,Dragonair,Water 1,Dragon
+188,Dragonite,Water 1,Dragon
+189,Mewtwo,No Eggs Discovered,
+192,Mew,No Eggs Discovered,
+193,Chikorita,Monster,Grass
+194,Bayleef,Monster,Grass
+195,Meganium,Monster,Grass
+196,Cyndaquil,Field,
+197,Quilava,Field,
+198,Typhlosion,Field,
+199,Totodile,Monster,Water 1
+200,Croconaw,Monster,Water 1
+201,Feraligatr,Monster,Water 1
+202,Sentret,Field,
+203,Furret,Field,
+204,Hoothoot,Flying,
+205,Noctowl,Flying,
+206,Ledyba,Bug,
+207,Ledian,Bug,
+208,Spinarak,Bug,
+209,Ariados,Bug,
+210,Crobat,Flying,
+211,Chinchou,Water 2,
+212,Lanturn,Water 2,
+213,Pichu,No Eggs Discovered,
+214,Cleffa,No Eggs Discovered,
+215,Igglybuff,No Eggs Discovered,
+216,Togepi,No Eggs Discovered,
+217,Togetic,Flying,Fairy
+218,Natu,Flying,
+219,Xatu,Flying,
+220,Mareep,Monster,Field
+221,Flaaffy,Monster,Field
+222,Ampharos,Monster,Field
+224,Bellossom,Grass,
+225,Marill,Water 1,Fairy
+226,Azumarill,Water 1,Fairy
+227,Sudowoodo,Mineral,
+228,Politoed,Water 1,
+229,Hoppip,Fairy,Grass
+230,Skiploom,Fairy,Grass
+231,Jumpluff,Fairy,Grass
+232,Aipom,Field,
+233,Sunkern,Grass,
+234,Sunflora,Grass,
+235,Yanma,Bug,
+236,Wooper,Water 1,Field
+237,Quagsire,Water 1,Field
+238,Espeon,Field,
+239,Umbreon,Field,
+240,Murkrow,Flying,
+241,Slowking,Monster,Water 1
+242,Misdreavus,Amorphous,
+243,Unown,No Eggs Discovered,
+244,Wobbuffet,Amorphous,
+245,Girafarig,Field,
+246,Pineco,Bug,
+247,Forretress,Bug,
+248,Dunsparce,Field,
+249,Gligar,Bug,
+250,Steelix,Mineral,
+252,Snubbull,Field,Fairy
+253,Granbull,Field,Fairy
+254,Qwilfish,Water 2,
+255,Scizor,Bug,
+257,Shuckle,Bug,
+258,Heracross,Bug,
+260,Sneasel,Field,
+261,Teddiursa,Field,
+262,Ursaring,Field,
+263,Slugma,Amorphous,
+264,Magcargo,Amorphous,
+265,Swinub,Field,
+266,Piloswine,Field,
+267,Corsola,Water 1,Water 3
+269,Remoraid,Water 1,Water 2
+270,Octillery,Water 1,Water 2
+271,Delibird,Water 1,Field
+272,Mantine,Water 1,
+273,Skarmory,Flying,
+274,Houndour,Field,
+275,Houndoom,Field,
+277,Kingdra,Water 1,Dragon
+278,Phanpy,Field,
+279,Donphan,Field,
+280,Porygon2,Mineral,
+281,Stantler,Field,
+282,Smeargle,Field,
+283,Tyrogue,No Eggs Discovered,
+284,Hitmontop,Human-Like,
+285,Smoochum,No Eggs Discovered,
+286,Elekid,No Eggs Discovered,
+287,Magby,No Eggs Discovered,
+288,Miltank,Field,
+289,Blissey,Fairy,
+290,Raikou,No Eggs Discovered,
+291,Entei,No Eggs Discovered,
+292,Suicune,No Eggs Discovered,
+293,Larvitar,Monster,
+294,Pupitar,Monster,
+295,Tyranitar,Monster,
+297,Lugia,No Eggs Discovered,
+298,Ho-Oh,No Eggs Discovered,
+299,Celebi,No Eggs Discovered,
+300,Treecko,Monster,Dragon
+301,Grovyle,Monster,Dragon
+302,Sceptile,Monster,Dragon
+304,Torchic,Field,
+305,Combusken,Field,
+306,Blaziken,Field,
+308,Mudkip,Monster,Water 1
+309,Marshtomp,Monster,Water 1
+310,Swampert,Monster,Water 1
+312,Poochyena,Field,
+313,Mightyena,Field,
+314,Zigzagoon,Field,
+316,Linoone,Field,
+318,Wurmple,Bug,
+319,Silcoon,Bug,
+320,Beautifly,Bug,
+321,Cascoon,Bug,
+322,Dustox,Bug,
+323,Lotad,Water 1,Grass
+324,Lombre,Water 1,Grass
+325,Ludicolo,Water 1,Grass
+326,Seedot,Field,Grass
+327,Nuzleaf,Field,Grass
+328,Shiftry,Field,Grass
+329,Taillow,Flying,
+330,Swellow,Flying,
+331,Wingull,Water 1,Flying
+332,Pelipper,Water 1,Flying
+333,Ralts,Human-Like*,Amorphous
+334,Kirlia,Human-Like*,Amorphous
+335,Gardevoir,Human-Like*,Amorphous
+337,Surskit,Water 1,Bug
+338,Masquerain,Water 1,Bug
+339,Shroomish,Fairy,Grass
+340,Breloom,Fairy,Grass
+341,Slakoth,Field,
+342,Vigoroth,Field,
+343,Slaking,Field,
+344,Nincada,Bug,
+345,Ninjask,Bug,
+346,Shedinja,Mineral,
+347,Whismur,Monster,Field
+348,Loudred,Monster,Field
+349,Exploud,Monster,Field
+350,Makuhita,Human-Like,
+351,Hariyama,Human-Like,
+352,Azurill,No Eggs Discovered,
+353,Nosepass,Mineral,
+354,Skitty,Field,Fairy
+355,Delcatty,Field,Fairy
+356,Sableye,Human-Like,
+358,Mawile,Field,Fairy
+360,Aron,Monster,
+361,Lairon,Monster,
+362,Aggron,Monster,
+364,Meditite,Human-Like,
+365,Medicham,Human-Like,
+367,Electrike,Field,
+368,Manectric,Field,
+370,Plusle,Fairy,
+371,Minun,Fairy,
+372,Volbeat,Bug,Human-Like
+373,Illumise,Bug,Human-Like
+374,Roselia,Fairy,Grass
+375,Gulpin,Amorphous,
+376,Swalot,Amorphous,
+377,Carvanha,Water 2,
+378,Sharpedo,Water 2,
+380,Wailmer,Field,Water 2
+381,Wailord,Field,Water 2
+382,Numel,Field,
+383,Camerupt,Field,
+385,Torkoal,Field,
+386,Spoink,Field,
+387,Grumpig,Field,
+388,Spinda,Field,Human-Like
+389,Trapinch,Bug,Dragon*
+390,Vibrava,Bug,Dragon*
+391,Flygon,Bug,Dragon*
+392,Cacnea,Grass,Human-Like
+393,Cacturne,Grass,Human-Like
+394,Swablu,Flying,Dragon
+395,Altaria,Flying,Dragon
+397,Zangoose,Field,
+398,Seviper,Field,Dragon
+399,Lunatone,Mineral,
+400,Solrock,Mineral,
+401,Barboach,Water 2,
+402,Whiscash,Water 2,
+403,Corphish,Water 1,Water 3
+404,Crawdaunt,Water 1,Water 3
+405,Baltoy,Mineral,
+406,Claydol,Mineral,
+407,Lileep,Water 3,
+408,Cradily,Water 3,
+409,Anorith,Water 3,
+410,Armaldo,Water 3,
+411,Feebas,Water 1,Dragon
+412,Milotic,Water 1,Dragon
+413,Castform,Fairy,Amorphous
+417,Kecleon,Field,
+418,Shuppet,Amorphous,
+419,Banette,Amorphous,
+421,Duskull,Amorphous,
+422,Dusclops,Amorphous,
+423,Tropius,Monster,Grass
+424,Chimecho,Amorphous,
+425,Absol,Field,
+427,Wynaut,No Eggs Discovered,
+428,Snorunt,Fairy,Mineral
+429,Glalie,Fairy,Mineral
+431,Spheal,Water 1,Field
+432,Sealeo,Water 1,Field
+433,Walrein,Water 1,Field
+434,Clamperl,Water 1,
+435,Huntail,Water 1,
+436,Gorebyss,Water 1,
+437,Relicanth,Water 1,Water 2
+438,Luvdisc,Water 2,
+439,Bagon,Dragon,
+440,Shelgon,Dragon,
+441,Salamence,Dragon,
+443,Beldum,Mineral,
+444,Metang,Mineral,
+445,Metagross,Mineral,
+447,Regirock,No Eggs Discovered,
+448,Regice,No Eggs Discovered,
+449,Registeel,No Eggs Discovered,
+450,Latias,No Eggs Discovered,
+452,Latios,No Eggs Discovered,
+454,Kyogre,No Eggs Discovered,
+456,Groudon,No Eggs Discovered,
+458,Rayquaza,No Eggs Discovered,
+460,Jirachi,No Eggs Discovered,
+461,Deoxys,No Eggs Discovered,
+465,Turtwig,Monster,Grass
+466,Grotle,Monster,Grass
+467,Torterra,Monster,Grass
+468,Chimchar,Field,Human-Like
+469,Monferno,Field,Human-Like
+470,Infernape,Field,Human-Like
+471,Piplup,Water 1,Field
+472,Prinplup,Water 1,Field
+473,Empoleon,Water 1,Field
+474,Starly,Flying,
+475,Staravia,Flying,
+476,Staraptor,Flying,
+477,Bidoof,Water 1,Field
+478,Bibarel,Water 1,Field
+479,Kricketot,Bug,
+480,Kricketune,Bug,
+481,Shinx,Field,
+482,Luxio,Field,
+483,Luxray,Field,
+484,Budew,No Eggs Discovered,
+485,Roserade,Fairy,Grass
+486,Cranidos,Monster,
+487,Rampardos,Monster,
+488,Shieldon,Monster,
+489,Bastiodon,Monster,
+490,Burmy,Bug,
+493,Wormadam,Bug,
+496,Mothim,Bug,
+497,Combee,Bug,
+498,Vespiquen,Bug,
+499,Pachirisu,Field,Fairy
+500,Buizel,Water 1,Field
+501,Floatzel,Water 1,Field
+502,Cherubi,Fairy,Grass
+503,Cherrim,Fairy,Grass
+505,Shellos,Water 1,Amorphous
+507,Gastrodon,Water 1,Amorphous
+509,Ambipom,Field,
+510,Drifloon,Amorphous,
+511,Drifblim,Amorphous,
+512,Buneary,Field,Human-Like
+513,Lopunny,Field,Human-Like
+515,Mismagius,Amorphous,
+516,Honchkrow,Flying,
+517,Glameow,Field,
+518,Purugly,Field,
+519,Chingling,No Eggs Discovered,
+520,Stunky,Field,
+521,Skuntank,Field,
+522,Bronzor,Mineral,
+523,Bronzong,Mineral,
+524,Bonsly,No Eggs Discovered,
+525,Mime Jr.,No Eggs Discovered,
+526,Happiny,No Eggs Discovered,
+527,Chatot,Flying,
+528,Spiritomb,Amorphous,
+529,Gible,Monster,Dragon
+530,Gabite,Monster,Dragon
+531,Garchomp,Monster,Dragon
+533,Munchlax,No Eggs Discovered,
+534,Riolu,No Eggs Discovered,
+535,Lucario,Field,Human-Like
+537,Hippopotas,Field,
+538,Hippowdon,Field,
+539,Skorupi,Bug,Water 3
+540,Drapion,Bug,Water 3
+541,Croagunk,Human-Like,
+542,Toxicroak,Human-Like,
+543,Carnivine,Grass,
+544,Finneon,Water 2,
+545,Lumineon,Water 2,
+546,Mantyke,No Eggs Discovered,
+547,Snover,Monster,Grass
+548,Abomasnow,Monster,Grass
+550,Weavile,Field,
+551,Magnezone,Mineral,
+552,Lickilicky,Monster,
+553,Rhyperior,Monster,Field
+554,Tangrowth,Grass,
+555,Electivire,Human-Like,
+556,Magmortar,Human-Like,
+557,Togekiss,Flying,Fairy
+558,Yanmega,Bug,
+559,Leafeon,Field,
+560,Glaceon,Field,
+561,Gliscor,Bug,
+562,Mamoswine,Field,
+563,Porygon-Z,Mineral,
+564,Gallade,Human-Like*,Amorphous
+566,Probopass,Mineral,
+567,Dusknoir,Amorphous,
+568,Froslass,Fairy,Mineral
+569,Rotom,Amorphous,
+575,Uxie,No Eggs Discovered,
+576,Mesprit,No Eggs Discovered,
+577,Azelf,No Eggs Discovered,
+578,Dialga,No Eggs Discovered,
+579,Palkia,No Eggs Discovered,
+580,Heatran,No Eggs Discovered,
+581,Regigigas,No Eggs Discovered,
+582,Giratina,No Eggs Discovered,
+584,Cresselia,No Eggs Discovered,
+585,Phione,Water 1,Fairy
+586,Manaphy,Water 1,Fairy
+587,Darkrai,No Eggs Discovered,
+588,Shaymin,No Eggs Discovered,
+590,Arceus,No Eggs Discovered,
+591,Victini,No Eggs Discovered,
+592,Snivy,Field,Grass
+593,Servine,Field,Grass
+594,Serperior,Field,Grass
+595,Tepig,Field,
+596,Pignite,Field,
+597,Emboar,Field,
+598,Oshawott,Field,
+599,Dewott,Field,
+600,Samurott,Field,
+601,Patrat,Field,
+602,Watchog,Field,
+603,Lillipup,Field,
+604,Herdier,Field,
+605,Stoutland,Field,
+606,Purrloin,Field,
+607,Liepard,Field,
+608,Pansage,Field,
+609,Simisage,Field,
+610,Pansear,Field,
+611,Simisear,Field,
+612,Panpour,Field,
+613,Simipour,Field,
+614,Munna,Field,
+615,Musharna,Field,
+616,Pidove,Flying,
+617,Tranquill,Flying,
+618,Unfezant,Flying,
+619,Blitzle,Field,
+620,Zebstrika,Field,
+621,Roggenrola,Mineral,
+622,Boldore,Mineral,
+623,Gigalith,Mineral,
+624,Woobat,Field,Flying
+625,Swoobat,Field,Flying
+626,Drilbur,Field,
+627,Excadrill,Field,
+628,Audino,Fairy,
+630,Timburr,Human-Like,
+631,Gurdurr,Human-Like,
+632,Conkeldurr,Human-Like,
+633,Tympole,Water 1,
+634,Palpitoad,Water 1,
+635,Seismitoad,Water 1,
+636,Throh,Human-Like,
+637,Sawk,Human-Like,
+638,Sewaddle,Bug,
+639,Swadloon,Bug,
+640,Leavanny,Bug,
+641,Venipede,Bug,
+642,Whirlipede,Bug,
+643,Scolipede,Bug,
+644,Cottonee,Grass,Fairy
+645,Whimsicott,Grass,Fairy
+646,Petilil,Grass,
+647,Lilligant,Grass,
+648,Basculin,Water 2,
+650,Sandile,Field,
+651,Krokorok,Field,
+652,Krookodile,Field,
+653,Darumaka,Field,
+655,Darmanitan,Field,
+659,Maractus,Grass,
+660,Dwebble,Bug,Mineral
+661,Crustle,Bug,Mineral
+662,Scraggy,Field,Dragon
+663,Scrafty,Field,Dragon
+664,Sigilyph,Flying,
+665,Yamask,Mineral,Amorphous
+667,Cofagrigus,Mineral,Amorphous
+668,Tirtouga,Water 1,Water 3
+669,Carracosta,Water 1,Water 3
+670,Archen,Flying,Water 3
+671,Archeops,Flying,Water 3
+672,Trubbish,Mineral,
+673,Garbodor,Mineral,
+674,Zorua,Field,
+675,Zoroark,Field,
+676,Minccino,Field,
+677,Cinccino,Field,
+678,Gothita,Human-Like,
+679,Gothorita,Human-Like,
+680,Gothitelle,Human-Like,
+681,Solosis,Amorphous,
+682,Duosion,Amorphous,
+683,Reuniclus,Amorphous,
+684,Ducklett,Water 1,Flying
+685,Swanna,Water 1,Flying
+686,Vanillite,Mineral,
+687,Vanillish,Mineral,
+688,Vanilluxe,Mineral,
+689,Deerling,Field,
+693,Sawsbuck,Field,
+697,Emolga,Field,
+698,Karrablast,Bug,
+699,Escavalier,Bug,
+700,Foongus,Grass,
+701,Amoonguss,Grass,
+702,Frillish,Amorphous,
+703,Jellicent,Amorphous,
+704,Alomomola,Water 1,Water 2
+705,Joltik,Bug,
+706,Galvantula,Bug,
+707,Ferroseed,Grass,Mineral
+708,Ferrothorn,Grass,Mineral
+709,Klink,Mineral,
+710,Klang,Mineral,
+711,Klinklang,Mineral,
+712,Tynamo,Amorphous,
+713,Eelektrik,Amorphous,
+714,Eelektross,Amorphous,
+715,Elgyem,Human-Like,
+716,Beheeyem,Human-Like,
+717,Litwick,Amorphous,
+718,Lampent,Amorphous,
+719,Chandelure,Amorphous,
+720,Axew,Monster,Dragon
+721,Fraxure,Monster,Dragon
+722,Haxorus,Monster,Dragon
+723,Cubchoo,Field,
+724,Beartic,Field,
+725,Cryogonal,Mineral,
+726,Shelmet,Bug,
+727,Accelgor,Bug,
+728,Stunfisk,Water 1,Amorphous
+730,Mienfoo,Field,Human-Like
+731,Mienshao,Field,Human-Like
+732,Druddigon,Dragon,Monster
+733,Golett,Mineral,
+734,Golurk,Mineral,
+735,Pawniard,Human-Like,
+736,Bisharp,Human-Like,
+737,Bouffalant,Field,
+738,Rufflet,Flying,
+739,Braviary,Flying,
+740,Vullaby,Flying,
+741,Mandibuzz,Flying,
+742,Heatmor,Field,
+743,Durant,Bug,
+744,Deino,Dragon,
+745,Zweilous,Dragon,
+746,Hydreigon,Dragon,
+747,Larvesta,Bug,
+748,Volcarona,Bug,
+749,Cobalion,No Eggs Discovered,
+750,Terrakion,No Eggs Discovered,
+751,Virizion,No Eggs Discovered,
+752,Tornadus,No Eggs Discovered,
+754,Thundurus,No Eggs Discovered,
+756,Reshiram,No Eggs Discovered,
+757,Zekrom,No Eggs Discovered,
+758,Landorus,No Eggs Discovered,
+760,Kyurem,No Eggs Discovered,
+763,Keldeo,No Eggs Discovered,
+765,Meloetta,No Eggs Discovered,
+767,Genesect,No Eggs Discovered,
+768,Chespin,Field,
+769,Quilladin,Field,
+770,Chesnaught,Field,
+771,Fennekin,Field,
+772,Braixen,Field,
+773,Delphox,Field,
+774,Froakie,Water 1,
+775,Frogadier,Water 1,
+776,Greninja,Water 1,
+778,Bunnelby,Field,
+779,Diggersby,Field,
+780,Fletchling,Flying,
+781,Fletchinder,Flying,
+782,Talonflame,Flying,
+783,Scatterbug,Bug,
+784,Spewpa,Bug,
+785,Vivillon,Bug,
+786,Litleo,Field,
+787,Pyroar,Field,
+788,Flabébé,Fairy,
+789,Floette,Fairy,
+790,Florges,Fairy,
+791,Skiddo,Field,
+792,Gogoat,Field,
+793,Pancham,Field,Human-Like
+794,Pangoro,Field,Human-Like
+795,Furfrou,Field,
+796,Espurr,Field,
+797,Meowstic,Field,
+799,Honedge,Mineral,
+800,Doublade,Mineral,
+801,Aegislash,Mineral,
+803,Spritzee,Fairy,
+804,Aromatisse,Fairy,
+805,Swirlix,Fairy,
+806,Slurpuff,Fairy,
+807,Inkay,Water 1,Water 2
+808,Malamar,Water 1,Water 2
+809,Binacle,Water 3,
+810,Barbaracle,Water 3,
+811,Skrelp,Water 1,Dragon
+812,Dragalge,Water 1,Dragon
+813,Clauncher,Water 1,Water 3
+814,Clawitzer,Water 1,Water 3
+815,Helioptile,Monster,Dragon
+816,Heliolisk,Monster,Dragon
+817,Tyrunt,Monster,Dragon
+818,Tyrantrum,Monster,Dragon
+819,Amaura,Monster,
+820,Aurorus,Monster,
+821,Sylveon,Field,
+822,Hawlucha,Flying*,Human-Like
+823,Dedenne,Field,Fairy
+824,Carbink,Fairy,Mineral
+825,Goomy,Dragon,
+826,Sliggoo,Dragon,
+827,Goodra,Dragon,
+828,Klefki,Mineral,
+829,Phantump,Grass,Amorphous
+830,Trevenant,Grass,Amorphous
+831,Pumpkaboo,Amorphous,
+835,Gourgeist,Amorphous,
+839,Bergmite,Monster,Mineral*
+840,Avalugg,Monster,Mineral*
+841,Noibat,Flying,Dragon*
+842,Noivern,Flying,Dragon*
+843,Xerneas,No Eggs Discovered,
+844,Yveltal,No Eggs Discovered,
+845,Zygarde,No Eggs Discovered,
+848,Diancie,No Eggs Discovered,
+850,Hoopa,No Eggs Discovered,
+852,Volcanion,No Eggs Discovered,
+853,Rowlet,Flying,
+854,Dartrix,Flying,
+855,Decidueye,Flying,
+856,Litten,Field,
+857,Torracat,Field,
+858,Incineroar,Field,
+859,Popplio,Water 1,Field
+860,Brionne,Water 1,Field
+861,Primarina,Water 1,Field
+862,Pikipek,Flying,
+863,Trumbeak,Flying,
+864,Toucannon,Flying,
+865,Yungoos,Field,
+866,Gumshoos,Field,
+867,Grubbin,Bug,
+868,Charjabug,Bug,
+869,Vikavolt,Bug,
+870,Crabrawler,Water 3,
+871,Crabominable,Water 3,
+872,Oricorio,Flying,
+876,Cutiefly,Bug,Fairy
+877,Ribombee,Bug,Fairy
+878,Rockruff,Field,
+880,Lycanroc,Field,
+883,Wishiwashi,Water 2,
+885,Mareanie,Water 1,
+886,Toxapex,Water 1,
+887,Mudbray,Field,
+888,Mudsdale,Field,
+889,Dewpider,Water 1,Bug
+890,Araquanid,Water 1,Bug
+891,Fomantis,Grass,
+892,Lurantis,Grass,
+893,Morelull,Grass,
+894,Shiinotic,Grass,
+895,Salandit,Monster,Dragon
+896,Salazzle,Monster,Dragon
+897,Stufful,Field,
+898,Bewear,Field,
+899,Bounsweet,Grass,
+900,Steenee,Grass,
+901,Tsareena,Grass,
+902,Comfey,Grass,
+903,Oranguru,Field,
+904,Passimian,Field,
+905,Wimpod,Bug,Water 3
+906,Golisopod,Bug,Water 3
+907,Sandygast,Amorphous,
+908,Palossand,Amorphous,
+909,Pyukumuku,Water 1,
+910,Type: Null,No Eggs Discovered,
+911,Silvally,No Eggs Discovered,
+912,Minior,Mineral,
+914,Komala,Field,
+915,Turtonator,Monster,Dragon
+916,Togedemaru,Field,Fairy
+917,Mimikyu,Amorphous,
+918,Bruxish,Water 2,
+919,Drampa,Monster,Dragon
+920,Dhelmise,Mineral,
+921,Jangmo-o,Dragon,
+922,Hakamo-o,Dragon,
+923,Kommo-o,Dragon,
+924,Tapu Koko,No Eggs Discovered,
+925,Tapu Lele,No Eggs Discovered,
+926,Tapu Bulu,No Eggs Discovered,
+927,Tapu Fini,No Eggs Discovered,
+928,Cosmog,No Eggs Discovered,
+929,Cosmoem,No Eggs Discovered,
+930,Solgaleo,No Eggs Discovered,
+931,Lunala,No Eggs Discovered,
+932,Nihilego,No Eggs Discovered,
+933,Buzzwole,No Eggs Discovered,
+934,Pheromosa,No Eggs Discovered,
+935,Xurkitree,No Eggs Discovered,
+936,Celesteela,No Eggs Discovered,
+937,Kartana,No Eggs Discovered,
+938,Guzzlord,No Eggs Discovered,
+939,Necrozma,No Eggs Discovered,
+943,Magearna,No Eggs Discovered,
+944,Marshadow,No Eggs Discovered,
+945,Poipole,No Eggs Discovered,
+946,Naganadel,No Eggs Discovered,
+947,Stakataka,No Eggs Discovered,
+948,Blacephalon,No Eggs Discovered,
+949,Zeraora,No Eggs Discovered,
+950,Meltan,No Eggs Discovered,
+951,Melmetal,No Eggs Discovered,
+952,Grookey,Field,Grass
+953,Thwackey,Field,Grass
+954,Rillaboom,Field,Grass
+955,Scorbunny,Field,Human-Like
+956,Raboot,Field,Human-Like
+957,Cinderace,Field,Human-Like
+958,Sobble,Water 1,Field
+959,Drizzile,Water 1,Field
+960,Inteleon,Water 1,Field
+961,Skwovet,Field,
+962,Greedent,Field,
+963,Rookidee,Flying,
+964,Corvisquire,Flying,
+965,Corviknight,Flying,
+966,Blipbug,Bug,
+967,Dottler,Bug,
+968,Orbeetle,Bug,
+969,Nickit,Field,
+970,Thievul,Field,
+971,Gossifleur,Grass,
+972,Eldegoss,Grass,
+973,Wooloo,Field,
+974,Dubwool,Field,
+975,Chewtle,Monster,Water 1
+976,Drednaw,Monster,Water 1
+977,Yamper,Field,
+978,Boltund,Field,
+979,Rolycoly,Mineral,
+980,Carkol,Mineral,
+981,Coalossal,Mineral,
+982,Applin,Grass,Dragon
+983,Flapple,Grass,Dragon
+984,Appletun,Grass,Dragon
+985,Silicobra,Field,Dragon
+986,Sandaconda,Field,Dragon
+987,Cramorant,Water 1,Flying
+988,Arrokuda,Water 2,
+989,Barraskewda,Water 2,
+990,Toxel,No Eggs Discovered,
+991,Toxtricity,Human-Like,
+993,Sizzlipede,Bug,
+994,Centiskorch,Bug,
+995,Clobbopus,Water 1,Human-Like
+996,Grapploct,Water 1,Human-Like
+997,Sinistea,Mineral,Amorphous
+998,Polteageist,Mineral,Amorphous
+999,Hatenna,Fairy,
+1000,Hattrem,Fairy,
+1001,Hatterene,Fairy,
+1002,Impidimp,Fairy,Human-Like
+1003,Morgrem,Fairy,Human-Like
+1004,Grimmsnarl,Fairy,Human-Like
+1005,Obstagoon,Field,
+1006,Perrserker,Field,
+1007,Cursola,Water 1,Water 3
+1008,Sirfetch'd,Flying,Field
+1009,Mr. Rime,Human-Like,
+1010,Runerigus,Mineral,Amorphous
+1011,Milcery,Fairy,Amorphous
+1012,Alcremie,Fairy,Amorphous
+1013,Falinks,Fairy,Mineral
+1014,Pincurchin,Water 1,Amorphous
+1015,Snom,Bug,
+1016,Frosmoth,Bug,
+1017,Stonjourner,Mineral,
+1018,Eiscue,Water 1,Field
+1020,Indeedee,Fairy,
+1022,Morpeko,Field,Fairy
+1023,Cufant,Field,Mineral
+1024,Copperajah,Field,Mineral
+1025,Dracozolt,No Eggs Discovered,
+1026,Arctozolt,No Eggs Discovered,
+1027,Dracovish,No Eggs Discovered,
+1028,Arctovish,No Eggs Discovered,
+1029,Duraludon,Mineral,Dragon
+1030,Dreepy,Amorphous,Dragon
+1031,Drakloak,Amorphous,Dragon
+1032,Dragapult,Amorphous,Dragon
+1033,Zacian,No Eggs Discovered,
+1035,Zamazenta,No Eggs Discovered,
+1037,Eternatus,No Eggs Discovered,
+1038,Kubfu,No Eggs Discovered,
+1039,Urshifu,No Eggs Discovered,
+1041,Zarude,No Eggs Discovered,
+1042,Regieleki,No Eggs Discovered,
+1043,Regidrago,No Eggs Discovered,
+1044,Glastrier,No Eggs Discovered,
+1045,Spectrier,No Eggs Discovered,
+1046,Calyrex,No Eggs Discovered,
