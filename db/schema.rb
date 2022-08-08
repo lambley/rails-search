@@ -10,8 +10,43 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 0) do
+ActiveRecord::Schema[7.0].define(version: 2022_08_08_195540) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "egg_groups", force: :cascade do |t|
+    t.string "pokemon_id"
+    t.string "name"
+    t.string "group_one"
+    t.string "group_two"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "pokemons", force: :cascade do |t|
+    t.integer "number"
+    t.integer "code"
+    t.string "name"
+    t.string "type_one"
+    t.string "type_two"
+    t.string "colour"
+    t.string "ability_one"
+    t.string "ability_two"
+    t.string "ability_hidden"
+    t.integer "generation"
+    t.boolean "legendary"
+    t.boolean "mega_evo"
+    t.float "height"
+    t.float "weight"
+    t.integer "hp"
+    t.integer "atk"
+    t.integer "def"
+    t.integer "sp_atk"
+    t.integer "sp_def"
+    t.integer "spd"
+    t.integer "total_stat"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
 
 end
