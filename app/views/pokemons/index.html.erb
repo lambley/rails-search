@@ -1,0 +1,5 @@
+<div class="pokemon-index">
+  <% @pokemons.each do |p| %>
+    <%= render 'pokemons/card', pokemon: p %>
+  <% end %>
+</div>

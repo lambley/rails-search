@@ -1,0 +1,13 @@
+.pokemon-index {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  gap: 8px 16px;
+}
+
+.pokemon-card {
+  width: 200px;
+  padding: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 4px;
+}
