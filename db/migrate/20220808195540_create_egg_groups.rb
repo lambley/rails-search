@@ -4,7 +4,7 @@ class CreateEggGroups < ActiveRecord::Migration[7.0]
       t.string :name
       t.string :group_one
       t.string :group_two
-      t.references :pokemon_id, null: false, foreign_key: true
+      t.references :pokemon, null: false, foreign_key: true
 
       t.timestamps
     end
