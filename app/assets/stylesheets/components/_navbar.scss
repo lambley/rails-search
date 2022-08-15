@@ -1,7 +1,7 @@
 /* Add a black background color to the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: #ffffff9c;
+  background-color: $navbar;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
@@ -11,14 +11,14 @@
 .topnav a {
   float: left;
   display: block;
-  color: $black;
+  color: #FFCB05;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 2em;
   &:hover {
-    background-color: #04518f54;
-    color: #0000005b;
+    background-color: #3D7DCA;
+    color: white;
   }
 }
 

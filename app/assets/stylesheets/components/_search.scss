@@ -12,18 +12,18 @@
   // border-top-left-radius: 8px;
   // border-bottom-left-radius: 8px;
   border-radius: 8px;
-  background-color: #cdd0d2ba;
-  box-shadow: inset -3px -3px 6px 2px #00000014;
+  background-color: white;
+  box-shadow: inset 1px 1px 4px 3px grey;
   transition: all 1s;
   &:focus {
-    background-color: #04518f17;
+    background-color: rgba(255, 255, 255, 0.895);
     flex-grow: 0.5;
     transition: all 1s;
     border: none;
   }
   &:focus-visible {
     outline: none;
-    box-shadow: inset 1px 1px 4px 3px grey;
+    //box-shadow: inset 1px 1px 4px 3px grey;
   }
 }
 
