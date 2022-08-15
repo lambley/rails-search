@@ -28,42 +28,6 @@
   color: #ffffffdd;
 }
 
-/* Style the search box inside the navigation bar */
-.search-navbar {
-  display: flex;
-  justify-content: end;
-  text-align-last: center;
-  margin: 10px 0px;
-}
-
-.search-field {
-  padding: 8px;
-  border: none;
-  margin: 8px 0px 8px 8px;
-  border-top-left-radius: 8px;
-  border-bottom-left-radius: 8px;
-  background-color: #cdd0d2ba;
-  box-shadow: inset -3px -3px 6px 2px #00000014;
-  transition: all 1s;
-  &:focus {
-    background-color: #04518f17;
-    flex-grow: 0.5;
-    transition: all 1s;
-    border: none;
-  }
-}
-
-.search-button {
-  padding: 8px;
-  border: none;
-  margin: 8px 8px 8px 0px;
-  border-top-right-radius: 8px;
-  border-bottom-right-radius: 8px;
-  box-shadow: inset -3px -3px 6px 2px #00000014;
-  background-color: $confirm;
-  color: white;
-}
-
 /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
 @media screen and (max-width: 600px) {
   .topnav a, .topnav input[type=text] {
