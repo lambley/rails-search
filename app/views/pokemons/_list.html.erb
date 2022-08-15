@@ -1,0 +1,13 @@
+<% if params[:query].blank? %>
+  <h1 class='h3'>Listing all <%= pluralize pokemons.count, 'pokemon' %> Pokemon</h1>
+<% else %>
+  <h1 class='h3'><%= pluralize pokemons.count, 'result' %> for <code><%= params[:query] %></code></h1>
+<% end %>
+<div class='pokemon-index'>
+  <% pokemons.each do |pokemon| %>
+    <!--<%= render 'pokemons/card', pokemon: pokemon %> -->
+    <div class="pokemon-card">
+      <%= pokemon.number %>. <%= pokemon.name %>
+    </div>
+  <% end %>
+</div>
