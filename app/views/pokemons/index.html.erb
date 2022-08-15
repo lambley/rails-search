@@ -1,17 +1,18 @@
-<div class="search">
-  <%= form_tag pokemons_path, method: :get, class: "search" do %>
-    <%=
-      text_field_tag :query,
-      params[:query],
-      class: "search-field",
-      placeholder: "Find a pokemon"
-    %>
-    <%= submit_tag "Search", class: "search-button" %>
-  <% end %>
-</div>
-
-<div class="pokemon-index">
-  <% @pokemons.each do |p| %>
-    <%= render 'pokemons/card', pokemon: p %>
-  <% end %>
+<div class="container" data-controller="refresh-list">
+  <div class="search">
+    <%= form_with url: pokemons_path, method: :get, html: { class: 'search', data: { refresh_list_target: 'form'}} do |f| %>
+      <%=
+        f.text_field  :query,
+                      value: params[:query],
+                      class: 'search-field',
+                      placeholder: 'Find a pokemon',
+                      data: {
+                        refresh_list_target: 'searchInput',
+                        action: "keyup->refresh-list#update"
+                      } %>
+    <% end %>
+  </div>
+  <div data-refresh-list-target='list'>
+    <%= render 'pokemons/list', pokemons: @pokemons %>
+  </div>
 </div>
