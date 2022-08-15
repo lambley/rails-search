@@ -32,7 +32,8 @@ csv.each do |row|
     sp_atk: row['sp_atk'],
     sp_def: row['sp_def'],
     spd: row['spd'],
-    total_stat: row['total_stat']
+    total_stat: row['total_stat'],
+    img_source: row['img_source']
   )
   counter += 1 if p.persisted?
 end
