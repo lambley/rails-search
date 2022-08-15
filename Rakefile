@@ -19,4 +19,6 @@ namespace :pokemon do
       end
     end
   end
+  desc "Scrape sprites from pokemondb"
+  task scrape: [:environment]
 end
