@@ -1,4 +1,6 @@
 require 'csv'
+require 'open-uri'
+require 'json'
 
 # seed Pokemon
 puts "Generating pokemon..."
@@ -35,6 +37,8 @@ csv.each do |row|
     total_stat: row['total_stat'],
     img_source: row['img_source']
   )
+  url = "https://pokeapi.co/api/v2/pokemon-species/#{p.number}"
+  # open url - see here https://github.com/PokeAPI/pokeapi/issues/573
   counter += 1 if p.persisted?
 end
 
