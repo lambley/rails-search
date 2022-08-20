@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_08_15_145935) do
+ActiveRecord::Schema[7.0].define(version: 2022_08_20_092320) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -49,6 +49,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_08_15_145935) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "img_source"
+    t.text "entry"
   end
 
   add_foreign_key "egg_groups", "pokemons"
