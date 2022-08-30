@@ -16,8 +16,7 @@ class PokemonsController < ApplicationController
   private
 
   def unique_all
-    ids = Pokemon.select("MIN(id) as id").group(:number, :name).collect(&:id)
-    Pokemon.where(id: ids)
+    Pokemon.where(code: 1)
   end
 
 end
