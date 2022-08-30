@@ -4,7 +4,6 @@ import { Controller } from "@hotwired/stimulus"
 export default class extends Controller {
   static targets = ["show", "entry", "close"]
   connect() {
-    console.log("show more connected");
   }
   displayEntry(event) {
     console.log(event.path[2].innerText);
