@@ -13,7 +13,7 @@ csv = CSV.parse(csv_text, headers: true, encoding: 'ISO-8859-1')
 
 counter = 0
 csv.each do |row|
-  p = Pokemon.create(
+  p = Pokemon.new(
     number: row['number'],
     code: row['code'],
     name: row['name'],
@@ -37,9 +37,15 @@ csv.each do |row|
     total_stat: row['total_stat'],
     img_source: row['img_source']
   )
-  url = "https://pokeapi.co/api/v2/pokemon-species/#{p.number}"
-  # open url - see here https://github.com/PokeAPI/pokeapi/issues/573
-  counter += 1 if p.persisted?
+  # Using PokeApi: example for bulbasaur PokeApi.get(pokemon_species: 1).flavor_text_entries.first
+  pokedex_entries = PokeApi.get(pokemon_species: p.number).flavor_text_entries
+  p.entry = pokedex_entries.find { |e| e.language.name == "en" }.flavor_text.gsub("\n", " ").gsub("\f", " ")
+  if p.save
+    counter += 1
+    p "> Pokemon #{counter}: #{p.name} generated. #{p.entry? ? 'Entry generated successfully' : 'No Entry generated'}"
+  else
+    p "> ERROR: failed to generate Pokemon #{p.number}."
+  end
 end
 
 puts "> #{counter} pokemon created (total records: #{Pokemon.count})."
