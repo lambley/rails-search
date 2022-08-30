@@ -1,3 +1,8 @@
 <div class="topnav">
-  <%= link_to "home", root_path %>
+  <%= link_to root_path do%>
+    <div class="d-flex">
+      <i class="fa-solid fa-house nav-item"></i>
+      <h1 class="nav-item">PokéSearch</h1>
+    </div>
+  <% end %>
 </div>
