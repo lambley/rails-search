@@ -1,4 +1,11 @@
-<div class="pokemon-card">
+<div class="pokemon-card" data-controller="show-more">
   <%= image_tag pokemon.img_source, class: "card-img-top" %>
-  <%= pokemon.number %>. <%= pokemon.name %>
+  <p>
+    <%= pokemon.number %>. <%= pokemon.name %>
+    <i class="fa-solid fa-circle-info" data-action="click->show-more#displayEntry" data-show-more-target="show"></i>
+  </p>
+  <p class="card-display-none" data-show-more-target="entry">
+    <%= pokemon.entry %>
+    <i class="fa-solid fa-circle-xmark" data-action="click->show-more#hideEntry"></i>
+  </p>
 </div>

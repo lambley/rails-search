@@ -5,7 +5,6 @@ export default class extends Controller {
   static targets = [ "form", "list", "searchInput" ]
 
   connect() {
-    console.log('refresh list connected');
   }
 
   update() {

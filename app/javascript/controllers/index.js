@@ -9,3 +9,6 @@ application.register("hello", HelloController)
 
 import RefreshListController from "./refresh_list_controller"
 application.register("refresh-list", RefreshListController)
+
+import ShowMoreController from "./show_more_controller"
+application.register("show-more", ShowMoreController)
